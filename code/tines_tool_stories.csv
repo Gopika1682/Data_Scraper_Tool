@@ -1,0 +1,1812 @@
+Tool Name,Story,Works with,No.of actions,Author
+Slack,Analyze CrowdStrike detections,"CrowdStrike, Jira Software, Slack, VirusTotal",13,null
+Slack,Process and handle Slack callbacks with various methods,Slack,48,Audrey Kwong
+Slack,Triage alerts with agents using SOPs in Confluence,"AbuseIPDB, Confluence, CrowdStrike, EmailRep, Okta, Slack, Tavily, Tines, URLScan.io, VirusTotal",8,Pete Wrenn
+Slack,Update Slack Status based on Zoom Meetings,"Slack, Zoom",7,Sabrina de Silva
+Slack,Onboard new BambooHR starters using an agent,"BambooHR, Jira Software, Okta, Slack",7,Conor Dunne
+Slack,Troubleshoot broken Tines actions using an AI Agent chatbot,"Microsoft Teams, Slack, Tavily, Tines",14,Michael Tolan
+Slack,Remove employee access from multiple services using the AI Agent Action,"Gmail, Okta, Slack",4,Conor Dunne
+Slack,Restricting User Access and Patching Vulnerable Devices with Kandji,"Kandji, Okta, Slack, Tines",33,Megan Elsayed
+Slack,Monitor Zendesk tickets for SLA breaches and alert in Slack and PagerDuty,"PagerDuty, Slack, Zendesk",11,Hrishikesh Kokate
+Slack,Search the internet with Tavily via Slack,"Slack, Tavily",4,Michael Tolan
+Slack,Manage RSS and YouTube subscriptions via Tines and notify on new releases,"Discord, Slack",42,Tyler Wong
+Slack,Triage Material Security cases via Slack,"Jira Software, Material Security, Slack, Tines, VirusTotal",27,Shasheen Bandodkar
+Slack,Streamline macOS software updates with self-service patch management and AI,"Jamf Pro, Slack",63,Tyler Talaga
+Slack,Manage Qualys vulnerabilities using Jira Service Management and Slack,"Jamf Pro, Jira Service Management, Qualys, Slack, Tines",81,Caleb Williams
+Slack,Add a domain to a blocklist in Zscaler,"Slack, Zscaler",15,Conor Dunne
+Slack,Implement pagination with these techniques,"Jira Software, Notion, Slack, Tenable Vulnerability Management",32,null
+Slack,Send KnowBe4 training reminders via Slack,"Knowbe4, Slack",23,null
+Slack,Create Jira issues via Slack,"Jira Software, Slack",7,null
+Slack,Send interactive messages in Slack,"Jira Software, Slack",26,null
+Slack,Get new advisories from CISA,Slack,7,null
+Slack,Lookup IOCs in different tools via Slackbot,"Abuse.ch, AbuseIPDB, Anomali ThreatStream, CrowdStrike, Hunter.io, Hybrid Analysis, MetaDefender, Pulsedive, Slack, URLScan.io, VirusTotal",66,Emily Nguyen
+Slack,Find & remediate publicly exposed S3 buckets with Wiz,"AWS, Jira Software, Slack, Wiz",13,null
+Slack,Offboard employees using BambooHR,"BambooHR, Google, Okta, Slack",18,null
+Slack,Handle Code42 alerts,"Code42, Jira Software, Slack",12,null
+Slack,Grant temporary application access,"Jira Software, Okta, Slack, Tines",30,Shaun Finn
+Slack,Add new employees to BambooHR and manage system access,"BambooHR, Google, Microsoft Azure, Okta, Slack",17,Michael Tolan
+Slack,Check CrowdStrike agent is installed on new devices provisioned,"CrowdStrike, Qualys, ServiceNow, Slack",18,Shaun Finn
+Slack,Create & manage incident communications with Slack and Jira,"Jira Software, Slack",59,Rosie Halpin
+Slack,Contain a registered device with CrowdStrike,"CrowdStrike, Jira Software, Slack",10,null
+Slack,Analyze vulnerabilities from Tenable workbench,"GreyNoise, Jira Software, Slack, Tenable Vulnerability Management",25,null
+Slack,Send an Okta MFA challenge via a Tines page,"Okta, Slack",34,null
+Slack,Monitor action failures in Tines and notify via Slack,"Slack, Tines",14,Michael Tolan
+Slack,Correlate & alert on failed login attempts in Okta via Slack,"Okta, Slack",8,null
+Slack,Enrich & remediate suspicious logins reported in Okta,"AbuseIPDB, Okta, Slack, VirusTotal",14,Derek Wohlfahrt
+Slack,Detect secrets and sensitive data shared in Slack,Slack,15,Nick Page
+Slack,Send a prompt to a Slack channel or user & take action,Slack,13,Lasse Høgsholt
+Slack,Triage new alerts in Google Alert Center with human oversight,"Google, Jira Software, Slack",19,null
+Slack,Manage CrowdStrike IOCs in Slack,"CrowdStrike, Slack",38,null
+Slack,Verify CrowdStrike is present on new devices in Jamf,"CrowdStrike, Jamf Pro, Slack",9,Conor Dunne
+Slack,"Analyze Elastic alerts, block IPs, and notify in Slack and Tines Cases","Elastic, Google, GreyNoise, Slack, Tines",10,Michael Tolan
+Slack,Check IP addresses in Panther & send results via Slack,"AbuseIPDB, Panther, Slack",20,Eoin Magner
+Slack,Detect and Respond to Okta Impossible Travel Sign-ins with Slack and Tines Cases,"Okta, Slack",25,null
+Slack,Start conversations with ChatGPT in Slack,"OpenAI, Slack",12,null
+Slack,"Detect, log and remediate AWS alerts with Orca Security and Jira","AWS, Jira Software, Orca Security, Slack",21,null
+Slack,Respond to approve and deny requests via Slack,Slack,7,null
+Slack,Crowdsource suspicious logins and suspend accounts,"GreyNoise, Jira Software, OneLogin, PagerDuty, Slack",16,null
+Slack,Submit URL for analysis via Slackbot and return screenshot of results,"Slack, URLScan.io, VirusTotal",9,null
+Slack,Incident Management with Slack and Tines Cases,Slack,90,null
+Slack,Document Tines stories in Atlassian Confluence,"Confluence, Slack",72,Tyler Talaga
+Slack,Filter Hunters alerts by risk level and create cases via Slack,"Hunters SOC Platform, Jira Software, Slack",8,null
+Slack,Send Wiz alerts to Slack and raise issues in Jira,"Jira Software, Slack, Wiz",22,null
+Slack,Receive alerts for public S3 buckets & make private,"AWS, Slack",12,null
+Slack,Email an on-call engineer with PagerDuty,"PagerDuty, Slack",21,null
+Slack,Elastic SIEM to Slack alert enrichment,"Elastic, Slack, Tines",106,Aaron Jewitt
+Slack,Send out-of-office replies in Slack,Slack,6,null
+Slack,Send an MFA push challenge to an Okta user on-demand,"Okta, Slack",11,null
+Slack,Check if host is active in CrowdStrike and take action,"CrowdStrike, Slack",14,null
+Slack,Send Tines case notifications to subscribers in Slack or Teams,"Microsoft Teams, Slack, Tines",26,Michael Tolan
+Slack,Deactivate stale AWS access keys discovered by Wiz,"AWS, ServiceNow, Slack, Wiz",17,Derek Wohlfahrt
+Slack,Chat with AWS Bedrock in Slack threads,"AWS, Slack",10,Michael Tolan
+Slack,Manage GitHub pull requests via Slack,"GitHub, Slack",14,Conor Dunne
+Slack,Analyze vulnerabilities from JupiterOne by source account,"Jira Software, JupiterOne, Slack",12,null
+Slack,Run a query in Snowflake,"Slack, Snowflake, VirusTotal, Zendesk",5,null
+Slack,Block suspicious IPs by creating firewall rule groups with CrowdStrike,"CrowdStrike, Slack",17,null
+Slack,Manage held queue messages in Mimecast,"Mimecast, Slack",19,null
+Slack,Approve user access to Okta or Office 365 using Pages,"Jira Software, Microsoft, Okta, Slack",44,null
+Slack,Implement data loss prevention policies,"Google, Panther, Slack",35,null
+Slack,Receive enriched IP information via Slack,"AbuseIPDB, GreyNoise, Slack, VirusTotal",6,Aaron Sandow
+Slack,Triage Slack help desk queries,"Jira Software, Slack",28,null
+Slack,Analyze SMS phishing with the AI action,"MISP, Slack, URLScan.io, VirusTotal",33,Michael Fischler
+Slack,Verify a user using Slack and Okta verify,"Okta, Slack",27,null
+Slack,Analyze vulnerabilities from JupiterOne by severity,"Jira Software, JupiterOne, Slack",30,null
+Slack,"Handle, enrich and notify teams of new Qualys alerts","Jira Software, Qualys, Slack",20,null
+Slack,Determine severity of LimaCharlie detections and triage,"Jira Software, LimaCharlie, Slack",21,null
+Slack,Utilize Tines prompts in Slack without opening a new browser tab,"Slack, Tines",8,null
+Slack,Create on-call Slack channels using OpsGenie groups,"OpsGenie, Slack",10,null
+Slack,Handle GitHub notifications and notify Slack,"GitHub, Slack",17,null
+Slack,Send email and post contents to Slack,Slack,3,null
+Slack,Search Google Sheets information via Slack,"Google Sheets, Slack",13,null
+Slack,Distribute decision making using ChatOps,Slack,12,null
+Slack,Monitor & respond to Slack queries from external users & respond using Zendesk,"Slack, Zendesk",80,Lasse Høgsholt
+Slack,Provide compliance information after signing an MNDA in Docusign eSignature,"DocuSign, Slack",14,null
+Slack,Analyze files with VMRay,"Microsoft, Microsoft Teams, Slack, VMRay",31,null
+Slack,Create and update Tines Cases from questions in Slack,"Slack, Tines",72,Lasse Høgsholt
+Slack,Detect and alert performance issues in devices using Elastic and Slack,"Elastic, Slack",4,Tines
+Slack,Notify users of open tickets in TheHive,"Slack, TheHive Project",10,null
+Slack,Create shift handover notes in Confluence and send reminders in Slack,"Confluence, Jira Software, Slack",13,Michael Tolan
+Slack,Create and escalate Jira issues for GitHub Advanced Security findings,"GitHub, Jira Software, Slack",6,Conor Dunne
+Slack,Remediate compliance violations with Lacework,"AWS, Lacework, Slack",12,null
+Slack,Capture product feedback and post it to Slack,"Slack, Tines",23,Tines
+Slack,Monitor Tines audit logs for action changes and send Slack alerts,"Slack, Tines",7,null
+Slack,Identify EC2 instances missing tags and configure them with a Tines page,"AWS, Slack",10,Conor Dunne
+Slack,Summarize suggested changes in Tines stories with AI,Slack,12,Tyler Talaga
+Slack,Employee recognition app with BambooHR and Slack,"BambooHR, Slack",20,null
+Slack,Create Linear issues from Slack message reactions,"Linear, Slack",13,Tines
+Slack,Manage Jira issues via Slackbot,"Jira Software, Slack",94,null
+Slack,Use OpenAI to create Tines Actions,"OpenAI, Slack",3,null
+Slack,Retrieve & enrich IOCs across multiple platforms,"Cybereason, Jira Software, PassiveTotal, Recorded Future, Slack",14,null
+Slack,Communicate across channels in Microsoft Teams and Slack,"Microsoft, Microsoft Teams, Slack",15,Michael Tolan
+Slack,Create Terraform Infrastructure as Code,"GitHub, HashiCorp, HashiCorp Terraform, ServiceNow, Slack",16,null
+Slack,Create instant Google Meets via Slackbot,"Google, Slack",5,Eoin Magner
+Slack,Sensitive files shared to personal email,"Jira Software, Slack, Splunk",26,Brandon Buhrs
+Slack,Discover new objects in collections provided by the MITRE TAXII server,"MITRE, Slack",10,Conor Dunne
+Slack,Alert on AWS Backup changes and record in CodeCommit,"AWS, Slack",32,Conor Dunne
+Slack,Backup Tines Stories to GitLab and notify Slack,"GitLab, Slack, Tines",45,Michael Tolan
+Slack,Facilitate two-way communication between Slack & Zendesk,"Slack, Zendesk",33,Lasse Høgsholt
+Slack,Send reminders for risk register updates,"Google Sheets, Slack",15,Conor Dunne
+Slack,Review apps in Lumos for inactive approvers and notify Slack,"Lumos, Slack",12,Michael Tolan
+Slack,"Handle malware alerts with CrowdStrike, Oomnitza, GitHub, and PagerDuty","CrowdStrike, GitHub, PagerDuty, Slack",25,Lucas Cantor
+Slack,Audit & enforce compliance on endpoints with SimpleMDM,"BambooHR, Google, Slack",49,null
+Slack,Process CrowdStrike detections with Intezer,"CrowdStrike, Intezer Analyze, Jira Software, Slack",22,Aaron Sandow
+Slack,Lookup user in multiple platforms,"BambooHR, Okta, Slack, Tines",11,Michael Tolan
+Slack,Message into Slack based on Jira queries,"Jira Software, Slack",8,Michael Tolan
+Slack,Onboard users to OctoPerf via Slack or Jira,"Jira Software, OctoPerf, Slack",29,null
+Slack,Fetch rule results from Recorded Future Attack Surface Intelligence & open Jira tickets,"Jira Software, Recorded Future, Slack",31,Aaron Sandow
+Slack,Respond to & configure Terraform Cloud run task,"HashiCorp, HashiCorp Terraform, Jira Software, Slack",16,null
+Slack,Manage temporary EC2 instances for development and testing and send notifications in Slack,"AWS, Slack",95,null
+Slack,Create a ServiceNow incident from Slack,"ServiceNow, Slack",7,Conor Dunne
+Slack,Handover Oncalls in Opsgenie with Tines Cases,"OpsGenie, Slack, Tines",17,null
+Slack,Manage Velociraptor artifact collection via Slack,"LimaCharlie, Slack, Velociraptor",9,Conor Dunne
+Slack,Rotate AWS IAM access keys and update Tines credentials,"AWS, Slack, Tines",16,Michael Tolan
+Slack,Remediate AWS IAM alerts detected with Wiz using Slack and Jira,"AWS, Jira Software, Slack, Wiz",36,Conor Dunne
+Slack,Report and lock lost devices in Jamf with Okta SSO,"Jamf Pro, Jira Software, Okta, Slack",28,Sakil Khan
+Slack,Manage GitLab issues in Slack,"GitLab, Slack",47,Conor Dunne
+Slack,Share reminders for company holidays,"BambooHR, Slack",15,null
+Slack,Send daily Google Calendar reminders in Slack with notes integration,"Google Calendar, Slack",19,Michael Tolan
+Slack,Handle Opsgenie alerts and create a Tines case,"OpsGenie, Slack",24,null
+Slack,Create a dynamic drop down menu in Slack,Slack,12,null
+Slack,Process new ServiceNow incidents,"ServiceNow, Slack",3,null
+Slack,Enrich & document Recorded Future alerts,"Jira Software, Recorded Future, Slack",26,null
+Slack,Monitor email inbox for sales leads,Slack,6,Michael O'Connell
+Slack,Remove 3rd Party Apps marked for removal in Netskope SSPM,"Microsoft Azure, Netskope, Slack",6,Netskope
+Slack,Analyze vulnerabilities from JupiterOne by source account using Tines Cases,"Jira Software, JupiterOne, Slack",15,null
+Slack,Use a Tines Page to analyze known vulnerabilities from Tenable,"Jira Software, Slack, Tenable Vulnerability Management",12,null
+Slack,Query Shodan for findings and alert on them using Slack and Jira,"Jira Software, Shodan, Slack, Splunk",11,null
+Slack,Monitor Okta for invalid sign-in attempts and resolve via Slack,"Okta, PagerDuty, Slack",14,null
+Slack,Query Snowflake via Slack and return results as CSV,"Slack, Snowflake",12,Michael Tolan
+Slack,Triage phishing alerts with Sublime,"Slack, Sublime Security",16,null
+Slack,Investigate and remediate malware with CrowdStrike FalconX and Microsoft Defender,"CrowdStrike, Jira Software, Microsoft Defender, Slack",34,null
+Slack,Manage shift turnover with Handogotchi,"GitLab, Slack",41,Valentine Mairet
+Slack,Remind employees to take time off with BambooHr & Slack,"BambooHR, Slack",10,null
+Slack,Fetch rule results from Recorded Future Attack Surface Intelligence & open ServiceNow tickets,"Recorded Future, ServiceNow, Slack",30,Rosie Halpin
+Slack,Rickroll users in Slack,Slack,8,Andrew Katz
+Slack,Triage Google Chronicle cases from Slack,"Google, Slack",43,Sakil Khan
+Slack,Create AWS RDS databases from a backup via Slack,"AWS, Slack",47,Conor Dunne
+Slack,Reset Google account password and notify via Slack,"Google, Slack",13,Conor Dunne
+Slack,Request and approve access to new tools with an audit trail,"AWS, GitHub, Jira Software, Okta, Slack",31,Michael Tolan
+Slack,Run a job using Ansible Tower,"Ansible, Slack",11,null
+Slack,Scan a URL in Criminal IP,"Criminal IP, Slack",11,null
+Slack,Receive a Request for Device Approval into Tailscale and Check Axonius,"Axonius, Slack, Tailscale",17,null
+Slack,Lookup devices in Lansweeper using a Slack command,"Lansweeper, Slack",10,Conor Dunne
+Slack,Social Interact Made Easy with Virtual Coffee Bot,Slack,36,null
+Slack,Use Slack to record specific Wiz insights in TheHive,"Slack, TheHive Project, Wiz",26,null
+Slack,Manage Google Calendar swiftly when unexpected alerts trigger,"Google, Slack",42,null
+Slack,Time-based Okta group membership,"Okta, Slack",11,Scott Bean
+Slack,Provide a password reset page in Tines,"Jira Software, Okta, Slack",18,Michael Tolan
+Slack,Retrieve domain risk scores in Slack using DomainTools API,"DomainTools, Slack",13,null
+Slack,Select a Slack user at random,Slack,7,null
+Slack,Offboard employees using HiBob,"Google, HiBob, Okta, Slack",18,null
+Slack,Identify and resolve false positive AWS alerts in Orca,"AWS, Orca Security, Slack",23,null
+Slack,Raise Jira requests using Tines Pages and notify Slack,"Jira Software, Slack",8,Michael Tolan
+Slack,Receive and correlate alerts from Sysdig,"OpsGenie, PagerDuty, Slack, Sysdig",10,null
+Slack,Create VirusTotal domain reputation summaries using NVIDIA AI,"NVIDIA, Slack, VirusTotal",18,Conor Dunne
+Slack,"Ingest Opsgenie alerts, enrich data, and create Jira issue with notifications in Slack","Jira Software, Microsoft, OpsGenie, Qualys, Slack, URLScan.io, VirusTotal",16,null
+Slack,Monitor website certificates for expiration,"APIVoid, Jira Software, Slack",26,Conor Dunne
+Slack,Run command & control tasks in Mythic using Slack,Slack,8,null
+Slack,Manage CyberArk access requests using Slack,"CyberArk, Jira Software, Slack",23,Conor Dunne
+Slack,Process & enrich Cylance detections,"Cylance, Slack, VirusTotal, Zendesk",29,null
+Slack,Perform Google Workspace access review,"Google, Slack",11,Rosie Halpin
+Slack,Alert users of potential breaches detected by SpyCloud.,"Slack, SpyCloud",9,Conor Dunne
+Slack,Verify Slack signatures are authentic,Slack,9,null
+Slack,Capture and post handover notes in Slack using a Zendesk lookup,"Slack, Zendesk",8,null
+Slack,Isolate & remediate AWS EC2 instance based on IOC,"AWS, Jira Software, Slack",23,null
+Slack,Utilize ChatOps to get feedback on alerts & changes within your environment,Slack,13,null
+Slack,Alert users of JupiterOne issues associated to their account,"JupiterOne, Slack",13,Conor Dunne
+Slack,Discover inactive Service Accounts in Google Cloud,"Google, Jira Software, Slack, Wiz",13,null
+Slack,Lookup third-party domain in Recorded Future,"Jira Software, Recorded Future, Slack",20,Aaron Sandow
+Slack,"Retrieve Code42 alerts, send to Slack and suspend user in Okta","Code42, Okta, Slack",19,null
+Slack,Question a user and check response via Slack,Slack,35,Michael Tolan
+Slack,Monitor CVE trends via Cybersixgill and alert on impacted assets in Tenable.io,"Cybersixgill, Slack, Tenable Vulnerability Management",6,null
+Slack,Communicate across chats in Intercom and Slack,"Intercom, Slack",30,Conor Dunne
+Slack,Game: Guess the anime quote,Slack,47,null
+Slack,Send follow up email to event attendees,Slack,16,null
+Slack,Discover & remediate public Tines pages,Slack,18,null
+Slack,Check Workday for unauthorized travel and alert in Slack,"Elastic, Jumpcloud, OpsGenie, Slack, Workday",34,Muhammet Tekbicak
+Slack,Monitor VulnCheck KEV and alert on impacted assets in Tenable.io,"Slack, Tenable Vulnerability Management, VulnCheck",6,null
+Slack,"Remove a user account in Microsoft Entra ID, BambooHR, AWS, and Slack","AWS, BambooHR, Jira Software, Microsoft Azure, Slack",20,Michael Tolan
+Slack,Send AWS EventBridge events to Slack,"AWS, Slack",7,Conor Dunne
+Slack,Use Slackbots to understand jargon,Slack,25,null
+Slack,Manage Okta user groups and create Jira tickets via Slack,"AWS, Jira Software, Knowbe4, Okta, Slack",140,Sandeep Kumar
+Slack,Monitor and manage Tailscale device enrollments via Slack,"Slack, Tailscale",6,Conor Dunne
+Slack,Manage Okta login threshold limit in Jira via Slack,"Jira Software, Okta, Slack",15,null
+Slack,Get host log alerts from Devo SIEM,"Devo, Jira Software, Slack",10,null
+Slack,Search Fleet for software on devices using Slack,"Fleet, Slack",21,Conor Dunne
+Slack,Lock a device in JumpCloud,"Jumpcloud, Slack",35,Nicolas Oropel
+Slack,Monitor Azure application secrets for expiration and alert,"Jira Software, Microsoft Azure, Slack",10,Michael Tolan
+Slack,Update employee probation status with BambooHR & Slack,"BambooHR, Slack",21,null
+Slack,Search NetBox for device info using Slack,"NetBox, Slack",26,Michael Tolan
+Slack,Detect unusual user activity with Material Security,"Material Security, Slack, Tines",11,Material Security
+Slack,Give kudos to coworkers using a Slack bot,"AWS, Slack",28,Adam Maksimuk
+Slack,Respond to Google Drive public exposure alerts in Reco and secure files,"Google, Google Drive, Reco, Slack",46,null
+Slack,GitLab handover with response teams via a Slackbot,"GitLab, Slack",42,null
+Slack,Analyze Tines action failure notifications with AI,Slack,6,Tyler Talaga
+Slack,Create issues in Jira from alerts in Cybersixgill and notify with Slack and email,"Cybersixgill, Jira Software, Slack",4,null
+Slack,Search for and remediate inactive AWS accounts from JupiterOne,"AWS, Jira Software, JupiterOne, Slack",14,null
+Slack,Notify Slack channel of recently added tracks in Spotify playlists,"Slack, Spotify",15,Michael Tolan
+Slack,Monitor and backup Fleet policies in GitHub,"Fleet, GitHub, Slack",27,Conor Dunne
+Slack,Send Slack notifications when AWS budgets are exceeded and take action,"AWS, Slack",10,Michael Tolan
+Slack,Using Slack with DomainTools' Iris Investigate API,"DomainTools, Slack",16,null
+Slack,Retrieve & enrich Okta alerts from Logz.io,"Logz.io, Okta, Slack",27,null
+Slack,Standardize and enrich EDR alerts across platforms,"CrowdStrike, Jira Software, Slack, VirusTotal",26,Shaun Finn
+Slack,Fill out weekly recaps with Tines Pages and Slack,"Airtable, Slack",30,Conor Dunne
+Slack,Tines web crawler,Slack,17,Conor Dunne
+Slack,Manage your fantasy football team with Slack,Slack,61,null
+Slack,Deploy Canarytoken using CrowdStrike RTR,"CrowdStrike, Slack, Thinkst Canary",7,Tyron Kemp
+Slack,Update Linux system packages using Ansible Tower,"Ansible, Slack",16,Conor Dunne
+Slack,Perform free text Censys searches via a Slack channel,"Censys, Slack",11,Conor Dunne
+Slack,Search for docs in Coda using Slack,"Coda, Slack",9,Conor Dunne
+Slack,Send alerts when GitLab projects change to public visibility,"GitLab, Slack",17,null
+Slack,Monitor the health of a Hashicorp Vault cluster,"HashiCorp, Slack",13,Nate Adams
+Slack,Distributed Alerting Slackbot with 2FA,"Jira Software, Slack, Sumo Logic",99,Jamison Bigham
+Slack,Notify and assign training based on Harmonic Security alerts,"Harmonic Security, Knowbe4, Notion, Slack, Tines",17,Harmonic Security
+Slack,Monitor for domains that match a query in DomainTools Iris Investigate and notify Slack,"DomainTools, Slack",7,Nghia N
+Slack,Send Slack notifications for Kubernetes pod status changes,"Kubernetes, Slack",13,Conor Dunne
+Slack,"Rock, Paper, Scissors via Slack",Slack,19,Daniel Diez
+Slack,Manage Entro exposure notifications via Slack and Jira,"Entro Security, Jira Software, Slack",13,Yehonatan Tsirolnik
+Slack,Transfer Kubernetes manifest ownership via Slack,"Kubernetes, Slack",22,Conor Dunne
+Slack,Monitor RSS feed for keywords and send to Slack,"Slack, Tines",13,Nick Page
+Slack,Send a customised daily briefing in Slack,"Google Calendar, Jira Software, Slack",26,Michael Tolan
+Slack,Investigate security alerts in Workbench from Slack links,"Elastic, GreyNoise, Slack",3,Michael Tolan
+Slack,Create a Panic Button for users,"Opencage, Slack",8,Francesco Pergola
+Slack,Coach users to use AI safely with Harmonic Security and Slack,"Harmonic Security, Slack",9,null
+Slack,Search alphaMountain for URL threat intelligence via Slack,"alphaMountain, Slack",11,Michael Tolan
+Slack,Query Falcon Logscale from Slack,"LogScale, Slack",12,Michael Tolan
+Slack,Update employee probation status with HiBob & Slack,"HiBob, Slack",11,null
+Slack,Review tasks in ConductorOne for inactive approvers and alert in Slack,"ConductorOne, Slack",9,Michael Tolan
+Slack,Monitor TLS certificates for a domain with SSLMate,"Slack, SSLMate",25,Conor Dunne
+Slack,Handle Kolide exemption requests via Slack,"Kolide, Slack",22,Scott Bean
+Slack,Harmonic Hotdog Slackbot,Slack,26,Ed Merrett
+Slack,Battleworld Slack app game,Slack,30,Peter Ortiz
+Slack,LLM-Powered Fantasy Manager,Slack,54,Tyler Talaga
+Slack,Triage Code42 alerts via Slack,"Code42, Slack",20,null
+Slack,Search for processes on a host using Fleet scripts,"Fleet, Slack",27,Conor Dunne
+Slack,Receive virtual machine deployment events from Azure Event Grid and alert in Slack and Jira,"Jira Software, Microsoft, Microsoft Azure, Slack",10,Michael Tolan
+Slack,Monitor when a tagged domain becomes active in DomainTools Iris Investigate and notify via Slack,"DomainTools, Slack",8,Nghia N
+Slack,Raise incidents in Atlassian Statuspage,"Slack, Statuspage",16,null
+Slack,Sync IriusRisk projects with GitHub Terraform repositories,"GitHub, IriusRisk, Slack",21,Conor Dunne
+Jira Software,Analyze CrowdStrike detections,"CrowdStrike, Jira Software, Slack, VirusTotal",13,null
+Jira Software,Analyze and triage suspicious emails with various tools,"CrowdStrike, EmailRep, Jira Software, NextDNS, URLScan.io, VirusTotal",59,Michael Tolan
+Jira Software,Interact with case management systems using chat agents,"BambooHR, Jira Software",3,Conor Dunne
+Jira Software,Onboard new BambooHR starters using an agent,"BambooHR, Jira Software, Okta, Slack",7,Conor Dunne
+Jira Software,Triage Material Security cases via Slack,"Jira Software, Material Security, Slack, Tines, VirusTotal",27,Shasheen Bandodkar
+Jira Software,Correlate Rapid7 vulnerability data across various tools and report in Jira,"Jira Software, Manage Engine, Orca Security, Rapid7",125,Emily Nguyen
+Jira Software,Expel Alert to Jira Ticket Automation,"Expel, Jira Software",23,Shasheen Bandodkar
+Jira Software,Implement pagination with these techniques,"Jira Software, Notion, Slack, Tenable Vulnerability Management",32,null
+Jira Software,Analyze an IP in many services at once,"AbuseIPDB, APIVoid, GreyNoise, Jira Software, Pulsedive, VirusTotal",13,Michael Tolan
+Jira Software,Create Jira issues via Slack,"Jira Software, Slack",7,null
+Jira Software,Send interactive messages in Slack,"Jira Software, Slack",26,null
+Jira Software,Find & remediate publicly exposed S3 buckets with Wiz,"AWS, Jira Software, Slack, Wiz",13,null
+Jira Software,Add a new user in Microsoft Entra ID,"Jira Software, Microsoft, Microsoft Azure, Microsoft Teams",6,Michael Tolan
+Jira Software,Identify and remediate malicious SentinelOne threats with VirusTotal,"Jira Software, SentinelOne, VirusTotal",40,null
+Jira Software,Fetch and record CrowdStrike Spotlight vulnerabilities with Jira,"Automox, CrowdStrike, Jira Software",26,null
+Jira Software,Handle Code42 alerts,"Code42, Jira Software, Slack",12,null
+Jira Software,Analyze Crowdstrike detections and report in Jira and Microsoft Teams,"CrowdStrike, Jira Software, Microsoft, Microsoft Teams",12,null
+Jira Software,Grant temporary application access,"Jira Software, Okta, Slack, Tines",30,Shaun Finn
+Jira Software,Investigate & remediate Lacework alerts,"AWS, Jira Software, Lacework",25,null
+Jira Software,Investigate unresolved SentinelOne threats,"Jira Software, SentinelOne",5,null
+Jira Software,Fetch & manage Microsoft Defender alerts,"Jira Software, Microsoft",5,null
+Jira Software,Detect and remediate malware issues in Wiz with SentinelOne,"AWS, Jira Software, SentinelOne, Wiz",21,null
+Jira Software,Create & manage incident communications with Slack and Jira,"Jira Software, Slack",59,Rosie Halpin
+Jira Software,Analyze IPs & search for indicators of compromise,"Criminal IP, Jira Software, URLScan.io",29,null
+Jira Software,Contain a registered device with CrowdStrike,"CrowdStrike, Jira Software, Slack",10,null
+Jira Software,Analyze vulnerabilities from Tenable workbench,"GreyNoise, Jira Software, Slack, Tenable Vulnerability Management",25,null
+Jira Software,"Disable accounts in Google Workspace, GitHub, and Okta","GitHub, Google, Jira Software, Okta",23,Aaron Sandow
+Jira Software,Check if new AWS GuardDuty findings are malicious,"Amazon GuardDuty, AWS, Jira Software, URLScan.io",27,null
+Jira Software,Disable accounts in Microsoft Entra ID,"Jira Software, Microsoft Azure",14,null
+Jira Software,Triage new alerts in Google Alert Center with human oversight,"Google, Jira Software, Slack",19,null
+Jira Software,"Detect, log and remediate AWS alerts with Orca Security and Jira","AWS, Jira Software, Orca Security, Slack",21,null
+Jira Software,Detect and Block Bucket Public Access Policy with Cyera.io and AWS,"AWS, Cyera, Jira Software",11,null
+Jira Software,Take action on Azure Sentinel alerts depending on severity level,"Jira Software, Microsoft, Microsoft Azure, Microsoft Teams",30,Shaun Finn
+Jira Software,Crowdsource suspicious logins and suspend accounts,"GreyNoise, Jira Software, OneLogin, PagerDuty, Slack",16,null
+Jira Software,Track Snyk issues in Jira,"Jira Software, Snyk",16,null
+Jira Software,Filter Hunters alerts by risk level and create cases via Slack,"Hunters SOC Platform, Jira Software, Slack",8,null
+Jira Software,Send Wiz alerts to Slack and raise issues in Jira,"Jira Software, Slack, Wiz",22,null
+Jira Software,Track AWS GuardDuty alerts in Jira and remediate,"Amazon GuardDuty, AWS, Jira Software",18,null
+Jira Software,Search for & remediate public AWS S3 buckets with JupiterOne,"AWS, Jira Software, JupiterOne",10,null
+Jira Software,Run & track vulnerability scans with Orca Security,"Jira Software, Orca Security",12,null
+Jira Software,Discover and monitor unmanaged devices using Axonius,"Axonius, Jira Software, Shodan",10,null
+Jira Software,Report and lock lost devices in Jamf,"Duo Security, Jamf Pro, Jira Software",14,Conor Dunne
+Jira Software,Detonate files with Recorded Future Sandbox,"Jira Software, Recorded Future",17,null
+Jira Software,Investigate EDR alerts from Carbon Black,"Jira Software, PagerDuty, VirusTotal",11,Shaun Finn
+Jira Software,Create new Azure AD users via a form,"Jira Software, Microsoft, Microsoft Azure",10,Shaun Finn
+Jira Software,Retrieve Proofpoint events and log issues in Jira,"EmailRep, Jira Software, Proofpoint, URLScan.io, VirusTotal",11,Michael Tolan
+Jira Software,Analyze vulnerabilities from JupiterOne by source account,"Jira Software, JupiterOne, Slack",12,null
+Jira Software,Create issues in GitHub and Jira from findings in Semgrep,"GitHub, Jira Software, Semgrep",20,Conor Dunne
+Jira Software,Manage Qualys EC2 vulnerabilities in Jira,"Jira Software, Qualys",25,null
+Jira Software,Query Snyk & gather a vulnerability report,"Jira Software, Snyk",13,null
+Jira Software,Create Jira issues for new alerts from Google Alert Center,"Google, Jira Software",8,null
+Jira Software,Approve user access to Okta or Office 365 using Pages,"Jira Software, Microsoft, Okta, Slack",44,null
+Jira Software,Triage Slack help desk queries,"Jira Software, Slack",28,null
+Jira Software,Analyze vulnerabilities from JupiterOne by severity,"Jira Software, JupiterOne, Slack",30,null
+Jira Software,"Handle, enrich and notify teams of new Qualys alerts","Jira Software, Qualys, Slack",20,null
+Jira Software,Investigate & remediate critical container vulnerabilities in Aqua Security Cloud Workload Protection Platform,"Aqua Security, Jira Software",24,null
+Jira Software,Monitor large downloads by employees in Netskope and create Jira issues,"Jira Software, Netskope",11,Michael Tolan
+Jira Software,Determine severity of LimaCharlie detections and triage,"Jira Software, LimaCharlie, Slack",21,null
+Jira Software,Cleanup inactive users in AWS IAM,"AWS, Jira Software",43,null
+Jira Software,Retrieve new alerts from Microsoft Defender and create issues in Jira,"Jira Software, Microsoft Azure, Microsoft Defender",21,Michael Tolan
+Jira Software,Look for & remediate new breaches using Recorded Future,"Jira Software, PagerDuty, Recorded Future",24,null
+Jira Software,Create issues utilizing custom fields in Jira,Jira Software,5,null
+Jira Software,Query AWS IAM users in groups,"AWS, Jira Software",5,Shaun Finn
+Jira Software,Create shift handover notes in Confluence and send reminders in Slack,"Confluence, Jira Software, Slack",13,Michael Tolan
+Jira Software,Create and escalate Jira issues for GitHub Advanced Security findings,"GitHub, Jira Software, Slack",6,Conor Dunne
+Jira Software,Search Jira for open SLA breaches,Jira Software,22,Nick Page
+Jira Software,Receive & remediate SNS notifications from AWS Config,"AWS, Jira Software",43,Shaun Finn
+Jira Software,Fetch & record significant vulnerabilities from Qualys Container Security,"Jira Software, Qualys",13,Aaron Sandow
+Jira Software,Manage Jira issues via Slackbot,"Jira Software, Slack",94,null
+Jira Software,Retrieve & enrich IOCs across multiple platforms,"Cybereason, Jira Software, PassiveTotal, Recorded Future, Slack",14,null
+Jira Software,Enrich CrowdStrike detections with Active Directory and correlate in Jira tickets,"CrowdStrike, Jira Software, Microsoft, Microsoft Azure",24,null
+Jira Software,Close similar issues in Jira,Jira Software,13,Michael Tolan
+Jira Software,Correlate data across Jira issues,Jira Software,14,null
+Jira Software,Sensitive files shared to personal email,"Jira Software, Slack, Splunk",26,Brandon Buhrs
+Jira Software,Process CrowdStrike detections with Intezer,"CrowdStrike, Intezer Analyze, Jira Software, Slack",22,Aaron Sandow
+Jira Software,Search Jira for Issues,Jira Software,8,Michael Tolan
+Jira Software,Message into Slack based on Jira queries,"Jira Software, Slack",8,Michael Tolan
+Jira Software,Receive password breach alerts from SpyCloud and secure accounts,"CrowdStrike, Jira Software, Okta, SpyCloud",23,Conor Dunne
+Jira Software,Onboard users to OctoPerf via Slack or Jira,"Jira Software, OctoPerf, Slack",29,null
+Jira Software,Fetch rule results from Recorded Future Attack Surface Intelligence & open Jira tickets,"Jira Software, Recorded Future, Slack",31,Aaron Sandow
+Jira Software,Respond to & configure Terraform Cloud run task,"HashiCorp, HashiCorp Terraform, Jira Software, Slack",16,null
+Jira Software,Manage Jira custom fields and individual issue values with Pages,Jira Software,21,Conor Dunne
+Jira Software,Respond to Okta alerts with Mattermost & Jira,"Jira Software, Mattermost, Okta",20,null
+Jira Software,Remediate AWS IAM alerts detected with Wiz using Slack and Jira,"AWS, Jira Software, Slack, Wiz",36,Conor Dunne
+Jira Software,Receive and Remediate Security Hub S3 findings from Amazon Security Lake,"AWS, Jira Software",13,null
+Jira Software,Manage Logz.io SIEM Alerts,"Jira Software, Logz.io",5,null
+Jira Software,Scheduled rotation & tracking for AWS Access Keys in Drata,"AWS, Drata, Jira Software",29,null
+Jira Software,Report and lock lost devices in Jamf with Okta SSO,"Jamf Pro, Jira Software, Okta, Slack",28,Sakil Khan
+Jira Software,Push incidents from Jira to Drata,"Drata, Jira Software",4,null
+Jira Software,Reduce manually blocked items from Sophos Central in favor of auto-blocking,"Jira Software, Sophos",38,Nate Adams
+Jira Software,Download Code42 Cases,"Code42, Jira Software",7,null
+Jira Software,Enrich & document Recorded Future alerts,"Jira Software, Recorded Future, Slack",26,null
+Jira Software,Analyze vulnerabilities from JupiterOne by source account using Tines Cases,"Jira Software, JupiterOne, Slack",15,null
+Jira Software,Use a Tines Page to analyze known vulnerabilities from Tenable,"Jira Software, Slack, Tenable Vulnerability Management",12,null
+Jira Software,Query Shodan for findings and alert on them using Slack and Jira,"Jira Software, Shodan, Slack, Splunk",11,null
+Jira Software,Close Jira tickets if JupiterOne vulnerabilities are resolved,"Jira Software, JupiterOne",17,null
+Jira Software,Enrich clicked URLs from Proofpoint and block with Zscaler,"AbuseIPDB, Jira Software, Proofpoint, URLScan.io, Zscaler",13,Michael Tolan
+Jira Software,Retrieve alerts from Microsoft Defender for Cloud and create detailed issue in Jira,"Jira Software, Microsoft Azure, Microsoft Defender",20,Michael Tolan
+Jira Software,"Investigate a URL with URLScan, create a ticket in Jira and take action","AbuseIPDB, CrowdStrike, Jira Software, NextDNS, Phish Report, URLScan.io",41,null
+Jira Software,Investigate and remediate malware with CrowdStrike FalconX and Microsoft Defender,"CrowdStrike, Jira Software, Microsoft Defender, Slack",34,null
+Jira Software,Use auto-submitting pages to capture user data and update Jira,Jira Software,6,Michael Tolan
+Jira Software,Comment on Jira issue if email subject contains issue key,Jira Software,7,Michael Tolan
+Jira Software,Request updates to stale Jira issues,Jira Software,11,null
+Jira Software,Request and approve access to new tools with an audit trail,"AWS, GitHub, Jira Software, Okta, Slack",31,Michael Tolan
+Jira Software,Graph issue response and closure times for a project in Jira,Jira Software,27,null
+Jira Software,Provide a password reset page in Tines,"Jira Software, Okta, Slack",18,Michael Tolan
+Jira Software,Deallocate and delete unnecessary virtual machines in Azure and raise tickets,"Jira Software, Microsoft, Microsoft Azure",27,Michael Tolan
+Jira Software,Raise Jira requests using Tines Pages and notify Slack,"Jira Software, Slack",8,Michael Tolan
+Jira Software,Process OT detection alerts in Claroty and document in Jira,"Claroty xDome, Jira Software",11,null
+Jira Software,Detect and remediate malware issues in Wiz with SentinelOne and The Hive,"AWS, Jira Software, SentinelOne, Wiz",22,null
+Jira Software,Review Snyk organization findings with Jira issues,"Jira Software, Snyk",66,Andrew Orr Ewing
+Jira Software,Create issues in Jira for Sysdig vulnerability findings,"Jira Software, Sysdig",13,null
+Jira Software,"Ingest Opsgenie alerts, enrich data, and create Jira issue with notifications in Slack","Jira Software, Microsoft, OpsGenie, Qualys, Slack, URLScan.io, VirusTotal",16,null
+Jira Software,Monitor website certificates for expiration,"APIVoid, Jira Software, Slack",26,Conor Dunne
+Jira Software,Handle cloud compliance notifications with Sysdig,"Jira Software, Sysdig",4,null
+Jira Software,Generate SecurityScorecard issue report and create Jira tickets for new issues,"Jira Software, Security Scorecard",9,Conor Dunne
+Jira Software,Monitor Digital Shadows alerts by tracking and updating within Jira,Jira Software,15,null
+Jira Software,Automate Response to Data Risk with Tines and Code42 Incydr,"Code42, Jira Software, Okta",13,null
+Jira Software,Manage CyberArk access requests using Slack,"CyberArk, Jira Software, Slack",23,Conor Dunne
+Jira Software,Disable AWS User from Hunters Alert with Jira prompt,"AWS, Hunters SOC Platform, Jira Software",13,null
+Jira Software,Manage Sharepoint sites,"Jira Software, Microsoft, Microsoft Teams",20,Shaun Finn
+Jira Software,Group related issues in Jira,Jira Software,10,null
+Jira Software,Remediate vulnerabilities identified by AWS Inspector v2,"AWS, Jira Software",16,null
+Jira Software,Analyze quality of issues in Jira with Tines pages and records,Jira Software,16,Michael Tolan
+Jira Software,Analyze email attachment hashes from Sublime Security with VirusTotal,"Jira Software, Sublime Security, VirusTotal",33,Michael Tolan
+Jira Software,Isolate & remediate AWS EC2 instance based on IOC,"AWS, Jira Software, Slack",23,null
+Jira Software,Discover inactive Service Accounts in Google Cloud,"Google, Jira Software, Slack, Wiz",13,null
+Jira Software,Lookup third-party domain in Recorded Future,"Jira Software, Recorded Future, Slack",20,Aaron Sandow
+Jira Software,Log Tines action failures and create issues to track,"Jira Software, ServiceNow",8,Michael Tolan
+Jira Software,Notify Microsoft Teams when issues in Jira have not been triaged,"Jira Software, Microsoft Teams",11,Michael Tolan
+Jira Software,"Remove a user account in Microsoft Entra ID, BambooHR, AWS, and Slack","AWS, BambooHR, Jira Software, Microsoft Azure, Slack",20,Michael Tolan
+Jira Software,Contain devices identified by CrowdStrike Falcon Overwatch,"CrowdStrike, Jira Software",17,Michael Tolan
+Jira Software,Routinely sync Jira issue details with DynamoDB,"AWS, Jira Software",10,Michael Tolan
+Jira Software,Manage Okta user groups and create Jira tickets via Slack,"AWS, Jira Software, Knowbe4, Okta, Slack",140,Sandeep Kumar
+Jira Software,Manage Okta login threshold limit in Jira via Slack,"Jira Software, Okta, Slack",15,null
+Jira Software,Get host log alerts from Devo SIEM,"Devo, Jira Software, Slack",10,null
+Jira Software,Analyze Bugcrowd submissions with OpenAI and track in Jira,"Jira Software, OpenAI",4,Michael Tolan
+Jira Software,Monitor Azure application secrets for expiration and alert,"Jira Software, Microsoft Azure, Slack",10,Michael Tolan
+Jira Software,Retrieve Google Security Command Center findings and create issues in Jira,"Google, Jira Software",12,Conor Dunne
+Jira Software,Create and sync issues in Jira from data in Google Sheets,"Google Sheets, Jira Software",18,Michael Tolan
+Jira Software,Isolate machines based on malicious Cybereason Malops and track in JIRA,"AbuseIPDB, Cybereason, Jira Software",21,null
+Jira Software,Disable Google Accounts based on SpyCloud breaches,"Google, Jira Software, SpyCloud",19,SpyCloud
+Jira Software,Create issues in Jira from alerts in Cybersixgill and notify with Slack and email,"Cybersixgill, Jira Software, Slack",4,null
+Jira Software,Search for and remediate inactive AWS accounts from JupiterOne,"AWS, Jira Software, JupiterOne, Slack",14,null
+Jira Software,Find & remediate public AWS S3 buckets with Veza and add evidence to Drata controls,"AWS, Drata, Jira Software, Veza",20,null
+Jira Software,Standardize and enrich EDR alerts across platforms,"CrowdStrike, Jira Software, Slack, VirusTotal",26,Shaun Finn
+Jira Software,Assign New Okta Administrator Role to Okta from BambooHR through Opal,"BambooHR, Jira Software, Okta, Opal",16,null
+Jira Software,"Sysdig Cloud Detection, Document with Jira, and Respond with Tines","AWS, GreyNoise, Jira Software, Kubernetes, Sysdig, Tines",40,Manuel Boira
+Jira Software,Distributed Alerting Slackbot with 2FA,"Jira Software, Slack, Sumo Logic",99,Jamison Bigham
+Jira Software,Search for & remediate public AWS S3 buckets with Veza,"AWS, Jira Software, Veza",13,null
+Jira Software,Manage Entro exposure notifications via Slack and Jira,"Entro Security, Jira Software, Slack",13,Yehonatan Tsirolnik
+Jira Software,Send a customised daily briefing in Slack,"Google Calendar, Jira Software, Slack",26,Michael Tolan
+Jira Software,Receive malware events from Azure Event Grid and remove files from Azure Blob Storage,"Jira Software, Microsoft Azure",12,Michael Tolan
+Jira Software,Create posts in Workplace from Meta,"Jira Software, Meta, Workplace",3,Michael Tolan
+Jira Software,Offboarding users to OctoPerf via Pages and Jira,"Jira Software, OctoPerf",27,null
+Jira Software,Receive virtual machine deployment events from Azure Event Grid and alert in Slack and Jira,"Jira Software, Microsoft, Microsoft Azure, Slack",10,Michael Tolan
+AWS,Investigate AWS issues with CLI data using agents,"AWS, Tines",14,Michael Tolan
+AWS,Create and use temporary credentials in AWS using Assume Role,"AWS, Tines",4,Kelsey Salman
+AWS,Backup Tines tenant data to AWS S3,"AWS, Tines",41,Haley Kidd
+AWS,List EC2 instances in AWS,AWS,11,Michael Tolan
+AWS,Find & remediate publicly exposed S3 buckets with Wiz,"AWS, Jira Software, Slack, Wiz",13,null
+AWS,Investigate & remediate Lacework alerts,"AWS, Jira Software, Lacework",25,null
+AWS,Detect and remediate malware issues in Wiz with SentinelOne,"AWS, Jira Software, SentinelOne, Wiz",21,null
+AWS,Check if new AWS GuardDuty findings are malicious,"Amazon GuardDuty, AWS, Jira Software, URLScan.io",27,null
+AWS,"Detect, log and remediate AWS alerts with Orca Security and Jira","AWS, Jira Software, Orca Security, Slack",21,null
+AWS,Detect and Block Bucket Public Access Policy with Cyera.io and AWS,"AWS, Cyera, Jira Software",11,null
+AWS,Ingest Tines audit logs into AWS S3 Bucket,AWS,7,null
+AWS,Receive alerts for public S3 buckets & make private,"AWS, Slack",12,null
+AWS,Track AWS GuardDuty alerts in Jira and remediate,"Amazon GuardDuty, AWS, Jira Software",18,null
+AWS,Search for & remediate public AWS S3 buckets with JupiterOne,"AWS, Jira Software, JupiterOne",10,null
+AWS,Monitor and deactivate long-lasting AWS IAM keys,AWS,12,Michael Tolan
+AWS,Deactivate stale AWS access keys discovered by Wiz,"AWS, ServiceNow, Slack, Wiz",17,Derek Wohlfahrt
+AWS,Chat with AWS Bedrock in Slack threads,"AWS, Slack",10,Michael Tolan
+AWS,Detect and remediate high AWS EC2 CPU usage with Elastic Observability and document with Tines cases,"AWS, Elastic, Tines",27,null
+AWS,Save Tines Story in AWS S3,AWS,5,null
+AWS,Cleanup inactive users in AWS IAM,"AWS, Jira Software",43,null
+AWS,Assume a new AWS role and execute commands using Boto3,AWS,3,null
+AWS,Query AWS IAM users in groups,"AWS, Jira Software",5,Shaun Finn
+AWS,Remediate compliance violations with Lacework,"AWS, Lacework, Slack",12,null
+AWS,Receive & remediate SNS notifications from AWS Config,"AWS, Jira Software",43,Shaun Finn
+AWS,Extract text from a PDF or image with AWS Textract,AWS,38,null
+AWS,Add JA3 client blocklist from Abuse.ch to AWS firewall rule,"Abuse.ch, AWS",17,null
+AWS,Identify EC2 instances missing tags and configure them with a Tines page,"AWS, Slack",10,Conor Dunne
+AWS,Export recent Okta logs to AWS S3,"AWS, Okta",10,null
+AWS,"Create, update and run AWS Lambda functions",AWS,39,null
+AWS,Utilize AWS Lambda functions,AWS,1,null
+AWS,Alert on AWS Backup changes and record in CodeCommit,"AWS, Slack",32,Conor Dunne
+AWS,Automate AWS Account onboarding to Zanshin,AWS,12,null
+AWS,Query AWS CloudTrail for a user's recent API calls,AWS,11,null
+AWS,Manage AWS Inspector findings with ServiceNow,"AWS, ServiceNow",11,null
+AWS,Create snapshot and isolate a compromised AWS instance,AWS,25,Conor Dunne
+AWS,Manage temporary EC2 instances for development and testing and send notifications in Slack,"AWS, Slack",95,null
+AWS,Rotate AWS IAM access keys and update Tines credentials,"AWS, Slack, Tines",16,Michael Tolan
+AWS,Remediate AWS IAM alerts detected with Wiz using Slack and Jira,"AWS, Jira Software, Slack, Wiz",36,Conor Dunne
+AWS,Receive and Remediate Security Hub S3 findings from Amazon Security Lake,"AWS, Jira Software",13,null
+AWS,Scheduled rotation & tracking for AWS Access Keys in Drata,"AWS, Drata, Jira Software",29,null
+AWS,Real-Time API Threat Detection and Mitigation with Traceable.ai and AWS WAF,"AWS, Tines, Traceable.ai",14,null
+AWS,Set EC2 Security Groups for an instance,AWS,4,Michael Tolan
+AWS,Rotate AWS access keys on schedule,AWS,23,null
+AWS,Retrieve AWS Cost Explorer data and email a CSV report,AWS,15,Michael Tolan
+AWS,Analyze AWS IAM policies for sensitive access permissions,AWS,15,Michael Tolan
+AWS,Create AWS RDS databases from a backup via Slack,"AWS, Slack",47,Conor Dunne
+AWS,Create an identity federation between GCP and AWS,"AWS, Google",5,Marcus Hallberg
+AWS,Create an API to manage indicators of compromise,AWS,58,Conor Dunne
+AWS,Request and approve access to new tools with an audit trail,"AWS, GitHub, Jira Software, Okta, Slack",31,Michael Tolan
+AWS,Grant temporary console access to AWS services with Tines pages,AWS,20,Michael Tolan
+AWS,Roll back AWS EC2 instances to previous snapshots using tags,AWS,62,Conor Dunne
+AWS,Detect and Enrich Sysdig Alerts with Risky User with Greynoise and Deny User from AWS Console Login,"AWS, GreyNoise, Sysdig",11,Manuel Boira
+AWS,"Receive New Relic alerts, create Tines cases, and restart AWS instances","AWS, New Relic",12,null
+AWS,Identify and resolve false positive AWS alerts in Orca,"AWS, Orca Security, Slack",23,null
+AWS,Get EC2 Security Groups for an instance,AWS,17,Michael Tolan
+AWS,Detect and remediate malware issues in Wiz with SentinelOne and The Hive,"AWS, Jira Software, SentinelOne, Wiz",22,null
+AWS,Identify and remediate high AWS EC2 Disk Usage with Elastic Observability and document with Tines cases,"AWS, Elastic, Tines",9,null
+AWS,Manage AWS Macie findings with Tines cases,"AWS, Tines",17,Conor Dunne
+AWS,Record container vulnerabilities from AWS Inspector in GitHub,"AWS, GitHub",8,Liam Malone
+AWS,Update CrowdStrike Real Time Response script from AWS S3,"AWS, CrowdStrike",7,null
+AWS,Reimage AWS instance,AWS,25,Shaun Finn
+AWS,Disable AWS User from Hunters Alert with Jira prompt,"AWS, Hunters SOC Platform, Jira Software",13,null
+AWS,Request and approve temporary AWS S3 access with pre-signed URLs,"AWS, Tines",23,null
+AWS,Assess potential AWS IAM security vulnerabilities with OpenAI,"AWS, OpenAI",15,null
+AWS,Remediate vulnerabilities identified by AWS Inspector v2,"AWS, Jira Software",16,null
+AWS,Send Google Workspace security logs to AWS S3,"AWS, Google",8,Michael Tolan
+AWS,Isolate & remediate AWS EC2 instance based on IOC,"AWS, Jira Software, Slack",23,null
+AWS,Scan an invoice or receipt with AWS Textract,AWS,24,null
+AWS,Create and manage malware labs using Terraform Cloud,"AWS, HashiCorp Terraform",47,Conor Dunne
+AWS,Import Tines Story from AWS S3,AWS,5,null
+AWS,Provision AWS and Vault access via Okta,"AWS, HashiCorp, Okta",25,Zach Perry
+AWS,Regularly update insecure AWS EC2 security groups,AWS,10,Michael Tolan
+AWS,Find & remediate public AWS S3 bucket access with Anecdotes,"Anecdotes.ai, AWS",16,null
+AWS,"Remove a user account in Microsoft Entra ID, BambooHR, AWS, and Slack","AWS, BambooHR, Jira Software, Microsoft Azure, Slack",20,Michael Tolan
+AWS,Routinely sync Jira issue details with DynamoDB,"AWS, Jira Software",10,Michael Tolan
+AWS,Send AWS EventBridge events to Slack,"AWS, Slack",7,Conor Dunne
+AWS,Manage Okta user groups and create Jira tickets via Slack,"AWS, Jira Software, Knowbe4, Okta, Slack",140,Sandeep Kumar
+AWS,Execute commands on EC2 instances using AWS Systems Manager,AWS,26,Conor Dunne
+AWS,Give kudos to coworkers using a Slack bot,"AWS, Slack",28,Adam Maksimuk
+AWS,Verify Route 53 A records use active Elastic IPs,AWS,17,Michael Tolan
+AWS,Generate an SBOM with AWS Inspector and add to GitHub,"AWS, GitHub",11,Liam Malone
+AWS,Receive and enrich cloud root login notifications in AWS using Tines and CloudTrail logs,AWS,14,null
+AWS,Leverage AWS Bedrock for investigation help in Tines cases,AWS,15,Adam Maksimuk
+AWS,Search for and remediate inactive AWS accounts from JupiterOne,"AWS, Jira Software, JupiterOne, Slack",14,null
+AWS,Find & remediate public AWS S3 buckets with Veza and add evidence to Drata controls,"AWS, Drata, Jira Software, Veza",20,null
+AWS,Send Slack notifications when AWS budgets are exceeded and take action,"AWS, Slack",10,Michael Tolan
+AWS,Use ChatGPT for triaging with internal playbooks,"AWS, Google",32,Matt Houston
+AWS,"Sysdig Cloud Detection, Document with Jira, and Respond with Tines","AWS, GreyNoise, Jira Software, Kubernetes, Sysdig, Tines",40,Manuel Boira
+AWS,Create and modify EC2 Security Groups,AWS,7,Michael Tolan
+AWS,Search for & remediate public AWS S3 buckets with Veza,"AWS, Jira Software, Veza",13,null
+AWS,Track critical alerts for exposed AWS Keys,AWS,27,Jaroslaw Wojciechowski
+AWS,Streamline AWS Elastic Container Registry vulnerability monitoring with Tines Cases,AWS,8,null
+AWS,Register and run container tasks in AWS ECS,AWS,12,null
+AWS,Grant temporary programmatic AWS access with Tines pages,AWS,26,Michael Tolan
+Tines,Escalate a case between groups with an audit trail,Tines,11,Nick Winninger
+Tines,Summarize a case in Tines with the AI Agent Action,Tines,5,Nick Winninger
+Tines,Investigate AWS issues with CLI data using agents,"AWS, Tines",14,Michael Tolan
+Tines,Enrich cases with Azure Log Analytics using agents,"Microsoft Azure, Tines",13,Michael Tolan
+Tines,Triage alerts with agents using SOPs in Confluence,"AbuseIPDB, Confluence, CrowdStrike, EmailRep, Okta, Slack, Tavily, Tines, URLScan.io, VirusTotal",8,Pete Wrenn
+Tines,Troubleshoot broken Tines actions using an AI Agent chatbot,"Microsoft Teams, Slack, Tavily, Tines",14,Michael Tolan
+Tines,Restricting User Access and Patching Vulnerable Devices with Kandji,"Kandji, Okta, Slack, Tines",33,Megan Elsayed
+Tines,Triage Material Security cases via Slack,"Jira Software, Material Security, Slack, Tines, VirusTotal",27,Shasheen Bandodkar
+Tines,Manage Qualys vulnerabilities using Jira Service Management and Slack,"Jamf Pro, Jira Service Management, Qualys, Slack, Tines",81,Caleb Williams
+Tines,Create and use temporary credentials in AWS using Assume Role,"AWS, Tines",4,Kelsey Salman
+Tines,Get records and combine associated artifacts in Tines,Tines,17,Eoin Magner
+Tines,Backup Tines tenant data to AWS S3,"AWS, Tines",41,Haley Kidd
+Tines,Create Tines case from the Risk Register,Tines,4,Conor Dunne
+Tines,Generate a Google service account credential,"Google, Tines",7,Aaron Sandow
+Tines,"Ingest, analyze and store IOCs with Tines","AbuseIPDB, CrowdStrike, GreyNoise, Pulsedive, Sublime Security, Tines, URLScan.io, VirusTotal",45,Michael Tolan
+Tines,Grant temporary application access,"Jira Software, Okta, Slack, Tines",30,Shaun Finn
+Tines,Explore Tines Cases with provided sample data,Tines,22,null
+Tines,Describe a Tines Story with Tines AI,Tines,6,Michael Tolan
+Tines,Monitor action failures in Tines and notify via Slack,"Slack, Tines",14,Michael Tolan
+Tines,Analyze and triage suspicious emails across tools and Tines cases,"CrowdStrike, EmailRep, Tines, URLScan.io, VirusTotal",65,Michael Tolan
+Tines,"Analyze Elastic alerts, block IPs, and notify in Slack and Tines Cases","Elastic, Google, GreyNoise, Slack, Tines",10,Michael Tolan
+Tines,Elastic SIEM to Slack alert enrichment,"Elastic, Slack, Tines",106,Aaron Jewitt
+Tines,Send Tines case notifications to subscribers in Slack or Teams,"Microsoft Teams, Slack, Tines",26,Michael Tolan
+Tines,Create just-in-time access requests and manage users,Tines,33,null
+Tines,Ingest Tines audit logs into Datadog,"DataDog, Tines",7,Aron Day
+Tines,Submit and analyze PDF for IOCs with Tines,"IOC Parser, Tines",14,Michael Tolan
+Tines,"Retrieve user, device, and vulnerability data in Axonius","Axonius, Tines",29,null
+Tines,Detect and remediate high AWS EC2 CPU usage with Elastic Observability and document with Tines cases,"AWS, Elastic, Tines",27,null
+Tines,Utilize Tines prompts in Slack without opening a new browser tab,"Slack, Tines",8,null
+Tines,Create and update Tines Cases from questions in Slack,"Slack, Tines",72,Lasse Høgsholt
+Tines,Create a risk register using Tines records,Tines,12,Conor Dunne
+Tines,Export Tines records to OneDrive,"Microsoft OneDrive, Tines",4,Michael Tolan
+Tines,Run a simulated phishing attack,"BambooHR, GitHub, Tines",22,Conor Dunne
+Tines,Transfer cases between Tines case groups based on criteria,Tines,28,Michael Tolan
+Tines,Capture product feedback and post it to Slack,"Slack, Tines",23,Tines
+Tines,Analyze attack surface for an organization with Criminal IP,"Criminal IP, Tines",22,null
+Tines,Monitor Tines audit logs for action changes and send Slack alerts,"Slack, Tines",7,null
+Tines,Ingest Tines audit logs into Sumo Logic,"Sumo Logic, Tines",7,Aron Day
+Tines,Monitor and remediate inactive Kandji devices with Tines Cases,"Kandji, Tines",23,Michael Tolan
+Tines,Prompt a user for a response through email,Tines,9,null
+Tines,Backup Tines Stories to GitLab and notify Slack,"GitLab, Slack, Tines",45,Michael Tolan
+Tines,Sync Tines case comments with Hunters leads,"Hunters SOC Platform, Tines",7,null
+Tines,Lookup user in multiple platforms,"BambooHR, Okta, Slack, Tines",11,Michael Tolan
+Tines,Monitor a host's resources using playbooks in Ansible Tower,"Ansible, Tines",14,Conor Dunne
+Tines,Handover Oncalls in Opsgenie with Tines Cases,"OpsGenie, Slack, Tines",17,null
+Tines,Monitor and patch Tanium machines via Tines,"Tanium, Tines",31,null
+Tines,Rotate AWS IAM access keys and update Tines credentials,"AWS, Slack, Tines",16,Michael Tolan
+Tines,Sign up for a 24-hour relay using Tines Pages and Records,Tines,11,null
+Tines,Real-Time API Threat Detection and Mitigation with Traceable.ai and AWS WAF,"AWS, Tines, Traceable.ai",14,null
+Tines,Notify recipient of quarantined email and create Tines case if opened,"Sublime Security, Tines",5,Michael Tolan
+Tines,Manage long-running jobs and check job status in Workbench,Tines,16,null
+Tines,Process SpyCloud breach data and generate a case in Tines,"SpyCloud, Tines",22,Tines
+Tines,Investigate and remediate multiple denied MFA push requests in Okta,"IPQualityScore, Microsoft Teams, Okta, Tines, VirusTotal",31,Claudia Kinsella
+Tines,Track Okta Active Directory agents using Records and Microsoft Teams,"Microsoft Teams, Okta, Tines",11,Taylor Rainwater
+Tines,Work with Tines data using the Tines API,Tines,49,null
+Tines,Manage Salesforce lead capture with Tines pages and cases,"Salesforce, Tines",46,Conor Dunne
+Tines,Backup and download logs from AWS S3 warm storage,"Google, Okta, Tines",45,Conor Dunne
+Tines,Create and manage temporary email addresses with Tines,Tines,21,Michael Tolan
+Tines,Paginate over the Tines API using multiple methods,Tines,16,Conor Dunne
+Tines,Monitor Tines actions with Records,Tines,9,Charles Himmelein
+Tines,Send SMS with Twilio if assigned to a Case in Tines,"Microsoft, Tines, Twilio",15,Michael Tolan
+Tines,Export Splunk SOAR cases to Tines,"Splunk, Tines",26,null
+Tines,Create and manage an Email API through Tines,"Google, ServiceNow, Tines",33,null
+Tines,Write descriptions for Tines stories using AI,Tines,18,Tyler Talaga
+Tines,Escalate cases to emergency resources with Twilio,"Tines, Twilio",29,Michael Tolan
+Tines,Identify and remediate high AWS EC2 Disk Usage with Elastic Observability and document with Tines cases,"AWS, Elastic, Tines",9,null
+Tines,Manage AWS Macie findings with Tines cases,"AWS, Tines",17,Conor Dunne
+Tines,Scan Okta logins with Spur for proxies and VPNs and raise a case in Tines,"Okta, Spur, Tines",20,Michael Tolan
+Tines,Generate a Tines case incident response timeline,"Notion, Tines",18,Conor Dunne
+Tines,Request and approve temporary AWS S3 access with pre-signed URLs,"AWS, Tines",23,null
+Tines,Export Tines story time saved time series data to Google Sheets,"Google, Tines",17,null
+Tines,Detect unusual user activity with Material Security,"Material Security, Slack, Tines",11,Material Security
+Tines,Ingest Tines audit logs into Grafana Loki,"Grafana, Tines",8,Aron Day
+Tines,Backup Tines Stories to Azure Blob Storage,"Microsoft Azure, Tines",25,Michael Tolan
+Tines,"Sysdig Cloud Detection, Document with Jira, and Respond with Tines","AWS, GreyNoise, Jira Software, Kubernetes, Sysdig, Tines",40,Manuel Boira
+Tines,Notify and assign training based on Harmonic Security alerts,"Harmonic Security, Knowbe4, Notion, Slack, Tines",17,Harmonic Security
+Tines,Close Tines Cases if JupiterOne vulnerabilities are resolved,"JupiterOne, Tines",14,null
+Tines,Monitor Intercom for sensitive content with Nightfall and record in Tines,"Intercom, Nightfall AI, Tines",7,Conor Dunne
+Tines,Monitor RSS feed for keywords and send to Slack,"Slack, Tines",13,Nick Page
+Tines,Verify user identities using Nametag and Tines pages,Tines,9,Andy Caird
+Tines,Sync Intercom conversations with Tines cases,"Intercom, Tines",26,null
+Tines,Ingest Tines audit logs into Snowflake,"Snowflake, Tines",13,Michael Tolan
+Tines,Sync Github file with a Tines Resource,"GitHub, Tines",13,Nick Page
+Tines,Analyze Tines action failures with AI and get remediation advice,Tines,16,Michael Tolan
+Tines,Update user in Tines,Tines,6,Michael Tolan
+Google,Offboard user from Okta and Google using Pages and Records,"Gmail, Google, Okta",72,Lucas Cantor
+Google,Generate a Google service account credential,"Google, Tines",7,Aaron Sandow
+Google,Triage Elastic Security alerts and block malicious IPs,"Elastic, Google, GreyNoise",17,null
+Google,Offboard employees using BambooHR,"BambooHR, Google, Okta, Slack",18,null
+Google,Add new employees to BambooHR and manage system access,"BambooHR, Google, Microsoft Azure, Okta, Slack",17,Michael Tolan
+Google,Onboard employees & grant specialized access to specific tools,"GitHub, Google, Zoom",21,null
+Google,"Disable accounts in Google Workspace, GitHub, and Okta","GitHub, Google, Jira Software, Okta",23,Aaron Sandow
+Google,Triage new alerts in Google Alert Center with human oversight,"Google, Jira Software, Slack",19,null
+Google,"Analyze Elastic alerts, block IPs, and notify in Slack and Tines Cases","Elastic, Google, GreyNoise, Slack, Tines",10,Michael Tolan
+Google,Move Google Docs and Calendar to another user in Google Workspace,Google,17,null
+Google,Onboard employees to BambooHR and grant access to office suites and Microsoft Teams,"BambooHR, Google, Microsoft, Microsoft Teams, Okta",11,null
+Google,Check mailboxes for external autoforward rules and filters in Google Workspace,Google,28,null
+Google,Create Jira issues for new alerts from Google Alert Center,"Google, Jira Software",8,null
+Google,Add devices in Kandji to Google Sheets,"Google, Kandji",7,Michael Tolan
+Google,Implement data loss prevention policies,"Google, Panther, Slack",35,null
+Google,Create Zendesk Ticket via Google Forms,"Google, Zendesk",8,null
+Google,Move security logs from Google Workspace to Elastic Security,"Elastic, Google",4,null
+Google,Retrieve & deduplicate Google Chronicle alerts,Google,5,null
+Google,Make a query in Google BigQuery,Google,12,null
+Google,Organize new form responses in Google Sheets,"Google, Google Sheets",3,null
+Google,Backup Tines stories to Google Cloud Storage,"Google, Google Cloud Storage",24,Michael Tolan
+Google,Copy & update a Google Docs template in a shared folder,Google,8,null
+Google,Onboard employees with flexible forms,"GitHub, Google, Zoom",14,null
+Google,Add suspicious domains to Google Chronicle reference list,"Google, VirusTotal",5,null
+Google,Create instant Google Meets via Slackbot,"Google, Slack",5,Eoin Magner
+Google,Take out the trash in Gmail,Google,16,null
+Google,Create Google Calendar events from Notion database,"Google, Notion",9,Jesse Johnson
+Google,Audit & enforce compliance on endpoints with SimpleMDM,"BambooHR, Google, Slack",49,null
+Google,Add expense receipt photos to Navan,Google,5,null
+Google,Add video conferencing and meeting notes to new Google Calendar events,"Google, Google Calendar, Zoom",22,null
+Google,Update Excel files in OneDrive through email attachments and Pages,"Google, Microsoft OneDrive",26,null
+Google,Remove public access permissions in Google Drive,"Google, Google Drive",12,Michael Tolan
+Google,Create email filters for a user in Gmail,"Gmail, Google",8,Conor Dunne
+Google,Triage Google Chronicle cases from Slack,"Google, Slack",43,Sakil Khan
+Google,Reset Google account password and notify via Slack,"Google, Slack",13,Conor Dunne
+Google,Create an identity federation between GCP and AWS,"AWS, Google",5,Marcus Hallberg
+Google,Send Google Workspace security logs to ELK,"Elastic, Google",6,null
+Google,Backup and download logs from AWS S3 warm storage,"Google, Okta, Tines",45,Conor Dunne
+Google,Manage Google Calendar swiftly when unexpected alerts trigger,"Google, Slack",42,null
+Google,Create and manage an Email API through Tines,"Google, ServiceNow, Tines",33,null
+Google,Build a software report in runZero enriched with software end of life dates,"Google, runZero",11,Conor Dunne
+Google,Offboard employees using HiBob,"Google, HiBob, Okta, Slack",18,null
+Google,Send simple messages or cards to Google Spaces,Google,20,null
+Google,Save Tines Story in Google Cloud Platform,Google,5,null
+Google,Create or suspend role in Google,Google,18,null
+Google,Perform Google Workspace access review,"Google, Slack",11,Rosie Halpin
+Google,Retrieve a directory from an endpoint using CrowdStrike and save to Google Drive,"CrowdStrike, Google, Google Drive",22,Conor Dunne
+Google,Upload a file to Google Cloud Storage,"Google, Google Cloud Storage",7,Michael Tolan
+Google,Send Google Workspace security logs to AWS S3,"AWS, Google",8,Michael Tolan
+Google,Discover inactive Service Accounts in Google Cloud,"Google, Jira Software, Slack, Wiz",13,null
+Google,Recover deleted emails in Gmail,Google,12,null
+Google,Export Tines story time saved time series data to Google Sheets,"Google, Tines",17,null
+Google,Create custom Gmail filters from Sublime Security findings,"Gmail, Google, Sublime Security",14,Conor Dunne
+Google,Run Javascript with Google Cloud Functions,Google,2,null
+Google,Create and populate a Google file,"Google, Google Sheets",17,null
+Google,Create versioned backups on Google Drive files using Box,"Google, Google Drive",13,Conor Dunne
+Google,Manage Elasticsearch and GKE clusters via Slack bot,"Argo Workflows, Google, Kubernetes",41,Christopher Cutajar
+Google,Distribute IoC's using Pub/Sub in Google Cloud,Google,8,Conor Dunne
+Google,Retrieve overly permissive Google Cloud firewall rules with Wiz,"Google, Wiz",11,Conor Dunne
+Google,Retrieve Google Security Command Center findings and create issues in Jira,"Google, Jira Software",12,Conor Dunne
+Google,Respond to publicly exposed files in Google Drive with Reco,"Google, Reco",30,null
+Google,Retrieve alerts from Google Security Command Center,Google,19,null
+Google,Track Google search trends using SerpApi and save to OneDrive,"Google, Microsoft, Microsoft OneDrive, SerpApi",10,Michael Tolan
+Google,Respond to Google Drive public exposure alerts in Reco and secure files,"Google, Google Drive, Reco, Slack",46,null
+Google,Monitor user activity in Google Drive,"Google, Google Drive",18,Christopher Toole
+Google,Manage browser extension requests with Secure Annex,Google,7,John Tuckner
+Google,Disable Google Accounts based on SpyCloud breaches,"Google, Jira Software, SpyCloud",19,SpyCloud
+Google,Use ChatGPT for triaging with internal playbooks,"AWS, Google",32,Matt Houston
+Google,Search Google Vault for user activity,Google,18,Matt Houston
+Google,Synchronize Google Group email list with an AirTable database,"Airtable, Google",8,Conor Dunne
+Google,Record IoCs in Google FireBase,"FireBase, Google",13,Conor Dunne
+Google,Send Google Workspace security logs to LogScale,"Google, LogScale",6,null
+CrowdStrike,Analyze CrowdStrike detections,"CrowdStrike, Jira Software, Slack, VirusTotal",13,null
+CrowdStrike,Analyze and triage suspicious emails with various tools,"CrowdStrike, EmailRep, Jira Software, NextDNS, URLScan.io, VirusTotal",59,Michael Tolan
+CrowdStrike,Triage alerts with agents using SOPs in Confluence,"AbuseIPDB, Confluence, CrowdStrike, EmailRep, Okta, Slack, Tavily, Tines, URLScan.io, VirusTotal",8,Pete Wrenn
+CrowdStrike,Respond to alerts from various tools with the AI Agent Action,"CrowdStrike, SentinelOne",13,Conor Dunne
+CrowdStrike,EDgaR - the EDR audit and asset discovery utility,CrowdStrike,76,Tom Power
+CrowdStrike,Run a CrowdStrike Real Time Response command,CrowdStrike,11,null
+CrowdStrike,Lookup IOCs in different tools via Slackbot,"Abuse.ch, AbuseIPDB, Anomali ThreatStream, CrowdStrike, Hunter.io, Hybrid Analysis, MetaDefender, Pulsedive, Slack, URLScan.io, VirusTotal",66,Emily Nguyen
+CrowdStrike,Fetch and record CrowdStrike Spotlight vulnerabilities with Jira,"Automox, CrowdStrike, Jira Software",26,null
+CrowdStrike,"Ingest, analyze and store IOCs with Tines","AbuseIPDB, CrowdStrike, GreyNoise, Pulsedive, Sublime Security, Tines, URLScan.io, VirusTotal",45,Michael Tolan
+CrowdStrike,Analyze Crowdstrike detections and report in Jira and Microsoft Teams,"CrowdStrike, Jira Software, Microsoft, Microsoft Teams",12,null
+CrowdStrike,Check CrowdStrike agent is installed on new devices provisioned,"CrowdStrike, Qualys, ServiceNow, Slack",18,Shaun Finn
+CrowdStrike,Normalize alerts from multiple sources using ChatGPT,"CrowdStrike, Elastic, Lacework, OpenAI",16,null
+CrowdStrike,Contain a registered device with CrowdStrike,"CrowdStrike, Jira Software, Slack",10,null
+CrowdStrike,Use AI to create cases and act on CrowdStrike alerts,"CrowdStrike, Okta, PagerDuty, Zscaler",87,Conor Dunne
+CrowdStrike,Kill an active process in CrowdStrike,CrowdStrike,21,Conor Dunne
+CrowdStrike,Add CrowdStrike Spotlight vulnerability evidence to Drata,"CrowdStrike, Drata",16,null
+CrowdStrike,Analyze and triage suspicious emails across tools and Tines cases,"CrowdStrike, EmailRep, Tines, URLScan.io, VirusTotal",65,Michael Tolan
+CrowdStrike,Manage CrowdStrike IOCs in Slack,"CrowdStrike, Slack",38,null
+CrowdStrike,Verify CrowdStrike is present on new devices in Jamf,"CrowdStrike, Jamf Pro, Slack",9,Conor Dunne
+CrowdStrike,Retrieve files from devices in CrowdStrike,"CrowdStrike, VirusTotal",47,Conor Dunne
+CrowdStrike,Check if host is active in CrowdStrike and take action,"CrowdStrike, Slack",14,null
+CrowdStrike,Manage CrowdStrike detections using Pages,CrowdStrike,19,Conor Dunne
+CrowdStrike,Block suspicious IPs by creating firewall rule groups with CrowdStrike,"CrowdStrike, Slack",17,null
+CrowdStrike,Initiate CrowdStrike RTR memory dump,CrowdStrike,17,null
+CrowdStrike,Close CrowdStrike detections when ServiceNow incidents are resolved,"CrowdStrike, ServiceNow",4,Conor Dunne
+CrowdStrike,Generate a CrowdStrike RFM Report with AI,CrowdStrike,24,Tom Power
+CrowdStrike,Enrich CrowdStrike incidents with VirusTotal & send to TheHive,"CrowdStrike, TheHive Project, VirusTotal",25,Conor Dunne
+CrowdStrike,Export CrowdStrike detections to OneDrive as CSV,"CrowdStrike, Microsoft OneDrive",5,Michael Tolan
+CrowdStrike,Examine a file in CrowdStrike FalconX Sandbox,CrowdStrike,15,null
+CrowdStrike,Submit indicators of compromise to CrowdStrike's watchlist,CrowdStrike,53,null
+CrowdStrike,Lookup a host in CrowdStrike,CrowdStrike,12,null
+CrowdStrike,Retrieve a file from a CrowdStrike endpoint,CrowdStrike,24,Conor Dunne
+CrowdStrike,Generate sample security alerts with Tines or Cortex XDR,"CrowdStrike, Palo Alto Networks",10,Conor Dunne
+CrowdStrike,Enrich CrowdStrike detections with Active Directory and correlate in Jira tickets,"CrowdStrike, Jira Software, Microsoft, Microsoft Azure",24,null
+CrowdStrike,Add device to group in CrowdStrike temporarily,CrowdStrike,15,null
+CrowdStrike,Run forensics on an endpoint file in CrowdStrike,CrowdStrike,33,Conor Dunne
+CrowdStrike,"Handle malware alerts with CrowdStrike, Oomnitza, GitHub, and PagerDuty","CrowdStrike, GitHub, PagerDuty, Slack",25,Lucas Cantor
+CrowdStrike,Process CrowdStrike detections with Intezer,"CrowdStrike, Intezer Analyze, Jira Software, Slack",22,Aaron Sandow
+CrowdStrike,Receive password breach alerts from SpyCloud and secure accounts,"CrowdStrike, Jira Software, Okta, SpyCloud",23,Conor Dunne
+CrowdStrike,Manage IOCs in CrowdStrike Using Tines Pages,CrowdStrike,32,null
+CrowdStrike,Manage endpoint quarantine status,CrowdStrike,16,Conor Dunne
+CrowdStrike,Run a Real Time Response command in CrowdStrike,CrowdStrike,12,Conor Dunne
+CrowdStrike,Enrich FalconLogScale (Humio) events with ChatGPT,"CrowdStrike, LogScale, OpenAI",3,@ionstorm
+CrowdStrike,Respond to a CrowdStrike detection in ServiceNow,"CrowdStrike, VirusTotal",28,null
+CrowdStrike,Search for IoCs in a network when a MISP attribute is created,"CrowdStrike, DataDog, MISP",15,Conor Dunne
+CrowdStrike,"Investigate a URL with URLScan, create a ticket in Jira and take action","AbuseIPDB, CrowdStrike, Jira Software, NextDNS, Phish Report, URLScan.io",41,null
+CrowdStrike,Find missing devices in CrowdStrike,CrowdStrike,10,Conor Dunne
+CrowdStrike,Investigate and remediate malware with CrowdStrike FalconX and Microsoft Defender,"CrowdStrike, Jira Software, Microsoft Defender, Slack",34,null
+CrowdStrike,"Process CrowdStrike detections, check hashes in VirusTotal, and create tickets in IRIS","CrowdStrike, IRIS, VirusTotal",16,Michael Tolan
+CrowdStrike,Retrieve raw browser history artifacts from devices in CrowdStrike,CrowdStrike,70,Ahmad Aziz
+CrowdStrike,Update CrowdStrike Real Time Response script from AWS S3,"AWS, CrowdStrike",7,null
+CrowdStrike,Create or suspend role in CrowdStrike,CrowdStrike,13,null
+CrowdStrike,Collect CPU and RAM usage on an endpoint with Tines and CrowdStrike,CrowdStrike,35,Conor Dunne
+CrowdStrike,Export CrowdStrike detections to Google Cloud Storage as CSV,"CrowdStrike, Google Cloud Storage",6,Michael Tolan
+CrowdStrike,Retrieve a directory from an endpoint using CrowdStrike and save to Google Drive,"CrowdStrike, Google, Google Drive",22,Conor Dunne
+CrowdStrike,Query Censys for known Command & Control IPs add as IoCs in CrowdStrike,"Censys, CrowdStrike",16,Michael Tolan
+CrowdStrike,Contain devices identified by CrowdStrike Falcon Overwatch,"CrowdStrike, Jira Software",17,Michael Tolan
+CrowdStrike,Record and update affected Windows CrowdStrike host status using Smartsheet,"CrowdStrike, Smartsheet",18,Taylor Rainwater
+CrowdStrike,Manage CrowdStrike IOC blocklist,CrowdStrike,45,Michael Tolan
+CrowdStrike,Track vulnerabilities identified in CrowdStrike Spotlight with Tines cases,CrowdStrike,52,Sam Olson
+CrowdStrike,Standardize and enrich EDR alerts across platforms,"CrowdStrike, Jira Software, Slack, VirusTotal",26,Shaun Finn
+CrowdStrike,Crowdstrike Firewall Domain Blocking,CrowdStrike,10,Euan Dunsmore
+CrowdStrike,Deploy Canarytoken using CrowdStrike RTR,"CrowdStrike, Slack, Thinkst Canary",7,Tyron Kemp
+CrowdStrike,Retrieve CrowdStrike alerts and send to Falcon LogScale (Humio),CrowdStrike,8,null
+CrowdStrike,Manage user accounts in CrowdStrike,CrowdStrike,18,John Peter Vasanth
+CrowdStrike,Crowdstrike weekly host audit,CrowdStrike,13,Tom Power
+CrowdStrike,"Analyze, document and triage suspicious emails with Tines cases and records","AlienVault OTX, Anomali ThreatStream, CrowdStrike, Hybrid Analysis, NextDNS, PassiveTotal, VirusTotal",113,Rosie Halpin
+CrowdStrike,Create or update a custom Real Time Response script in CrowdStrike,CrowdStrike,8,null
+Okta,Triage alerts with agents using SOPs in Confluence,"AbuseIPDB, Confluence, CrowdStrike, EmailRep, Okta, Slack, Tavily, Tines, URLScan.io, VirusTotal",8,Pete Wrenn
+Okta,Onboard new BambooHR starters using an agent,"BambooHR, Jira Software, Okta, Slack",7,Conor Dunne
+Okta,Remove employee access from multiple services using the AI Agent Action,"Gmail, Okta, Slack",4,Conor Dunne
+Okta,Restricting User Access and Patching Vulnerable Devices with Kandji,"Kandji, Okta, Slack, Tines",33,Megan Elsayed
+Okta,Offboard user from Okta and Google using Pages and Records,"Gmail, Google, Okta",72,Lucas Cantor
+Okta,"Synchronize MFA group memberships in Okta, Duo & Jira","Duo Security, Jira Service Management, Okta",62,Caleb Williams
+Okta,Offboard employees using BambooHR,"BambooHR, Google, Okta, Slack",18,null
+Okta,Grant temporary application access,"Jira Software, Okta, Slack, Tines",30,Shaun Finn
+Okta,Add new employees to BambooHR and manage system access,"BambooHR, Google, Microsoft Azure, Okta, Slack",17,Michael Tolan
+Okta,Send an Okta MFA challenge via a Tines page,"Okta, Slack",34,null
+Okta,"Disable accounts in Google Workspace, GitHub, and Okta","GitHub, Google, Jira Software, Okta",23,Aaron Sandow
+Okta,Correlate & alert on failed login attempts in Okta via Slack,"Okta, Slack",8,null
+Okta,Use AI to create cases and act on CrowdStrike alerts,"CrowdStrike, Okta, PagerDuty, Zscaler",87,Conor Dunne
+Okta,Enrich & remediate suspicious logins reported in Okta,"AbuseIPDB, Okta, Slack, VirusTotal",14,Derek Wohlfahrt
+Okta,Add a user to Okta,Okta,10,null
+Okta,Detect and Respond to Okta Impossible Travel Sign-ins with Slack and Tines Cases,"Okta, Slack",25,null
+Okta,Onboard employees to BambooHR and grant access to office suites and Microsoft Teams,"BambooHR, Google, Microsoft, Microsoft Teams, Okta",11,null
+Okta,Send an MFA push challenge to an Okta user on-demand,"Okta, Slack",11,null
+Okta,Reset a user's password and active sessions in Okta,Okta,9,Michael Tolan
+Okta,Report on inactive Okta accounts using Tines cases and deactivate,Okta,19,null
+Okta,Approve user access to Okta or Office 365 using Pages,"Jira Software, Microsoft, Okta, Slack",44,null
+Okta,Monitor application access changes in Okta,Okta,18,Michael Tolan
+Okta,Verify a user using Slack and Okta verify,"Okta, Slack",27,null
+Okta,Search Okta logs for user or IP activity,Okta,12,Michael Tolan
+Okta,Enrich & remediate suspicious logins reported in Okta using Cases & Records,Okta,56,Sam Olson
+Okta,Reset a user's password in Okta,Okta,8,Conor Dunne
+Okta,Lookup user in Okta,Okta,17,Michael Tolan
+Okta,Export recent Okta logs to AWS S3,"AWS, Okta",10,null
+Okta,Lookup user in multiple platforms,"BambooHR, Okta, Slack, Tines",11,Michael Tolan
+Okta,Receive password breach alerts from SpyCloud and secure accounts,"CrowdStrike, Jira Software, Okta, SpyCloud",23,Conor Dunne
+Okta,Manage Okta apps using pages in Tines,Okta,67,Michael Tolan
+Okta,Respond to Okta alerts with Mattermost & Jira,"Jira Software, Mattermost, Okta",20,null
+Okta,Disable new MFA devices in Okta,Okta,6,Michael Tolan
+Okta,Report and lock lost devices in Jamf with Okta SSO,"Jamf Pro, Jira Software, Okta, Slack",28,Sakil Khan
+Okta,Refresh Okta zones with latest active Zscaler IP ranges,"Okta, Zscaler",16,null
+Okta,Investigate and remediate multiple denied MFA push requests in Okta,"IPQualityScore, Microsoft Teams, Okta, Tines, VirusTotal",31,Claudia Kinsella
+Okta,Track Okta Active Directory agents using Records and Microsoft Teams,"Microsoft Teams, Okta, Tines",11,Taylor Rainwater
+Okta,Monitor Okta for invalid sign-in attempts and resolve via Slack,"Okta, PagerDuty, Slack",14,null
+Okta,Invalidate authentication sessions for a user in Okta,Okta,14,Conor Dunne
+Okta,Backup and download logs from AWS S3 warm storage,"Google, Okta, Tines",45,Conor Dunne
+Okta,Request and approve access to new tools with an audit trail,"AWS, GitHub, Jira Software, Okta, Slack",31,Michael Tolan
+Okta,Time-based Okta group membership,"Okta, Slack",11,Scott Bean
+Okta,Provide a password reset page for Okta,Okta,8,null
+Okta,Provide a password reset page in Tines,"Jira Software, Okta, Slack",18,Michael Tolan
+Okta,Offboard employees using HiBob,"Google, HiBob, Okta, Slack",18,null
+Okta,Verify User Identity through slack with Okta/Yubikey OTP,Okta,15,Pendie Garrett
+Okta,Scan Okta logins with Spur for proxies and VPNs and raise a case in Tines,"Okta, Spur, Tines",20,Michael Tolan
+Okta,Automate Response to Data Risk with Tines and Code42 Incydr,"Code42, Jira Software, Okta",13,null
+Okta,Allow developers to manage OIDC applications in Okta,Okta,8,Florian Baumgartner
+Okta,"Retrieve Code42 alerts, send to Slack and suspend user in Okta","Code42, Okta, Slack",19,null
+Okta,Provision AWS and Vault access via Okta,"AWS, HashiCorp, Okta",25,Zach Perry
+Okta,Manage Okta user groups and create Jira tickets via Slack,"AWS, Jira Software, Knowbe4, Okta, Slack",140,Sandeep Kumar
+Okta,Manage Okta login threshold limit in Jira via Slack,"Jira Software, Okta, Slack",15,null
+Okta,Log Axonius users without an Okta connection with BMC Remedy,"Axonius, BMC Helix IT Service Management, Okta",5,null
+Okta,Retrieve & enrich Okta alerts from Logz.io,"Logz.io, Okta, Slack",27,null
+Okta,Assign New Okta Administrator Role to Okta from BambooHR through Opal,"BambooHR, Jira Software, Okta, Opal",16,null
+Okta,Sync Okta groups with Fleet labels,"Fleet, Okta",15,Dave Herder
+Microsoft,Cleanup Microsoft Outlook inbox with Tines AI,"Microsoft, Microsoft Outlook",47,Michael Lynn
+Microsoft,Search Microsoft sign in logs,Microsoft,8,null
+Microsoft,Add a new user in Microsoft Entra ID,"Jira Software, Microsoft, Microsoft Azure, Microsoft Teams",6,Michael Tolan
+Microsoft,Analyze Crowdstrike detections and report in Jira and Microsoft Teams,"CrowdStrike, Jira Software, Microsoft, Microsoft Teams",12,null
+Microsoft,Query Log Analytics for Azure Sentinel alerts,"Microsoft, Microsoft Azure",5,null
+Microsoft,Fetch & manage Microsoft Defender alerts,"Jira Software, Microsoft",5,null
+Microsoft,Search and delete spam in an Office 365 mailbox,Microsoft,10,null
+Microsoft,Send a message to user in Microsoft Teams,"Microsoft, Microsoft Teams",17,null
+Microsoft,Manage alerts from Microsoft Defender Cloud,"Microsoft, Microsoft Teams",39,null
+Microsoft,Invalidate user's password in Azure Active Directory,"Microsoft, Microsoft Azure",9,null
+Microsoft,Invalidate authentication sessions for a user in Azure Entra ID,"Microsoft, Microsoft Azure",17,Michael Tolan
+Microsoft,Take action on Azure Sentinel alerts depending on severity level,"Jira Software, Microsoft, Microsoft Azure, Microsoft Teams",30,Shaun Finn
+Microsoft,Investigate and enrich suspicious Office 365 login Elastic alerts,"Elastic, Microsoft",20,null
+Microsoft,Onboard employees to BambooHR and grant access to office suites and Microsoft Teams,"BambooHR, Google, Microsoft, Microsoft Teams, Okta",11,null
+Microsoft,Retrieve and remediate Cyera issues,"Cyera, Microsoft, Microsoft Azure, Microsoft OneDrive",45,Monolithic Power Systems
+Microsoft,Create new Azure AD users via a form,"Jira Software, Microsoft, Microsoft Azure",10,Shaun Finn
+Microsoft,Enrich Microsoft security update CVEs with Recorded Future,"Microsoft, Recorded Future",18,Derek Wohlfahrt
+Microsoft,Authenticate to Microsoft Graph through multiple user identities with Tines Pages,Microsoft,8,Matthew
+Microsoft,Review Azure Activity Reports for inactive user and licenses,"Microsoft, Microsoft Azure",12,Conor Dunne
+Microsoft,Approve user access to Okta or Office 365 using Pages,"Jira Software, Microsoft, Okta, Slack",44,null
+Microsoft,Using the Microsoft Office 365 management API to view audit logs,Microsoft,9,null
+Microsoft,Delete an email from a specified user's mailbox,Microsoft,4,null
+Microsoft,Analyze files with VMRay,"Microsoft, Microsoft Teams, Slack, VMRay",31,null
+Microsoft,Receive Azure Sentinel alerts and block IPs with firewall rules,"Microsoft, Microsoft Azure",15,Conor Dunne
+Microsoft,Find and reboot devices with failed Microsoft Intune updates,"Microsoft, Microsoft Azure",6,Conor Dunne
+Microsoft,Send multifactor push prompt in Azure Entra ID,Microsoft,20,Nathan Collings
+Microsoft,Communicate across channels in Microsoft Teams and Slack,"Microsoft, Microsoft Teams, Slack",15,Michael Tolan
+Microsoft,Enrich CrowdStrike detections with Active Directory and correlate in Jira tickets,"CrowdStrike, Jira Software, Microsoft, Microsoft Azure",24,null
+Microsoft,Add Notion database entries as Outlook calendar events,"Microsoft, Microsoft Outlook, Notion",4,Michael Tolan
+Microsoft,Update groups assigned to a user in Microsoft Entra ID,"Microsoft, Microsoft Azure",58,Michael Tolan
+Microsoft,Retrieve and respond to Azure guest accounts detected by Wiz,"Microsoft, Microsoft Azure, Wiz",20,Conor Dunne
+Microsoft,"Enrich CVE information using Microsoft, Recorded Future, CIRCL and GreyNoise","GreyNoise, Microsoft, Recorded Future",6,Michael Tolan
+Microsoft,Read unread emails & analyze any URLs mentioned,"Microsoft, ServiceNow, URLScan.io",22,Shaun Finn
+Microsoft,Retrieve emails from Outlook and add the details to a Microsoft OneDrive spreadsheet,"Microsoft, Microsoft OneDrive",9,Conor Dunne
+Microsoft,Send SMS with Twilio if assigned to a Case in Tines,"Microsoft, Tines, Twilio",15,Michael Tolan
+Microsoft,Deallocate and delete unnecessary virtual machines in Azure and raise tickets,"Jira Software, Microsoft, Microsoft Azure",27,Michael Tolan
+Microsoft,SIGMA converter for YAML,"Microsoft, Splunk",10,Nathan Collings
+Microsoft,Add user to Entra ID,"Microsoft, Microsoft Azure",11,null
+Microsoft,"Ingest Opsgenie alerts, enrich data, and create Jira issue with notifications in Slack","Jira Software, Microsoft, OpsGenie, Qualys, Slack, URLScan.io, VirusTotal",16,null
+Microsoft,Manage Sharepoint sites,"Jira Software, Microsoft, Microsoft Teams",20,Shaun Finn
+Microsoft,Save attachments from emails in Microsoft Outlook to Microsoft OneDrive,"Microsoft, Microsoft OneDrive",6,Conor Dunne
+Microsoft,Disable a user in Duo Security and Azure Entra ID while alerting PagerDuty,"Duo Security, Microsoft, PagerDuty",12,null
+Microsoft,Create many new Microsoft Entra ID users using Tines pages,"Microsoft, Microsoft Azure",16,Conor Dunne
+Microsoft,Create dynamic groups in Azure Active Directory,"Microsoft, Microsoft Azure",14,null
+Microsoft,Track Google search trends using SerpApi and save to OneDrive,"Google, Microsoft, Microsoft OneDrive, SerpApi",10,Michael Tolan
+Microsoft,Convert a Tines case to a Microsoft Word document with TurboDocX,"Microsoft, TurboDocx",13,Aaron Sandow
+Microsoft,Email template personalization using Microsoft Outlook,Microsoft,8,Aeon Psych
+Microsoft,Manage Microsoft Teams chat membership,"Microsoft, Microsoft Teams",18,Nathan Collings
+Microsoft,Receive virtual machine deployment events from Azure Event Grid and alert in Slack and Jira,"Jira Software, Microsoft, Microsoft Azure, Slack",10,Michael Tolan
+VirusTotal,"Analyze phishing email senders, URLs, & attachments","EmailRep, Sublime Security, URLScan.io, VirusTotal",51,null
+VirusTotal,Analyze CrowdStrike detections,"CrowdStrike, Jira Software, Slack, VirusTotal",13,null
+VirusTotal,Analyze a file in VirusTotal,VirusTotal,21,null
+VirusTotal,Analyze and triage suspicious emails with various tools,"CrowdStrike, EmailRep, Jira Software, NextDNS, URLScan.io, VirusTotal",59,Michael Tolan
+VirusTotal,Analyze domains through multiple sources,"URLScan.io, VirusTotal",16,null
+VirusTotal,Triage alerts with agents using SOPs in Confluence,"AbuseIPDB, Confluence, CrowdStrike, EmailRep, Okta, Slack, Tavily, Tines, URLScan.io, VirusTotal",8,Pete Wrenn
+VirusTotal,Triage Material Security cases via Slack,"Jira Software, Material Security, Slack, Tines, VirusTotal",27,Shasheen Bandodkar
+VirusTotal,Tag Outlook Emails in a Folder Based on VirusTotal Scan Results,"Microsoft Outlook, VirusTotal",8,Sabrina de Silva
+VirusTotal,Investigate Phishing emails with Proofpoint CLEAR and Tines,"Proofpoint, URLScan.io, VirusTotal",86,John Vasanth
+VirusTotal,Analyze an IP in many services at once,"AbuseIPDB, APIVoid, GreyNoise, Jira Software, Pulsedive, VirusTotal",13,Michael Tolan
+VirusTotal,Analyze a hash in VirusTotal,VirusTotal,15,Michael Tolan
+VirusTotal,Lookup IOCs in different tools via Slackbot,"Abuse.ch, AbuseIPDB, Anomali ThreatStream, CrowdStrike, Hunter.io, Hybrid Analysis, MetaDefender, Pulsedive, Slack, URLScan.io, VirusTotal",66,Emily Nguyen
+VirusTotal,Identify and remediate malicious SentinelOne threats with VirusTotal,"Jira Software, SentinelOne, VirusTotal",40,null
+VirusTotal,Analyse an IP address,"Shodan, VirusTotal",5,Conor Dunne
+VirusTotal,"Ingest, analyze and store IOCs with Tines","AbuseIPDB, CrowdStrike, GreyNoise, Pulsedive, Sublime Security, Tines, URLScan.io, VirusTotal",45,Michael Tolan
+VirusTotal,Create an IP enrichment API,"GreyNoise, Pulsedive, VirusTotal",6,null
+VirusTotal,Enrich & remediate suspicious logins reported in Okta,"AbuseIPDB, Okta, Slack, VirusTotal",14,Derek Wohlfahrt
+VirusTotal,Analyze and triage suspicious emails across tools and Tines cases,"CrowdStrike, EmailRep, Tines, URLScan.io, VirusTotal",65,Michael Tolan
+VirusTotal,Analyze domains via slash command in Microsoft Teams,"Microsoft Teams, VirusTotal",10,null
+VirusTotal,Submit URL for analysis via Slackbot and return screenshot of results,"Slack, URLScan.io, VirusTotal",9,null
+VirusTotal,Monitor US-CERT for IOCs and block dynamically,VirusTotal,14,null
+VirusTotal,Search IOCs on webpages in VirusTotal and Circl CVE,VirusTotal,45,Conor Dunne
+VirusTotal,Retrieve files from devices in CrowdStrike,"CrowdStrike, VirusTotal",47,Conor Dunne
+VirusTotal,Investigate EDR alerts from Carbon Black,"Jira Software, PagerDuty, VirusTotal",11,Shaun Finn
+VirusTotal,Search and Update Splunk Notable with VirusTotal Enrichment with case management and Microsoft Teams notification,"Microsoft Teams, Splunk, VirusTotal",18,null
+VirusTotal,Retrieve Proofpoint events and log issues in Jira,"EmailRep, Jira Software, Proofpoint, URLScan.io, VirusTotal",11,Michael Tolan
+VirusTotal,Run a query in Snowflake,"Slack, Snowflake, VirusTotal, Zendesk",5,null
+VirusTotal,Triage email attachments with Material Security,"Material Security, VirusTotal",13,null
+VirusTotal,Receive enriched IP information via Slack,"AbuseIPDB, GreyNoise, Slack, VirusTotal",6,Aaron Sandow
+VirusTotal,Analyze SMS phishing with the AI action,"MISP, Slack, URLScan.io, VirusTotal",33,Michael Fischler
+VirusTotal,Enrich CrowdStrike incidents with VirusTotal & send to TheHive,"CrowdStrike, TheHive Project, VirusTotal",25,Conor Dunne
+VirusTotal,Add suspicious domains to Google Chronicle reference list,"Google, VirusTotal",5,null
+VirusTotal,Enrich OpenCTI malware analysis with VirusTotal observables,"OpenCTI, VirusTotal",21,Conor Dunne
+VirusTotal,Respond to a CrowdStrike detection in ServiceNow,"CrowdStrike, VirusTotal",28,null
+VirusTotal,Investigate and remediate multiple denied MFA push requests in Okta,"IPQualityScore, Microsoft Teams, Okta, Tines, VirusTotal",31,Claudia Kinsella
+VirusTotal,"Ingest, enrich, and remediate ExtraHop alerts and block suspicious URLs with Zscaler","AbuseIPDB, Extrahop, Microsoft Teams, URLScan.io, VirusTotal, Zscaler",15,null
+VirusTotal,"Process CrowdStrike detections, check hashes in VirusTotal, and create tickets in IRIS","CrowdStrike, IRIS, VirusTotal",16,Michael Tolan
+VirusTotal,Manage access to web pages with Island browser,"Island, VirusTotal",21,Conor Dunne
+VirusTotal,Create VirusTotal domain reputation summaries using NVIDIA AI,"NVIDIA, Slack, VirusTotal",18,Conor Dunne
+VirusTotal,"Ingest Opsgenie alerts, enrich data, and create Jira issue with notifications in Slack","Jira Software, Microsoft, OpsGenie, Qualys, Slack, URLScan.io, VirusTotal",16,null
+VirusTotal,Lookup a file in VirusTotal,VirusTotal,26,Conor Dunne
+VirusTotal,Process & enrich Cylance detections,"Cylance, Slack, VirusTotal, Zendesk",29,null
+VirusTotal,Enrich IPs with VirusTotal Enterprise,VirusTotal,8,null
+VirusTotal,Analyze email attachment hashes from Sublime Security with VirusTotal,"Jira Software, Sublime Security, VirusTotal",33,Michael Tolan
+VirusTotal,Retrieve blocked DNS queries from AdGuard and enrich with VirusTotal and LimaCharlie,"AdGuard, LimaCharlie, VirusTotal",15,Conor Dunne
+VirusTotal,Standardize and enrich EDR alerts across platforms,"CrowdStrike, Jira Software, Slack, VirusTotal",26,Shaun Finn
+VirusTotal,Manage alerts from Vorlon with Tines cases and records,"VirusTotal, Vorlon",38,Anil
+VirusTotal,"Analyze, document and triage suspicious emails with Tines cases and records","AlienVault OTX, Anomali ThreatStream, CrowdStrike, Hybrid Analysis, NextDNS, PassiveTotal, VirusTotal",113,Rosie Halpin
+Microsoft Azure,Enrich cases with Azure Log Analytics using agents,"Microsoft Azure, Tines",13,Michael Tolan
+Microsoft Azure,Handle a suspicious login with a response timeout,Microsoft Azure,9,Emily Nguyen
+Microsoft Azure,Add a new user in Microsoft Entra ID,"Jira Software, Microsoft, Microsoft Azure, Microsoft Teams",6,Michael Tolan
+Microsoft Azure,Add new employees to BambooHR and manage system access,"BambooHR, Google, Microsoft Azure, Okta, Slack",17,Michael Tolan
+Microsoft Azure,Query Log Analytics for Azure Sentinel alerts,"Microsoft, Microsoft Azure",5,null
+Microsoft Azure,Disable accounts in Microsoft Entra ID,"Jira Software, Microsoft Azure",14,null
+Microsoft Azure,Invalidate user's password in Azure Active Directory,"Microsoft, Microsoft Azure",9,null
+Microsoft Azure,Invalidate authentication sessions for a user in Azure Entra ID,"Microsoft, Microsoft Azure",17,Michael Tolan
+Microsoft Azure,Take action on Azure Sentinel alerts depending on severity level,"Jira Software, Microsoft, Microsoft Azure, Microsoft Teams",30,Shaun Finn
+Microsoft Azure,Retrieve and remediate Cyera issues,"Cyera, Microsoft, Microsoft Azure, Microsoft OneDrive",45,Monolithic Power Systems
+Microsoft Azure,Create new Azure AD users via a form,"Jira Software, Microsoft, Microsoft Azure",10,Shaun Finn
+Microsoft Azure,Review Azure Activity Reports for inactive user and licenses,"Microsoft, Microsoft Azure",12,Conor Dunne
+Microsoft Azure,Add IOCs from Pulsedive to Azure Sentinel,"Microsoft Azure, Pulsedive",5,null
+Microsoft Azure,Retrieve new alerts from Microsoft Defender and create issues in Jira,"Jira Software, Microsoft Azure, Microsoft Defender",21,Michael Tolan
+Microsoft Azure,Monitor Azure AD MFA fraud alerts and track in Jira,Microsoft Azure,10,Nate Adams
+Microsoft Azure,Receive Azure Sentinel alerts and block IPs with firewall rules,"Microsoft, Microsoft Azure",15,Conor Dunne
+Microsoft Azure,Find and reboot devices with failed Microsoft Intune updates,"Microsoft, Microsoft Azure",6,Conor Dunne
+Microsoft Azure,Enrich CrowdStrike detections with Active Directory and correlate in Jira tickets,"CrowdStrike, Jira Software, Microsoft, Microsoft Azure",24,null
+Microsoft Azure,Update groups assigned to a user in Microsoft Entra ID,"Microsoft, Microsoft Azure",58,Michael Tolan
+Microsoft Azure,Retrieve and respond to Azure guest accounts detected by Wiz,"Microsoft, Microsoft Azure, Wiz",20,Conor Dunne
+Microsoft Azure,Enrich a user with their organization details in Azure Active Directory,Microsoft Azure,40,null
+Microsoft Azure,Remove 3rd Party Apps marked for removal in Netskope SSPM,"Microsoft Azure, Netskope, Slack",6,Netskope
+Microsoft Azure,Retrieve alerts from Microsoft Defender for Cloud and create detailed issue in Jira,"Jira Software, Microsoft Azure, Microsoft Defender",20,Michael Tolan
+Microsoft Azure,Review OAuth application access with AppTotal,Microsoft Azure,9,null
+Microsoft Azure,Deallocate and delete unnecessary virtual machines in Azure and raise tickets,"Jira Software, Microsoft, Microsoft Azure",27,Michael Tolan
+Microsoft Azure,Add user to Entra ID,"Microsoft, Microsoft Azure",11,null
+Microsoft Azure,Review OAuth application access in Azure and track in Tines cases,Microsoft Azure,20,Conor Dunne
+Microsoft Azure,"Remove a user account in Microsoft Entra ID, BambooHR, AWS, and Slack","AWS, BambooHR, Jira Software, Microsoft Azure, Slack",20,Michael Tolan
+Microsoft Azure,Create many new Microsoft Entra ID users using Tines pages,"Microsoft, Microsoft Azure",16,Conor Dunne
+Microsoft Azure,Create dynamic groups in Azure Active Directory,"Microsoft, Microsoft Azure",14,null
+Microsoft Azure,Monitor Azure application secrets for expiration and alert,"Jira Software, Microsoft Azure, Slack",10,Michael Tolan
+Microsoft Azure,Search for vulnerable or malicious dependencies across services,"Artifactory, GitLab, Microsoft Azure, Orca Security, Rapid7, Sonatype",113,Emily Nguyen
+Microsoft Azure,Backup Tines Stories to Azure Blob Storage,"Microsoft Azure, Tines",25,Michael Tolan
+Microsoft Azure,Reset Azure Entra ID passwords seen in SpyCloud breachces,"Microsoft Azure, SpyCloud",14,SpyCloud
+Microsoft Azure,Receive malware events from Azure Event Grid and remove files from Azure Blob Storage,"Jira Software, Microsoft Azure",12,Michael Tolan
+Microsoft Azure,Query a database collection in Azure Cosmos and download the results,Microsoft Azure,20,Michael Tolan
+Microsoft Azure,Receive virtual machine deployment events from Azure Event Grid and alert in Slack and Jira,"Jira Software, Microsoft, Microsoft Azure, Slack",10,Michael Tolan
+Microsoft Azure,Add IOCs from Pulsedive threats to Azure Cosmos DB,"Microsoft Azure, Pulsedive",5,null
+GitHub,Use the AI Agent Action to review GitHub pull requests,GitHub,6,Conor O'Donnell
+GitHub,Backup Tines Stories to GitHub,GitHub,22,null
+GitHub,Onboard employees & grant specialized access to specific tools,"GitHub, Google, Zoom",21,null
+GitHub,"Disable accounts in Google Workspace, GitHub, and Okta","GitHub, Google, Jira Software, Okta",23,Aaron Sandow
+GitHub,Create GitHub Issues from Elastic SIEM alerts,"Elastic, GitHub",6,null
+GitHub,Pull a Python Script from Github to execute in Tines,GitHub,6,null
+GitHub,Manage GitHub pull requests via Slack,"GitHub, Slack",14,Conor Dunne
+GitHub,Create issues in GitHub and Jira from findings in Semgrep,"GitHub, Jira Software, Semgrep",20,Conor Dunne
+GitHub,Import Story backups from GitHub to Tines,GitHub,43,null
+GitHub,Handle GitHub notifications and notify Slack,"GitHub, Slack",17,null
+GitHub,Analyze GitHub pull requests for vulnerabilities with ChatGPT,"GitHub, OpenAI",5,null
+GitHub,Create and escalate Jira issues for GitHub Advanced Security findings,"GitHub, Jira Software, Slack",6,Conor Dunne
+GitHub,Retrieve vulnerabilities from SonarCloud and suggest code fixes in GitHub,"GitHub, OpenAI, SonarCloud",13,Conor Dunne
+GitHub,Run a simulated phishing attack,"BambooHR, GitHub, Tines",22,Conor Dunne
+GitHub,Create GitHub issues from Sumo Logic alerts,"GitHub, Sumo Logic",10,null
+GitHub,Onboard employees with flexible forms,"GitHub, Google, Zoom",14,null
+GitHub,Create Terraform Infrastructure as Code,"GitHub, HashiCorp, HashiCorp Terraform, ServiceNow, Slack",16,null
+GitHub,"Handle malware alerts with CrowdStrike, Oomnitza, GitHub, and PagerDuty","CrowdStrike, GitHub, PagerDuty, Slack",25,Lucas Cantor
+GitHub,Add open spec files from Traceable to a GitHub repository,"GitHub, Traceable.ai",15,null
+GitHub,Request and approve access to new tools with an audit trail,"AWS, GitHub, Jira Software, Okta, Slack",31,Michael Tolan
+GitHub,Track issues across GitHub and Zendesk,"GitHub, Zendesk",28,null
+GitHub,Retrieve the code owners of a file in GitHub,GitHub,31,Conor Dunne
+GitHub,Record container vulnerabilities from AWS Inspector in GitHub,"AWS, GitHub",8,Liam Malone
+GitHub,Change GitHub repository from public to private,GitHub,15,null
+GitHub,Generate a SBOM in Veracode,"GitHub, GitLab",9,null
+GitHub,Get NPM package files from GitHub and check for vulnerabilities,"GitHub, NPM, Shortcut",42,Conor Dunne
+GitHub,Generate an SBOM with AWS Inspector and add to GitHub,"AWS, GitHub",11,Liam Malone
+GitHub,Validate GitHub webhook deliveries,GitHub,5,null
+GitHub,Monitor and backup Fleet policies in GitHub,"Fleet, GitHub, Slack",27,Conor Dunne
+GitHub,Backup Power BI reports to GitHub,"GitHub, Power BI",24,Michael Tolan
+GitHub,Sync Github file with a Tines Resource,"GitHub, Tines",13,Nick Page
+GitHub,Enable secret scanning and push protection on newly public GitHub repositories,"Elastic, GitHub",4,Christopher Cutajar
+GitHub,Host your Teams contact details using Records and Pages,GitHub,11,Sif Baksh
+GitHub,Onboard GitHub projects to SonarCloud and Airtable,"Airtable, GitHub, SonarCloud",36,Tyler Talaga
+GitHub,Sync IriusRisk projects with GitHub Terraform repositories,"GitHub, IriusRisk, Slack",21,Conor Dunne
+Elastic,Process and search documents in Elasticsearch with an agent,"Elastic, Tavily",30,Michael Tolan
+Elastic,Triage Elastic Security alerts and block malicious IPs,"Elastic, Google, GreyNoise",17,null
+Elastic,Normalize alerts from multiple sources using ChatGPT,"CrowdStrike, Elastic, Lacework, OpenAI",16,null
+Elastic,Search Elastic data sets and display results,Elastic,5,null
+Elastic,Create GitHub Issues from Elastic SIEM alerts,"Elastic, GitHub",6,null
+Elastic,Isolate a host protected by Elastic Endpoint,Elastic,11,Conor Dunne
+Elastic,"Analyze Elastic alerts, block IPs, and notify in Slack and Tines Cases","Elastic, Google, GreyNoise, Slack, Tines",10,Michael Tolan
+Elastic,Query Elasticsearch and page through results,Elastic,15,null
+Elastic,Investigate and enrich suspicious Office 365 login Elastic alerts,"Elastic, Microsoft",20,null
+Elastic,Identify false positive alerts from Elastic using a database in Notion,"Elastic, Notion",11,Michael Tolan
+Elastic,Elastic SIEM to Slack alert enrichment,"Elastic, Slack, Tines",106,Aaron Jewitt
+Elastic,Create Tines Cases from Elastic Common Schema,Elastic,21,Conor Dunne
+Elastic,Move security logs from Google Workspace to Elastic Security,"Elastic, Google",4,null
+Elastic,Detect and remediate high AWS EC2 CPU usage with Elastic Observability and document with Tines cases,"AWS, Elastic, Tines",27,null
+Elastic,Detect and alert performance issues in devices using Elastic and Slack,"Elastic, Slack",4,Tines
+Elastic,Using Records to improve story performance in Tines,Elastic,51,null
+Elastic,Search Elastic alerts,Elastic,17,Michael Tolan
+Elastic,Download PCAP from Endace Probe triggered by intrusion detection,"Elastic, Endace",26,Roberto Cordeiro
+Elastic,Build and search MITRE ATT&CK semantic index in Elastic,"Elastic, MITRE",18,Michael Tolan
+Elastic,Monitor Invary appraisals and isolate threats with Elastic Fleet,"Elastic, Invary",11,null
+Elastic,Download files from Elastic Agent host via a Tines Page,Elastic,14,null
+Elastic,Send Google Workspace security logs to ELK,"Elastic, Google",6,null
+Elastic,Identify and remediate high AWS EC2 Disk Usage with Elastic Observability and document with Tines cases,"AWS, Elastic, Tines",9,null
+Elastic,Replay Data with Cribl into Elastic Security and Isolate Hosts Using Elastic Agent,"Cribl, Elastic",20,null
+Elastic,Create issues using the Elastic Common Schema,"Elastic, OpenAI",11,null
+Elastic,Check Workday for unauthorized travel and alert in Slack,"Elastic, Jumpcloud, OpsGenie, Slack, Workday",34,Muhammet Tekbicak
+Elastic,Retrieve logs from the Wazuh Indexer,"Elastic, Wazuh",8,Conor Dunne
+Elastic,Upload and execute a script on an Elastic Fleet endpoint,Elastic,15,Conor Dunne
+Elastic,Investigate security alerts in Workbench from Slack links,"Elastic, GreyNoise, Slack",3,Michael Tolan
+Elastic,Delete Buildkite job logs,"BuildKite, Elastic",19,Christopher Cutajar
+Elastic,Create an API to query Tines template vendors and actions,Elastic,8,John Tuckner
+Elastic,Enable secret scanning and push protection on newly public GitHub repositories,"Elastic, GitHub",4,Christopher Cutajar
+Drata,Add CrowdStrike Spotlight vulnerability evidence to Drata,"CrowdStrike, Drata",16,null
+Drata,Add alert evidence from Armis to Drata controls,"Armis, Drata",8,null
+Drata,Add completed security training evidence to Drata,Drata,7,null
+Drata,Gather & add correlated searches in Splunk Enterprise Security to Drata,"Drata, Splunk",14,null
+Drata,Upload compliance evidence to Drata,Drata,14,null
+Drata,Track & add background check evidence to ensure regulatory compliance in Drata,Drata,7,null
+Drata,Add host vulnerabilities in Lacework to Drata controls,"Drata, Lacework",8,null
+Drata,Get failing test resources in Drata,Drata,7,null
+Drata,Upload & track asset management information from Tenable in Drata,"Drata, Tenable Vulnerability Management",8,null
+Drata,Extract SentinelOne alert evidence & upload to Drata controls,"Drata, SentinelOne",8,null
+Drata,Add Malwarebytes policy evidence to Drata controls,"Drata, Malwarebytes",6,null
+Drata,Scheduled rotation & tracking for AWS Access Keys in Drata,"AWS, Drata, Jira Software",29,null
+Drata,Push incidents from Jira to Drata,"Drata, Jira Software",4,null
+Drata,"Gather & enrich evidence between Analyst1, Sublime Security, and Drata","Analyst1, Drata, Sublime Security",48,null
+Drata,Pull & add IOCs from Malware Traffic Analysis to Drata controls,"Drata, Malware Traffic Analysis",13,null
+Drata,Add HIPAA training evidence to Drata,Drata,7,null
+Drata,Add evidence of device updates to Drata,Drata,9,null
+Drata,Run asset vulnerability scans & add evidence to compliance system,"Drata, Orca Security",24,null
+Drata,Add anti-virus evidence in Drata,Drata,9,null
+Drata,Add hard drive encryption evidence to Drata,Drata,8,null
+Drata,Add password manager evidence to Drata,Drata,8,null
+Drata,Fetch vulnerabilities in SecurityScorecard and add to Drata,"Drata, Security Scorecard",23,null
+Drata,Find & remediate public AWS S3 buckets with Veza and add evidence to Drata controls,"AWS, Drata, Jira Software, Veza",20,null
+Drata,Add screensaver lock evidence to Drata,Drata,9,null
+Drata,Add IdP MFA evidence to Drata,Drata,7,null
+Drata,Get compliance status for a user in Drata,Drata,3,null
+Microsoft Teams,Troubleshoot broken Tines actions using an AI Agent chatbot,"Microsoft Teams, Slack, Tavily, Tines",14,Michael Tolan
+Microsoft Teams,Microsoft Teams Vulnerability Scanner and Responder,"Microsoft Teams, Tenable Vulnerability Management",30,Michael Snow
+Microsoft Teams,Check for new CISA vulnerabilities,"Microsoft Teams, Tenable Vulnerability Management",6,null
+Microsoft Teams,Add a new user in Microsoft Entra ID,"Jira Software, Microsoft, Microsoft Azure, Microsoft Teams",6,Michael Tolan
+Microsoft Teams,Analyze Crowdstrike detections and report in Jira and Microsoft Teams,"CrowdStrike, Jira Software, Microsoft, Microsoft Teams",12,null
+Microsoft Teams,Send a message to user in Microsoft Teams,"Microsoft, Microsoft Teams",17,null
+Microsoft Teams,Manage alerts from Microsoft Defender Cloud,"Microsoft, Microsoft Teams",39,null
+Microsoft Teams,Analyze domains via slash command in Microsoft Teams,"Microsoft Teams, VirusTotal",10,null
+Microsoft Teams,Take action on Azure Sentinel alerts depending on severity level,"Jira Software, Microsoft, Microsoft Azure, Microsoft Teams",30,Shaun Finn
+Microsoft Teams,Onboard employees to BambooHR and grant access to office suites and Microsoft Teams,"BambooHR, Google, Microsoft, Microsoft Teams, Okta",11,null
+Microsoft Teams,Send Tines case notifications to subscribers in Slack or Teams,"Microsoft Teams, Slack, Tines",26,Michael Tolan
+Microsoft Teams,Search and Update Splunk Notable with VirusTotal Enrichment with case management and Microsoft Teams notification,"Microsoft Teams, Splunk, VirusTotal",18,null
+Microsoft Teams,Analyze files with VMRay,"Microsoft, Microsoft Teams, Slack, VMRay",31,null
+Microsoft Teams,Communicate across channels in Microsoft Teams and Slack,"Microsoft, Microsoft Teams, Slack",15,Michael Tolan
+Microsoft Teams,Investigate and remediate multiple denied MFA push requests in Okta,"IPQualityScore, Microsoft Teams, Okta, Tines, VirusTotal",31,Claudia Kinsella
+Microsoft Teams,Track Okta Active Directory agents using Records and Microsoft Teams,"Microsoft Teams, Okta, Tines",11,Taylor Rainwater
+Microsoft Teams,"Ingest, enrich, and remediate ExtraHop alerts and block suspicious URLs with Zscaler","AbuseIPDB, Extrahop, Microsoft Teams, URLScan.io, VirusTotal, Zscaler",15,null
+Microsoft Teams,Manage Sharepoint sites,"Jira Software, Microsoft, Microsoft Teams",20,Shaun Finn
+Microsoft Teams,Notify Microsoft Teams when issues in Jira have not been triaged,"Jira Software, Microsoft Teams",11,Michael Tolan
+Microsoft Teams,Review tasks in ConductorOne for inactive approvers and alert in Microsoft Teams,"ConductorOne, Microsoft Teams",10,Michael Tolan
+Microsoft Teams,Coach users to use AI safely with Harmonic Security and Teams,"Harmonic Security, Microsoft Teams",8,null
+Microsoft Teams,Manage Microsoft Teams chat membership,"Microsoft, Microsoft Teams",18,Nathan Collings
+Microsoft Teams,Search for AppStore apps with no approvers in Lumos and alert in Microsoft Teams,"Lumos, Microsoft Teams",6,Michael Tolan
+URLScan.io,"Analyze phishing email senders, URLs, & attachments","EmailRep, Sublime Security, URLScan.io, VirusTotal",51,null
+URLScan.io,Analyze and triage suspicious emails with various tools,"CrowdStrike, EmailRep, Jira Software, NextDNS, URLScan.io, VirusTotal",59,Michael Tolan
+URLScan.io,Analyze domains through multiple sources,"URLScan.io, VirusTotal",16,null
+URLScan.io,Triage alerts with agents using SOPs in Confluence,"AbuseIPDB, Confluence, CrowdStrike, EmailRep, Okta, Slack, Tavily, Tines, URLScan.io, VirusTotal",8,Pete Wrenn
+URLScan.io,Investigate Phishing emails with Proofpoint CLEAR and Tines,"Proofpoint, URLScan.io, VirusTotal",86,John Vasanth
+URLScan.io,Analyze URLs in URLScan,URLScan.io,12,null
+URLScan.io,Lookup IOCs in different tools via Slackbot,"Abuse.ch, AbuseIPDB, Anomali ThreatStream, CrowdStrike, Hunter.io, Hybrid Analysis, MetaDefender, Pulsedive, Slack, URLScan.io, VirusTotal",66,Emily Nguyen
+URLScan.io,"Ingest, analyze and store IOCs with Tines","AbuseIPDB, CrowdStrike, GreyNoise, Pulsedive, Sublime Security, Tines, URLScan.io, VirusTotal",45,Michael Tolan
+URLScan.io,Analyze IPs & search for indicators of compromise,"Criminal IP, Jira Software, URLScan.io",29,null
+URLScan.io,Check if new AWS GuardDuty findings are malicious,"Amazon GuardDuty, AWS, Jira Software, URLScan.io",27,null
+URLScan.io,Analyze and triage suspicious emails across tools and Tines cases,"CrowdStrike, EmailRep, Tines, URLScan.io, VirusTotal",65,Michael Tolan
+URLScan.io,Submit URL for analysis via Slackbot and return screenshot of results,"Slack, URLScan.io, VirusTotal",9,null
+URLScan.io,Request URLs to be added to Zscaler Allowlist,"URLScan.io, Zscaler",13,null
+URLScan.io,Analyze a URL with URLScan,URLScan.io,17,Michael Tolan
+URLScan.io,Retrieve Proofpoint events and log issues in Jira,"EmailRep, Jira Software, Proofpoint, URLScan.io, VirusTotal",11,Michael Tolan
+URLScan.io,Analyze SMS phishing with the AI action,"MISP, Slack, URLScan.io, VirusTotal",33,Michael Fischler
+URLScan.io,Read unread emails & analyze any URLs mentioned,"Microsoft, ServiceNow, URLScan.io",22,Shaun Finn
+URLScan.io,Monitor domains using URLScan,URLScan.io,24,null
+URLScan.io,Create expressive pages in Tines,URLScan.io,11,null
+URLScan.io,Enrich clicked URLs from Proofpoint and block with Zscaler,"AbuseIPDB, Jira Software, Proofpoint, URLScan.io, Zscaler",13,Michael Tolan
+URLScan.io,"Investigate a URL with URLScan, create a ticket in Jira and take action","AbuseIPDB, CrowdStrike, Jira Software, NextDNS, Phish Report, URLScan.io",41,null
+URLScan.io,"Ingest, enrich, and remediate ExtraHop alerts and block suspicious URLs with Zscaler","AbuseIPDB, Extrahop, Microsoft Teams, URLScan.io, VirusTotal, Zscaler",15,null
+URLScan.io,"Ingest Opsgenie alerts, enrich data, and create Jira issue with notifications in Slack","Jira Software, Microsoft, OpsGenie, Qualys, Slack, URLScan.io, VirusTotal",16,null
+GreyNoise,Analyze an IP in many services at once,"AbuseIPDB, APIVoid, GreyNoise, Jira Software, Pulsedive, VirusTotal",13,Michael Tolan
+GreyNoise,Triage Elastic Security alerts and block malicious IPs,"Elastic, Google, GreyNoise",17,null
+GreyNoise,"Ingest, analyze and store IOCs with Tines","AbuseIPDB, CrowdStrike, GreyNoise, Pulsedive, Sublime Security, Tines, URLScan.io, VirusTotal",45,Michael Tolan
+GreyNoise,Create an IP enrichment API,"GreyNoise, Pulsedive, VirusTotal",6,null
+GreyNoise,Analyze vulnerabilities from Tenable workbench,"GreyNoise, Jira Software, Slack, Tenable Vulnerability Management",25,null
+GreyNoise,"Analyze Elastic alerts, block IPs, and notify in Slack and Tines Cases","Elastic, Google, GreyNoise, Slack, Tines",10,Michael Tolan
+GreyNoise,Crowdsource suspicious logins and suspend accounts,"GreyNoise, Jira Software, OneLogin, PagerDuty, Slack",16,null
+GreyNoise,Block scanning IPs with Palo Alto external dynamic list,GreyNoise,6,null
+GreyNoise,Receive enriched IP information via Slack,"AbuseIPDB, GreyNoise, Slack, VirusTotal",6,Aaron Sandow
+GreyNoise,Remediate PagerDuty alerts,"GreyNoise, PagerDuty",23,null
+GreyNoise,Hunt IP addresses in GreyNoise,GreyNoise,11,null
+GreyNoise,Check updated CVEs for exploitation using VulnCheck and GreyNoise,"GreyNoise, VulnCheck",11,null
+GreyNoise,Check Thinkst Canary alerts in GreyNoise and record in runZero,"GreyNoise, runZero, Thinkst Canary",7,Justin Varner
+GreyNoise,"Enrich CVE information using Microsoft, Recorded Future, CIRCL and GreyNoise","GreyNoise, Microsoft, Recorded Future",6,Michael Tolan
+GreyNoise,Query GreyNoise for CVEs and update blocklist,GreyNoise,7,null
+GreyNoise,Detect and Enrich Sysdig Alerts with Risky User with Greynoise and Deny User from AWS Console Login,"AWS, GreyNoise, Sysdig",11,Manuel Boira
+GreyNoise,Enrich WAF Alerts with GreyNoise,GreyNoise,10,null
+GreyNoise,"Sysdig Cloud Detection, Document with Jira, and Respond with Tines","AWS, GreyNoise, Jira Software, Kubernetes, Sysdig, Tines",40,Manuel Boira
+GreyNoise,Generate GNQL queries from plain text using GreyNoise Labs,GreyNoise,12,Tines
+GreyNoise,Investigate security alerts in Workbench from Slack links,"Elastic, GreyNoise, Slack",3,Michael Tolan
+OpenAI,Create AI powered tools in Tines,OpenAI,10,null
+OpenAI,Analyze suspicious email contents with ChatGPT Vision,OpenAI,5,null
+OpenAI,Normalize alerts from multiple sources using ChatGPT,"CrowdStrike, Elastic, Lacework, OpenAI",16,null
+OpenAI,Start conversations with ChatGPT in Slack,"OpenAI, Slack",12,null
+OpenAI,Analyze open issues in Wiz with ChatGPT,"OpenAI, Wiz",12,null
+OpenAI,Fetch recent cybersecurity news and post to LinkedIn,"LinkedIn, OpenAI",6,null
+OpenAI,Analyze GitHub pull requests for vulnerabilities with ChatGPT,"GitHub, OpenAI",5,null
+OpenAI,Analyze potential SMS phishing attacks and raise incidents in Jira,"OCRSpace, OpenAI, PagerDuty",22,Rajesh Kumar
+OpenAI,Retrieve vulnerabilities from SonarCloud and suggest code fixes in GitHub,"GitHub, OpenAI, SonarCloud",13,Conor Dunne
+OpenAI,Create Tines story documentation using ChatGPT and store in Notion,OpenAI,10,null
+OpenAI,Transform alerts to the OCSF format using ChatGPT and create a case,OpenAI,14,Tines
+OpenAI,Use OpenAI to create Tines Actions,"OpenAI, Slack",3,null
+OpenAI,Enrich FalconLogScale (Humio) events with ChatGPT,"CrowdStrike, LogScale, OpenAI",3,@ionstorm
+OpenAI,Assess potential AWS IAM security vulnerabilities with OpenAI,"AWS, OpenAI",15,null
+OpenAI,Generate a yoga flow routine with ChatGPT and Tines Pages,OpenAI,3,null
+OpenAI,Create issues using the Elastic Common Schema,"Elastic, OpenAI",11,null
+OpenAI,Create an API from an image using ChatGPT,OpenAI,9,null
+OpenAI,Manage user access to ChatGPT,OpenAI,94,Conor Dunne
+OpenAI,Analyze Bugcrowd submissions with OpenAI and track in Jira,"Jira Software, OpenAI",4,Michael Tolan
+OpenAI,Receive alerts from Anecdotes.ai and create a ticket,"Anecdotes.ai, OpenAI",11,null
+BambooHR,Interact with case management systems using chat agents,"BambooHR, Jira Software",3,Conor Dunne
+BambooHR,Onboard new BambooHR starters using an agent,"BambooHR, Jira Software, Okta, Slack",7,Conor Dunne
+BambooHR,Offboard employees using BambooHR,"BambooHR, Google, Okta, Slack",18,null
+BambooHR,Add new employees to BambooHR and manage system access,"BambooHR, Google, Microsoft Azure, Okta, Slack",17,Michael Tolan
+BambooHR,Onboard employees to BambooHR and grant access to office suites and Microsoft Teams,"BambooHR, Google, Microsoft, Microsoft Teams, Okta",11,null
+BambooHR,Run a simulated phishing attack,"BambooHR, GitHub, Tines",22,Conor Dunne
+BambooHR,Employee recognition app with BambooHR and Slack,"BambooHR, Slack",20,null
+BambooHR,Audit & enforce compliance on endpoints with SimpleMDM,"BambooHR, Google, Slack",49,null
+BambooHR,Lookup user in multiple platforms,"BambooHR, Okta, Slack, Tines",11,Michael Tolan
+BambooHR,Share reminders for company holidays,"BambooHR, Slack",15,null
+BambooHR,Remind employees to take time off with BambooHr & Slack,"BambooHR, Slack",10,null
+BambooHR,Automate procure-to-pay requisition and approval,BambooHR,64,Stephen Creedon
+BambooHR,Send employee probation reminders to managers using BambooHR,BambooHR,16,null
+BambooHR,"Remove a user account in Microsoft Entra ID, BambooHR, AWS, and Slack","AWS, BambooHR, Jira Software, Microsoft Azure, Slack",20,Michael Tolan
+BambooHR,Update employee probation status with BambooHR & Slack,"BambooHR, Slack",21,null
+BambooHR,Assign New Okta Administrator Role to Okta from BambooHR through Opal,"BambooHR, Jira Software, Okta, Opal",16,null
+Recorded Future,Send an IOC to Recorded Future for analysis,Recorded Future,21,Michael Tolan
+Recorded Future,Analyze phishing emails with Recorded Future,Recorded Future,36,null
+Recorded Future,Detonate files with Recorded Future Sandbox,"Jira Software, Recorded Future",17,null
+Recorded Future,Enrich Microsoft security update CVEs with Recorded Future,"Microsoft, Recorded Future",18,Derek Wohlfahrt
+Recorded Future,Enrich a list of CVEs using Recorded Future via a form,Recorded Future,17,Derek Wohlfahrt
+Recorded Future,Look for & remediate new breaches using Recorded Future,"Jira Software, PagerDuty, Recorded Future",24,null
+Recorded Future,Retrieve & enrich IOCs across multiple platforms,"Cybereason, Jira Software, PassiveTotal, Recorded Future, Slack",14,null
+Recorded Future,Add known exploited vulnerabilities to Recorded Future,Recorded Future,6,null
+Recorded Future,Fetch rule results from Recorded Future Attack Surface Intelligence & open Jira tickets,"Jira Software, Recorded Future, Slack",31,Aaron Sandow
+Recorded Future,"Enrich CVE information using Microsoft, Recorded Future, CIRCL and GreyNoise","GreyNoise, Microsoft, Recorded Future",6,Michael Tolan
+Recorded Future,Enrich & document Recorded Future alerts,"Jira Software, Recorded Future, Slack",26,null
+Recorded Future,Fetch rule results from Recorded Future Attack Surface Intelligence & open ServiceNow tickets,"Recorded Future, ServiceNow, Slack",30,Rosie Halpin
+Recorded Future,Create incidents in Anomali Threatstream from Recorded Future alerts,"Anomali ThreatStream, Recorded Future",7,null
+Recorded Future,Create Sublime Security rules using Recorded Future threat intel,"Recorded Future, Sublime Security",24,null
+Recorded Future,Lookup third-party domain in Recorded Future,"Jira Software, Recorded Future, Slack",20,Aaron Sandow
+Recorded Future,Analyze a hash with Recorded Future,Recorded Future,6,Michael Tolan
+Sublime Security,"Analyze phishing email senders, URLs, & attachments","EmailRep, Sublime Security, URLScan.io, VirusTotal",51,null
+Sublime Security,"Ingest, analyze and store IOCs with Tines","AbuseIPDB, CrowdStrike, GreyNoise, Pulsedive, Sublime Security, Tines, URLScan.io, VirusTotal",45,Michael Tolan
+Sublime Security,Use Analyst1 threat intelligence in Sublime Security,"Analyst1, Sublime Security",39,null
+Sublime Security,Receive and analyze emails with rules in Sublime Security,Sublime Security,13,null
+Sublime Security,Notify recipient of quarantined email and create Tines case if opened,"Sublime Security, Tines",5,Michael Tolan
+Sublime Security,Sublime Security trashing workflow,Sublime Security,17,Andrew Katz
+Sublime Security,"Gather & enrich evidence between Analyst1, Sublime Security, and Drata","Analyst1, Drata, Sublime Security",48,null
+Sublime Security,Triage phishing alerts with Sublime,"Slack, Sublime Security",16,null
+Sublime Security,Create Sublime Security rules using Recorded Future threat intel,"Recorded Future, Sublime Security",24,null
+Sublime Security,Notify users of safe email reports in Sublime Security,Sublime Security,3,Aiden Mitchell
+Sublime Security,Analyze email attachment hashes from Sublime Security with VirusTotal,"Jira Software, Sublime Security, VirusTotal",33,Michael Tolan
+Sublime Security,Scan a file using Sublime Security,Sublime Security,10,Josh Liburdi
+Sublime Security,Create custom Gmail filters from Sublime Security findings,"Gmail, Google, Sublime Security",14,Conor Dunne
+Sublime Security,Integrate Anomali Threat Intelligence with Sublime Security's email detection signatures,"Anomali ThreatStream, Sublime Security",39,Dan Le
+Sublime Security,Update entry in a list in Sublime Security,Sublime Security,6,Michael Tolan
+Sublime Security,Get list information in Sublime Security,Sublime Security,6,Michael Tolan
+ServiceNow,Check CrowdStrike agent is installed on new devices provisioned,"CrowdStrike, Qualys, ServiceNow, Slack",18,Shaun Finn
+ServiceNow,Build ServiceNow API requests in Tines,ServiceNow,20,Conor Dunne
+ServiceNow,Create unique ServiceNow tickets from Splunk alerts,"ServiceNow, Splunk",19,null
+ServiceNow,Deactivate stale AWS access keys discovered by Wiz,"AWS, ServiceNow, Slack, Wiz",17,Derek Wohlfahrt
+ServiceNow,Close CrowdStrike detections when ServiceNow incidents are resolved,"CrowdStrike, ServiceNow",4,Conor Dunne
+ServiceNow,Create Terraform Infrastructure as Code,"GitHub, HashiCorp, HashiCorp Terraform, ServiceNow, Slack",16,null
+ServiceNow,Analyze quality of tickets in ServiceNow,ServiceNow,10,Michael Tolan
+ServiceNow,Manage AWS Inspector findings with ServiceNow,"AWS, ServiceNow",11,null
+ServiceNow,Create a ServiceNow incident from Slack,"ServiceNow, Slack",7,Conor Dunne
+ServiceNow,Read unread emails & analyze any URLs mentioned,"Microsoft, ServiceNow, URLScan.io",22,Shaun Finn
+ServiceNow,Process new ServiceNow incidents,"ServiceNow, Slack",3,null
+ServiceNow,Fetch rule results from Recorded Future Attack Surface Intelligence & open ServiceNow tickets,"Recorded Future, ServiceNow, Slack",30,Rosie Halpin
+ServiceNow,Create ServiceNow incidents from SpyCloud alerts,"ServiceNow, SpyCloud",24,SpyCloud
+ServiceNow,Create and manage an Email API through Tines,"Google, ServiceNow, Tines",33,null
+ServiceNow,Log Tines action failures and create issues to track,"Jira Software, ServiceNow",8,Michael Tolan
+Splunk,Run provided searches in Splunk,Splunk,12,null
+Splunk,Analyze Anvilogic events of interest,"Anvilogic, Splunk",27,Chris Burkhart
+Splunk,Ingest Tines audit logs into Splunk,Splunk,9,null
+Splunk,Search & update notable status in Splunk Enterprise Security,Splunk,11,Tines
+Splunk,Create unique ServiceNow tickets from Splunk alerts,"ServiceNow, Splunk",19,null
+Splunk,Search and Update Splunk Notable with VirusTotal Enrichment with case management and Microsoft Teams notification,"Microsoft Teams, Splunk, VirusTotal",18,null
+Splunk,Gather & add correlated searches in Splunk Enterprise Security to Drata,"Drata, Splunk",14,null
+Splunk,Search Splunk Enterprise logs,Splunk,13,Conor Dunne
+Splunk,Sensitive files shared to personal email,"Jira Software, Slack, Splunk",26,Brandon Buhrs
+Splunk,Build and send a weekly metric review,"Google Sheets, Splunk",29,Joe Frederick
+Splunk,Query Shodan for findings and alert on them using Slack and Jira,"Jira Software, Shodan, Slack, Splunk",11,null
+Splunk,Export Splunk SOAR cases to Tines,"Splunk, Tines",26,null
+Splunk,Fetch issues and evidence from Noname Security and process in Splunk,Splunk,10,null
+Splunk,SIGMA converter for YAML,"Microsoft, Splunk",10,Nathan Collings
+Splunk,Gather correlated Splunk searches and add to Anvilogic use cases,"Anvilogic, Splunk",10,null
+AbuseIPDB,Triage alerts with agents using SOPs in Confluence,"AbuseIPDB, Confluence, CrowdStrike, EmailRep, Okta, Slack, Tavily, Tines, URLScan.io, VirusTotal",8,Pete Wrenn
+AbuseIPDB,Analyze an IP in many services at once,"AbuseIPDB, APIVoid, GreyNoise, Jira Software, Pulsedive, VirusTotal",13,Michael Tolan
+AbuseIPDB,Lookup IOCs in different tools via Slackbot,"Abuse.ch, AbuseIPDB, Anomali ThreatStream, CrowdStrike, Hunter.io, Hybrid Analysis, MetaDefender, Pulsedive, Slack, URLScan.io, VirusTotal",66,Emily Nguyen
+AbuseIPDB,"Ingest, analyze and store IOCs with Tines","AbuseIPDB, CrowdStrike, GreyNoise, Pulsedive, Sublime Security, Tines, URLScan.io, VirusTotal",45,Michael Tolan
+AbuseIPDB,Enrich & remediate suspicious logins reported in Okta,"AbuseIPDB, Okta, Slack, VirusTotal",14,Derek Wohlfahrt
+AbuseIPDB,Check IP addresses in Panther & send results via Slack,"AbuseIPDB, Panther, Slack",20,Eoin Magner
+AbuseIPDB,Receive enriched IP information via Slack,"AbuseIPDB, GreyNoise, Slack, VirusTotal",6,Aaron Sandow
+AbuseIPDB,Enrich clicked URLs from Proofpoint and block with Zscaler,"AbuseIPDB, Jira Software, Proofpoint, URLScan.io, Zscaler",13,Michael Tolan
+AbuseIPDB,"Investigate a URL with URLScan, create a ticket in Jira and take action","AbuseIPDB, CrowdStrike, Jira Software, NextDNS, Phish Report, URLScan.io",41,null
+AbuseIPDB,"Ingest, enrich, and remediate ExtraHop alerts and block suspicious URLs with Zscaler","AbuseIPDB, Extrahop, Microsoft Teams, URLScan.io, VirusTotal, Zscaler",15,null
+AbuseIPDB,Enrich Canarytoken alerts and notify the security team,"AbuseIPDB, Thinkst Canary",12,Dennis Chow
+AbuseIPDB,Isolate machines based on malicious Cybereason Malops and track in JIRA,"AbuseIPDB, Cybereason, Jira Software",21,null
+AbuseIPDB,Enrich IPs recorded in Airtable,"AbuseIPDB, Airtable, Criminal IP",14,Michael Tolan
+Notion,Analyze Astrix alerts with AI and post to Notion,"Astrix, Notion",6,Alon Berger
+Notion,Implement pagination with these techniques,"Jira Software, Notion, Slack, Tenable Vulnerability Management",32,null
+Notion,Identify false positive alerts from Elastic using a database in Notion,"Elastic, Notion",11,Michael Tolan
+Notion,Send new Notion database entries to Google Sheets,"Google Sheets, Notion",3,null
+Notion,Search Notion for information,Notion,10,null
+Notion,Create Google Calendar events from Notion database,"Google, Notion",9,Jesse Johnson
+Notion,Sync recent Outlook Calendar events to a Notion database,"Microsoft Outlook, Notion",3,Michael Tolan
+Notion,Add Notion database entries as Outlook calendar events,"Microsoft, Microsoft Outlook, Notion",4,Michael Tolan
+Notion,Send notifications for updates in a Notion database,Notion,11,null
+Notion,Generate a Tines case incident response timeline,"Notion, Tines",18,Conor Dunne
+Notion,Notify and assign training based on Harmonic Security alerts,"Harmonic Security, Knowbe4, Notion, Slack, Tines",17,Harmonic Security
+Notion,Parse URL From Email and Send To Notion,Notion,4,Colm O'Grada
+Notion,Create and sync Google Calendar events from Notion,"Google Calendar, Notion",23,Yanni Hajioannou
+PagerDuty,Monitor Zendesk tickets for SLA breaches and alert in Slack and PagerDuty,"PagerDuty, Slack, Zendesk",11,Hrishikesh Kokate
+PagerDuty,Use AI to create cases and act on CrowdStrike alerts,"CrowdStrike, Okta, PagerDuty, Zscaler",87,Conor Dunne
+PagerDuty,Crowdsource suspicious logins and suspend accounts,"GreyNoise, Jira Software, OneLogin, PagerDuty, Slack",16,null
+PagerDuty,Email an on-call engineer with PagerDuty,"PagerDuty, Slack",21,null
+PagerDuty,Investigate EDR alerts from Carbon Black,"Jira Software, PagerDuty, VirusTotal",11,Shaun Finn
+PagerDuty,Remediate PagerDuty alerts,"GreyNoise, PagerDuty",23,null
+PagerDuty,Look for & remediate new breaches using Recorded Future,"Jira Software, PagerDuty, Recorded Future",24,null
+PagerDuty,Analyze potential SMS phishing attacks and raise incidents in Jira,"OCRSpace, OpenAI, PagerDuty",22,Rajesh Kumar
+PagerDuty,"Handle malware alerts with CrowdStrike, Oomnitza, GitHub, and PagerDuty","CrowdStrike, GitHub, PagerDuty, Slack",25,Lucas Cantor
+PagerDuty,Monitor Okta for invalid sign-in attempts and resolve via Slack,"Okta, PagerDuty, Slack",14,null
+PagerDuty,Sync on-call engineers from PagerDuty to Bowtie access groups,"Bowtie, PagerDuty",16,Michael Tolan
+PagerDuty,Receive and correlate alerts from Sysdig,"OpsGenie, PagerDuty, Slack, Sysdig",10,null
+PagerDuty,Disable a user in Duo Security and Azure Entra ID while alerting PagerDuty,"Duo Security, Microsoft, PagerDuty",12,null
+Google Sheets,Add form data to Google Sheets,Google Sheets,3,null
+Google Sheets,Search Google Sheets information via Slack,"Google Sheets, Slack",13,null
+Google Sheets,Organize new form responses in Google Sheets,"Google, Google Sheets",3,null
+Google Sheets,Send new Notion database entries to Google Sheets,"Google Sheets, Notion",3,null
+Google Sheets,Build and send a weekly metric review,"Google Sheets, Splunk",29,Joe Frederick
+Google Sheets,Send reminders for risk register updates,"Google Sheets, Slack",15,Conor Dunne
+Google Sheets,Append data to Google Sheet,Google Sheets,16,null
+Google Sheets,Create and populate a Google file,"Google, Google Sheets",17,null
+Google Sheets,Create and sync issues in Jira from data in Google Sheets,"Google Sheets, Jira Software",18,Michael Tolan
+Google Sheets,Track ID.me responses with Google Sheets,"Google Sheets, ID.me",3,null
+Google Sheets,Update Google Sheets With Snowflake Data,"Google Sheets, Snowflake",5,Colm O'Grada
+Google Sheets,Sync Google spreadsheet to records,Google Sheets,23,Conor Dunne
+Wiz,Find & remediate publicly exposed S3 buckets with Wiz,"AWS, Jira Software, Slack, Wiz",13,null
+Wiz,Detect and remediate malware issues in Wiz with SentinelOne,"AWS, Jira Software, SentinelOne, Wiz",21,null
+Wiz,Send Wiz alerts to Slack and raise issues in Jira,"Jira Software, Slack, Wiz",22,null
+Wiz,Deactivate stale AWS access keys discovered by Wiz,"AWS, ServiceNow, Slack, Wiz",17,Derek Wohlfahrt
+Wiz,Analyze open issues in Wiz with ChatGPT,"OpenAI, Wiz",12,null
+Wiz,Retrieve and respond to Azure guest accounts detected by Wiz,"Microsoft, Microsoft Azure, Wiz",20,Conor Dunne
+Wiz,Remediate AWS IAM alerts detected with Wiz using Slack and Jira,"AWS, Jira Software, Slack, Wiz",36,Conor Dunne
+Wiz,Use Slack to record specific Wiz insights in TheHive,"Slack, TheHive Project, Wiz",26,null
+Wiz,Record CVE findings from Wiz in MongoDB,"MongoDB Atlas, Wiz",10,null
+Wiz,Detect and remediate malware issues in Wiz with SentinelOne and The Hive,"AWS, Jira Software, SentinelOne, Wiz",22,null
+Wiz,Discover inactive Service Accounts in Google Cloud,"Google, Jira Software, Slack, Wiz",13,null
+Wiz,Retrieve overly permissive Google Cloud firewall rules with Wiz,"Google, Wiz",11,Conor Dunne
+Zendesk,Protect Zendesk against email threats with Material Security,"Material Security, Zendesk",32,Material Security
+Zendesk,Monitor Zendesk tickets for SLA breaches and alert in Slack and PagerDuty,"PagerDuty, Slack, Zendesk",11,Hrishikesh Kokate
+Zendesk,Run a query in Snowflake,"Slack, Snowflake, VirusTotal, Zendesk",5,null
+Zendesk,Create Zendesk Ticket via Google Forms,"Google, Zendesk",8,null
+Zendesk,Monitor & respond to Slack queries from external users & respond using Zendesk,"Slack, Zendesk",80,Lasse Høgsholt
+Zendesk,Analyze URLS for fraud and abuse,Zendesk,9,null
+Zendesk,Create Zendesk tickets via Tines Forms,Zendesk,9,null
+Zendesk,Facilitate two-way communication between Slack & Zendesk,"Slack, Zendesk",33,Lasse Høgsholt
+Zendesk,Track issues across GitHub and Zendesk,"GitHub, Zendesk",28,null
+Zendesk,Track issues across Tines and Zendesk,Zendesk,28,null
+Zendesk,Process & enrich Cylance detections,"Cylance, Slack, VirusTotal, Zendesk",29,null
+Zendesk,Capture and post handover notes in Slack using a Zendesk lookup,"Slack, Zendesk",8,null
+Airtable,Enrich new Airtable company records using Tavily searches,"Airtable, Tavily",17,Michael Tolan
+Airtable,Create a security incident in Airtable,Airtable,6,null
+Airtable,Send emails to all users stored in an AirTable database,Airtable,8,Conor Dunne
+Airtable,Enrich IPs recorded in Airtable,"AbuseIPDB, Airtable, Criminal IP",14,Michael Tolan
+Airtable,Record Tines Stories in Airtable,Airtable,10,null
+Airtable,Fill out weekly recaps with Tines Pages and Slack,"Airtable, Slack",30,Conor Dunne
+Airtable,Get reservation information and statistics for a local gym,"Airtable, QuickChart, Telegram",13,Marti B
+Airtable,Synchronize Google Group email list with an AirTable database,"Airtable, Google",8,Conor Dunne
+Airtable,View and manage AirTable webhooks using Tines pages,Airtable,22,Conor Dunne
+Airtable,Onboard GitHub projects to SonarCloud and Airtable,"Airtable, GitHub, SonarCloud",36,Tyler Talaga
+DomainTools,Retrieve related domains using DomainTools' Iris Investigate,DomainTools,20,null
+DomainTools,Fetch & block high-risk domains with DomainTools and NextDNS,"DomainTools, NextDNS",25,DomainTools
+DomainTools,Retrieve all subdomains & resource records for a domain with Farsight DNSDB by DomainTools,DomainTools,16,null
+DomainTools,Retrieve domain risk scores in Slack using DomainTools API,"DomainTools, Slack",13,null
+DomainTools,Monitor a domain for risk score changes with DomainTools' Iris Enrich,DomainTools,28,null
+DomainTools,Pivot on artifacts related to a domain with DomainTools' Iris Investigate,DomainTools,11,null
+DomainTools,Using Slack with DomainTools' Iris Investigate API,"DomainTools, Slack",16,null
+DomainTools,Monitor for domains that match a query in DomainTools Iris Investigate and notify Slack,"DomainTools, Slack",7,Nghia N
+DomainTools,Verify signed authentication data for DomainTools,DomainTools,14,null
+DomainTools,Monitor when a tagged domain becomes active in DomainTools Iris Investigate and notify via Slack,"DomainTools, Slack",8,Nghia N
+SentinelOne,Respond to alerts from various tools with the AI Agent Action,"CrowdStrike, SentinelOne",13,Conor Dunne
+SentinelOne,Identify and remediate malicious SentinelOne threats with VirusTotal,"Jira Software, SentinelOne, VirusTotal",40,null
+SentinelOne,Investigate unresolved SentinelOne threats,"Jira Software, SentinelOne",5,null
+SentinelOne,Detect and remediate malware issues in Wiz with SentinelOne,"AWS, Jira Software, SentinelOne, Wiz",21,null
+SentinelOne,Perform threat hunting with SentinelOne Deep Visibility,SentinelOne,27,Conor Dunne
+SentinelOne,Manage indicators of compromise in SentinelOne with Tines pages,SentinelOne,15,Conor Dunne
+SentinelOne,Enrich SentinelOne alerts with Stairwell Inception,"SentinelOne, Stairwell",19,null
+SentinelOne,Extract SentinelOne alert evidence & upload to Drata controls,"Drata, SentinelOne",8,null
+SentinelOne,Detect and remediate malware issues in Wiz with SentinelOne and The Hive,"AWS, Jira Software, SentinelOne, Wiz",22,null
+SentinelOne,Block a hash in SentinelOne,SentinelOne,3,Michael Tolan
+Tenable Vulnerability Management,Microsoft Teams Vulnerability Scanner and Responder,"Microsoft Teams, Tenable Vulnerability Management",30,Michael Snow
+Tenable Vulnerability Management,Implement pagination with these techniques,"Jira Software, Notion, Slack, Tenable Vulnerability Management",32,null
+Tenable Vulnerability Management,Check for new CISA vulnerabilities,"Microsoft Teams, Tenable Vulnerability Management",6,null
+Tenable Vulnerability Management,Analyze vulnerabilities from Tenable workbench,"GreyNoise, Jira Software, Slack, Tenable Vulnerability Management",25,null
+Tenable Vulnerability Management,Upload & track asset management information from Tenable in Drata,"Drata, Tenable Vulnerability Management",8,null
+Tenable Vulnerability Management,Use a Tines Page to analyze known vulnerabilities from Tenable,"Jira Software, Slack, Tenable Vulnerability Management",12,null
+Tenable Vulnerability Management,Get asset vulnerability information from Tenable,Tenable Vulnerability Management,30,Michael Tolan
+Tenable Vulnerability Management,Launch DAST scan on web app via CI/CD pipeline,Tenable Vulnerability Management,16,Julien D.
+Tenable Vulnerability Management,Monitor CVE trends via Cybersixgill and alert on impacted assets in Tenable.io,"Cybersixgill, Slack, Tenable Vulnerability Management",6,null
+Tenable Vulnerability Management,Monitor VulnCheck KEV and alert on impacted assets in Tenable.io,"Slack, Tenable Vulnerability Management, VulnCheck",6,null
+Fleet,Retrieve software vulnerabilities from Fleet for a given host,Fleet,6,Dave Herder
+Fleet,Analyze VSCode extensions seen by Fleet with ExtensionTotal,"ExtensionTotal, Fleet",7,null
+Fleet,Manage Fleet compliance policies using Tines cases,Fleet,102,Conor Dunne
+Fleet,Search Fleet for software on devices using Slack,"Fleet, Slack",21,Conor Dunne
+Fleet,Update vulnerable hosts using ManageEngine Endpoint Central and Fleet,"Fleet, Manage Engine",14,Conor Dunne
+Fleet,Monitor and backup Fleet policies in GitHub,"Fleet, GitHub, Slack",27,Conor Dunne
+Fleet,Sync Okta groups with Fleet labels,"Fleet, Okta",15,Dave Herder
+Fleet,Query Fleet for software on hosts,Fleet,5,null
+Fleet,Search for processes on a host using Fleet scripts,"Fleet, Slack",27,Conor Dunne
+Microsoft OneDrive,Retrieve and remediate Cyera issues,"Cyera, Microsoft, Microsoft Azure, Microsoft OneDrive",45,Monolithic Power Systems
+Microsoft OneDrive,Export CrowdStrike detections to OneDrive as CSV,"CrowdStrike, Microsoft OneDrive",5,Michael Tolan
+Microsoft OneDrive,Export Tines records to OneDrive,"Microsoft OneDrive, Tines",4,Michael Tolan
+Microsoft OneDrive,Retrieve and grant manager access to employee's OneDrive,Microsoft OneDrive,10,Zach Strickland
+Microsoft OneDrive,Retrieve emails from Outlook and add the details to a Microsoft OneDrive spreadsheet,"Microsoft, Microsoft OneDrive",9,Conor Dunne
+Microsoft OneDrive,"Extract CSV attachment from email, update OneDrive and refresh Power BI","Microsoft OneDrive, Power BI",6,Michael Tolan
+Microsoft OneDrive,Update Excel files in OneDrive through email attachments and Pages,"Google, Microsoft OneDrive",26,null
+Microsoft OneDrive,Save attachments from emails in Microsoft Outlook to Microsoft OneDrive,"Microsoft, Microsoft OneDrive",6,Conor Dunne
+Microsoft OneDrive,Track Google search trends using SerpApi and save to OneDrive,"Google, Microsoft, Microsoft OneDrive, SerpApi",10,Michael Tolan
+SpyCloud,Receive password breach alerts from SpyCloud and secure accounts,"CrowdStrike, Jira Software, Okta, SpyCloud",23,Conor Dunne
+SpyCloud,Process SpyCloud breach data and generate a case in Tines,"SpyCloud, Tines",22,Tines
+SpyCloud,Create ServiceNow incidents from SpyCloud alerts,"ServiceNow, SpyCloud",24,SpyCloud
+SpyCloud,Alert users of potential breaches detected by SpyCloud.,"Slack, SpyCloud",9,Conor Dunne
+SpyCloud,Send SpyCloud alerts to Anomali Threatstream,"Anomali ThreatStream, SpyCloud",9,Canva
+SpyCloud,"Filter, redact and securely distribute SpyCloud data",SpyCloud,14,SpyCloud
+SpyCloud,Get breach data from SpyCloud and track with Jira,SpyCloud,24,SpyCloud
+SpyCloud,Disable Google Accounts based on SpyCloud breaches,"Google, Jira Software, SpyCloud",19,SpyCloud
+SpyCloud,Reset Azure Entra ID passwords seen in SpyCloud breachces,"Microsoft Azure, SpyCloud",14,SpyCloud
+Code42,Handle Code42 alerts,"Code42, Jira Software, Slack",12,null
+Code42,Manage departing employee watchlists in Code42,Code42,12,null
+Code42,Download Code42 Cases,"Code42, Jira Software",7,null
+Code42,Automate Response to Data Risk with Tines and Code42 Incydr,"Code42, Jira Software, Okta",13,null
+Code42,"Retrieve Code42 alerts, send to Slack and suspend user in Okta","Code42, Okta, Slack",19,null
+Code42,Remove employee from a departing watchlist in Code42,Code42,9,null
+Code42,Triage Code42 alerts via Slack,"Code42, Slack",20,null
+Code42,Monitor employees using Code42,Code42,7,null
+Duo Security,"Synchronize MFA group memberships in Okta, Duo & Jira","Duo Security, Jira Service Management, Okta",62,Caleb Williams
+Duo Security,Report and lock lost devices in Jamf,"Duo Security, Jamf Pro, Jira Software",14,Conor Dunne
+Duo Security,Send push notifications in Duo Security,Duo Security,23,null
+Duo Security,Monitor Duo Security logs for new MFA devices,Duo Security,15,null
+Duo Security,Add endpoints to a trusted device list in Duo,Duo Security,6,Mike Toole
+Duo Security,Disable a user in Duo Security and Azure Entra ID while alerting PagerDuty,"Duo Security, Microsoft, PagerDuty",12,null
+Duo Security,Authenticate page submissions with multifactor authentication,Duo Security,23,Conor Dunne
+Duo Security,Authenticate a user using Duo,Duo Security,7,null
+JupiterOne,Search for & remediate public AWS S3 buckets with JupiterOne,"AWS, Jira Software, JupiterOne",10,null
+JupiterOne,Analyze vulnerabilities from JupiterOne by source account,"Jira Software, JupiterOne, Slack",12,null
+JupiterOne,Analyze vulnerabilities from JupiterOne by severity,"Jira Software, JupiterOne, Slack",30,null
+JupiterOne,Analyze vulnerabilities from JupiterOne by source account using Tines Cases,"Jira Software, JupiterOne, Slack",15,null
+JupiterOne,Close Jira tickets if JupiterOne vulnerabilities are resolved,"Jira Software, JupiterOne",17,null
+JupiterOne,Alert users of JupiterOne issues associated to their account,"JupiterOne, Slack",13,Conor Dunne
+JupiterOne,Search for and remediate inactive AWS accounts from JupiterOne,"AWS, Jira Software, JupiterOne, Slack",14,null
+JupiterOne,Close Tines Cases if JupiterOne vulnerabilities are resolved,"JupiterOne, Tines",14,null
+Axonius,Discover and monitor unmanaged devices using Axonius,"Axonius, Jira Software, Shodan",10,null
+Axonius,"Retrieve user, device, and vulnerability data in Axonius","Axonius, Tines",29,null
+Axonius,Search Axonius for devices and enrich with VulnCheck,"Axonius, VulnCheck",48,Michael Tolan
+Axonius,Receive a Request for Device Approval into Tailscale and Check Axonius,"Axonius, Slack, Tailscale",17,null
+Axonius,Search for assets in Axonius,Axonius,39,Michael Tolan
+Axonius,Get routine security updates and create cases based on calculated severity,Axonius,20,Michael Tolan
+Axonius,Log Axonius users without an Okta connection with BMC Remedy,"Axonius, BMC Helix IT Service Management, Okta",5,null
+EmailRep,"Analyze phishing email senders, URLs, & attachments","EmailRep, Sublime Security, URLScan.io, VirusTotal",51,null
+EmailRep,Analyze and triage suspicious emails with various tools,"CrowdStrike, EmailRep, Jira Software, NextDNS, URLScan.io, VirusTotal",59,Michael Tolan
+EmailRep,Triage alerts with agents using SOPs in Confluence,"AbuseIPDB, Confluence, CrowdStrike, EmailRep, Okta, Slack, Tavily, Tines, URLScan.io, VirusTotal",8,Pete Wrenn
+EmailRep,Read forwarded phishing emails and attachments,EmailRep,5,null
+EmailRep,Analyze and triage suspicious emails across tools and Tines cases,"CrowdStrike, EmailRep, Tines, URLScan.io, VirusTotal",65,Michael Tolan
+EmailRep,Retrieve Proofpoint events and log issues in Jira,"EmailRep, Jira Software, Proofpoint, URLScan.io, VirusTotal",11,Michael Tolan
+EmailRep,Analyze an email address in multiple services,"EmailRep, Have I Been Pwned",4,Michael Tolan
+GitLab,Backup Tines Stories to GitLab and notify Slack,"GitLab, Slack, Tines",45,Michael Tolan
+GitLab,Manage GitLab issues in Slack,"GitLab, Slack",47,Conor Dunne
+GitLab,Manage shift turnover with Handogotchi,"GitLab, Slack",41,Valentine Mairet
+GitLab,Generate a SBOM in Veracode,"GitHub, GitLab",9,null
+GitLab,GitLab handover with response teams via a Slackbot,"GitLab, Slack",42,null
+GitLab,Search for vulnerable or malicious dependencies across services,"Artifactory, GitLab, Microsoft Azure, Orca Security, Rapid7, Sonatype",113,Emily Nguyen
+GitLab,Send alerts when GitLab projects change to public visibility,"GitLab, Slack",17,null
+Jamf Pro,Streamline macOS software updates with self-service patch management and AI,"Jamf Pro, Slack",63,Tyler Talaga
+Jamf Pro,Manage Qualys vulnerabilities using Jira Service Management and Slack,"Jamf Pro, Jira Service Management, Qualys, Slack, Tines",81,Caleb Williams
+Jamf Pro,Verify CrowdStrike is present on new devices in Jamf,"CrowdStrike, Jamf Pro, Slack",9,Conor Dunne
+Jamf Pro,Search for Jamf assets using Tines Pages,Jamf Pro,9,null
+Jamf Pro,Report and lock lost devices in Jamf,"Duo Security, Jamf Pro, Jira Software",14,Conor Dunne
+Jamf Pro,Streamline macOS software updates with self-service patch management,Jamf Pro,57,Tyler Talaga
+Jamf Pro,Report and lock lost devices in Jamf with Okta SSO,"Jamf Pro, Jira Software, Okta, Slack",28,Sakil Khan
+Pulsedive,Analyze an IP in many services at once,"AbuseIPDB, APIVoid, GreyNoise, Jira Software, Pulsedive, VirusTotal",13,Michael Tolan
+Pulsedive,Lookup IOCs in different tools via Slackbot,"Abuse.ch, AbuseIPDB, Anomali ThreatStream, CrowdStrike, Hunter.io, Hybrid Analysis, MetaDefender, Pulsedive, Slack, URLScan.io, VirusTotal",66,Emily Nguyen
+Pulsedive,"Ingest, analyze and store IOCs with Tines","AbuseIPDB, CrowdStrike, GreyNoise, Pulsedive, Sublime Security, Tines, URLScan.io, VirusTotal",45,Michael Tolan
+Pulsedive,Create an IP enrichment API,"GreyNoise, Pulsedive, VirusTotal",6,null
+Pulsedive,Analyze IOCs in Pulsedive,Pulsedive,19,Michael Tolan
+Pulsedive,Add IOCs from Pulsedive to Azure Sentinel,"Microsoft Azure, Pulsedive",5,null
+Pulsedive,Add IOCs from Pulsedive threats to Azure Cosmos DB,"Microsoft Azure, Pulsedive",5,null
+Qualys,Manage Qualys vulnerabilities using Jira Service Management and Slack,"Jamf Pro, Jira Service Management, Qualys, Slack, Tines",81,Caleb Williams
+Qualys,Check CrowdStrike agent is installed on new devices provisioned,"CrowdStrike, Qualys, ServiceNow, Slack",18,Shaun Finn
+Qualys,Manage Qualys EC2 vulnerabilities in Jira,"Jira Software, Qualys",25,null
+Qualys,"Handle, enrich and notify teams of new Qualys alerts","Jira Software, Qualys, Slack",20,null
+Qualys,Generate new vulnerability scan reports with Qualys,Qualys,15,null
+Qualys,Fetch & record significant vulnerabilities from Qualys Container Security,"Jira Software, Qualys",13,Aaron Sandow
+Qualys,"Ingest Opsgenie alerts, enrich data, and create Jira issue with notifications in Slack","Jira Software, Microsoft, OpsGenie, Qualys, Slack, URLScan.io, VirusTotal",16,null
+Tavily,Triage alerts with agents using SOPs in Confluence,"AbuseIPDB, Confluence, CrowdStrike, EmailRep, Okta, Slack, Tavily, Tines, URLScan.io, VirusTotal",8,Pete Wrenn
+Tavily,Write and improve AI prompts with an AI chatbot,Tavily,1,Michael Tolan
+Tavily,Process and search documents in Elasticsearch with an agent,"Elastic, Tavily",30,Michael Tolan
+Tavily,Perform deep research on a topic using an agent with Tavily,Tavily,5,null
+Tavily,Troubleshoot broken Tines actions using an AI Agent chatbot,"Microsoft Teams, Slack, Tavily, Tines",14,Michael Tolan
+Tavily,Search the internet with Tavily via Slack,"Slack, Tavily",4,Michael Tolan
+Tavily,Enrich new Airtable company records using Tavily searches,"Airtable, Tavily",17,Michael Tolan
+Anomali ThreatStream,Lookup IOCs in different tools via Slackbot,"Abuse.ch, AbuseIPDB, Anomali ThreatStream, CrowdStrike, Hunter.io, Hybrid Analysis, MetaDefender, Pulsedive, Slack, URLScan.io, VirusTotal",66,Emily Nguyen
+Anomali ThreatStream,Import RSS feeds into Anomali Threatstream as threat bulletins,Anomali ThreatStream,14,null
+Anomali ThreatStream,Create incidents in Anomali Threatstream from Recorded Future alerts,"Anomali ThreatStream, Recorded Future",7,null
+Anomali ThreatStream,Send SpyCloud alerts to Anomali Threatstream,"Anomali ThreatStream, SpyCloud",9,Canva
+Anomali ThreatStream,Integrate Anomali Threat Intelligence with Sublime Security's email detection signatures,"Anomali ThreatStream, Sublime Security",39,Dan Le
+Anomali ThreatStream,"Analyze, document and triage suspicious emails with Tines cases and records","AlienVault OTX, Anomali ThreatStream, CrowdStrike, Hybrid Analysis, NextDNS, PassiveTotal, VirusTotal",113,Rosie Halpin
+Material Security,Protect Zendesk against email threats with Material Security,"Material Security, Zendesk",32,Material Security
+Material Security,Triage Material Security cases via Slack,"Jira Software, Material Security, Slack, Tines, VirusTotal",27,Shasheen Bandodkar
+Material Security,Analyze phishing emails with Material Security,Material Security,32,null
+Material Security,Triage email attachments with Material Security,"Material Security, VirusTotal",13,null
+Material Security,Query for & protect emails in Material Security,Material Security,24,null
+Material Security,Detect unusual user activity with Material Security,"Material Security, Slack, Tines",11,Material Security
+Microsoft Defender,Advanced Live Response tool for Microsoft Defender powered by Tines pages,Microsoft Defender,112,Horia Todoran
+Microsoft Defender,Retrieve new alerts from Microsoft Defender and create issues in Jira,"Jira Software, Microsoft Azure, Microsoft Defender",21,Michael Tolan
+Microsoft Defender,Isolate machines in Microsoft Defender,Microsoft Defender,23,Conor Dunne
+Microsoft Defender,Execute a script on an endpoint with Microsoft Defender Live Response,Microsoft Defender,21,Conor Dunne
+Microsoft Defender,Retrieve alerts from Microsoft Defender for Cloud and create detailed issue in Jira,"Jira Software, Microsoft Azure, Microsoft Defender",20,Michael Tolan
+Microsoft Defender,Investigate and remediate malware with CrowdStrike FalconX and Microsoft Defender,"CrowdStrike, Jira Software, Microsoft Defender, Slack",34,null
+OpsGenie,Create on-call Slack channels using OpsGenie groups,"OpsGenie, Slack",10,null
+OpsGenie,Handover Oncalls in Opsgenie with Tines Cases,"OpsGenie, Slack, Tines",17,null
+OpsGenie,Handle Opsgenie alerts and create a Tines case,"OpsGenie, Slack",24,null
+OpsGenie,Receive and correlate alerts from Sysdig,"OpsGenie, PagerDuty, Slack, Sysdig",10,null
+OpsGenie,"Ingest Opsgenie alerts, enrich data, and create Jira issue with notifications in Slack","Jira Software, Microsoft, OpsGenie, Qualys, Slack, URLScan.io, VirusTotal",16,null
+OpsGenie,Check Workday for unauthorized travel and alert in Slack,"Elastic, Jumpcloud, OpsGenie, Slack, Workday",34,Muhammet Tekbicak
+Orca Security,Correlate Rapid7 vulnerability data across various tools and report in Jira,"Jira Software, Manage Engine, Orca Security, Rapid7",125,Emily Nguyen
+Orca Security,"Detect, log and remediate AWS alerts with Orca Security and Jira","AWS, Jira Software, Orca Security, Slack",21,null
+Orca Security,Run & track vulnerability scans with Orca Security,"Jira Software, Orca Security",12,null
+Orca Security,Identify and resolve false positive AWS alerts in Orca,"AWS, Orca Security, Slack",23,null
+Orca Security,Run asset vulnerability scans & add evidence to compliance system,"Drata, Orca Security",24,null
+Orca Security,Search for vulnerable or malicious dependencies across services,"Artifactory, GitLab, Microsoft Azure, Orca Security, Rapid7, Sonatype",113,Emily Nguyen
+Shodan,Analyse an IP address,"Shodan, VirusTotal",5,Conor Dunne
+Shodan,Discover and monitor unmanaged devices using Axonius,"Axonius, Jira Software, Shodan",10,null
+Shodan,Analyse an IP in Shodan,Shodan,10,Michael Tolan
+Shodan,Check IPs in Shodan for unexpected open ports,"Shodan, TheHive Project",13,null
+Shodan,Query Shodan for findings and alert on them using Slack and Jira,"Jira Software, Shodan, Slack, Splunk",11,null
+Shodan,Search Shodan using Shodan Query Language,Shodan,8,Michael Tolan
+Zscaler,Add a domain to a blocklist in Zscaler,"Slack, Zscaler",15,Conor Dunne
+Zscaler,Use AI to create cases and act on CrowdStrike alerts,"CrowdStrike, Okta, PagerDuty, Zscaler",87,Conor Dunne
+Zscaler,Request URLs to be added to Zscaler Allowlist,"URLScan.io, Zscaler",13,null
+Zscaler,Refresh Okta zones with latest active Zscaler IP ranges,"Okta, Zscaler",16,null
+Zscaler,Enrich clicked URLs from Proofpoint and block with Zscaler,"AbuseIPDB, Jira Software, Proofpoint, URLScan.io, Zscaler",13,Michael Tolan
+Zscaler,"Ingest, enrich, and remediate ExtraHop alerts and block suspicious URLs with Zscaler","AbuseIPDB, Extrahop, Microsoft Teams, URLScan.io, VirusTotal, Zscaler",15,null
+Abuse.ch,Lookup IOCs in different tools via Slackbot,"Abuse.ch, AbuseIPDB, Anomali ThreatStream, CrowdStrike, Hunter.io, Hybrid Analysis, MetaDefender, Pulsedive, Slack, URLScan.io, VirusTotal",66,Emily Nguyen
+Abuse.ch,Add URLhaus URLS to Cisco Umbrella deny list,"Abuse.ch, Cisco",5,null
+Abuse.ch,Add JA3 client blocklist from Abuse.ch to AWS firewall rule,"Abuse.ch, AWS",17,null
+Abuse.ch,Search for IOCs and create incidents in DataDog,"Abuse.ch, DataDog",16,Conor Dunne
+Abuse.ch,Analyze a hash with YARA rules using Abuse.ch YARAify,Abuse.ch,13,Michael Tolan
+Ansible,Manage SSH users via Ansible,Ansible,6,Conor Dunne
+Ansible,Monitor a host's resources using playbooks in Ansible Tower,"Ansible, Tines",14,Conor Dunne
+Ansible,Run a job in Ansible and retrieve results,Ansible,17,null
+Ansible,Run a job using Ansible Tower,"Ansible, Slack",11,null
+Ansible,Update Linux system packages using Ansible Tower,"Ansible, Slack",16,Conor Dunne
+Anvilogic,Use AI to Create Tines Case from Anvilogic Alerts,Anvilogic,25,null
+Anvilogic,AI Event Triage with Anvilogic Copilot,Anvilogic,21,Chris Burkhart
+Anvilogic,AI Entity Enrichment with Anvilogic Copilot,Anvilogic,20,Chris Burkhart
+Anvilogic,Analyze Anvilogic events of interest,"Anvilogic, Splunk",27,Chris Burkhart
+Anvilogic,Gather correlated Splunk searches and add to Anvilogic use cases,"Anvilogic, Splunk",10,null
+Cisco,Monitor security advisories,"Cisco, Palo Alto Networks",15,null
+Cisco,Add URLhaus URLS to Cisco Umbrella deny list,"Abuse.ch, Cisco",5,null
+Cisco,"Extract, analyze, & enrich IPs from a WebEx chatbot","Cisco, Webex",7,null
+Cisco,Capture all offline devices with Cisco Umbrella,Cisco,6,null
+Cisco,Cisco Secure Endpoint weekly audit,Cisco,14,Tom Power
+Criminal IP,Analyze IPs & search for indicators of compromise,"Criminal IP, Jira Software, URLScan.io",29,null
+Criminal IP,Analyze attack surface for an organization with Criminal IP,"Criminal IP, Tines",22,null
+Criminal IP,Scan a URL in Criminal IP,"Criminal IP, Slack",11,null
+Criminal IP,Enrich IPs recorded in Airtable,"AbuseIPDB, Airtable, Criminal IP",14,Michael Tolan
+Criminal IP,Scan a domain with CriminalIP,Criminal IP,16,Michael Tolan
+Google Drive,Remove public access permissions in Google Drive,"Google, Google Drive",12,Michael Tolan
+Google Drive,Retrieve a directory from an endpoint using CrowdStrike and save to Google Drive,"CrowdStrike, Google, Google Drive",22,Conor Dunne
+Google Drive,Create versioned backups on Google Drive files using Box,"Google, Google Drive",13,Conor Dunne
+Google Drive,Respond to Google Drive public exposure alerts in Reco and secure files,"Google, Google Drive, Reco, Slack",46,null
+Google Drive,Monitor user activity in Google Drive,"Google, Google Drive",18,Christopher Toole
+HashiCorp,Create Terraform Infrastructure as Code,"GitHub, HashiCorp, HashiCorp Terraform, ServiceNow, Slack",16,null
+HashiCorp,Initiate Terraform request to create Infrastructure as Code,"HashiCorp, HashiCorp Terraform",5,null
+HashiCorp,Respond to & configure Terraform Cloud run task,"HashiCorp, HashiCorp Terraform, Jira Software, Slack",16,null
+HashiCorp,Provision AWS and Vault access via Okta,"AWS, HashiCorp, Okta",25,Zach Perry
+HashiCorp,Monitor the health of a Hashicorp Vault cluster,"HashiCorp, Slack",13,Nate Adams
+Knowbe4,Send KnowBe4 training reminders via Slack,"Knowbe4, Slack",23,null
+Knowbe4,Analyze and manage phishing alerts with KnowBe4 PhishER and Talos,Knowbe4,23,null
+Knowbe4,Report KMSAT events in KnowBe4 with pages,Knowbe4,9,null
+Knowbe4,Manage Okta user groups and create Jira tickets via Slack,"AWS, Jira Software, Knowbe4, Okta, Slack",140,Sandeep Kumar
+Knowbe4,Notify and assign training based on Harmonic Security alerts,"Harmonic Security, Knowbe4, Notion, Slack, Tines",17,Harmonic Security
+LimaCharlie,Determine severity of LimaCharlie detections and triage,"Jira Software, LimaCharlie, Slack",21,null
+LimaCharlie,Manage Velociraptor artifact collection via Slack,"LimaCharlie, Slack, Velociraptor",9,Conor Dunne
+LimaCharlie,Manage LimaCharlie sensor isolation with Tines pages,LimaCharlie,11,null
+LimaCharlie,Run remote commands in LimaCharlie,LimaCharlie,14,null
+LimaCharlie,Retrieve blocked DNS queries from AdGuard and enrich with VirusTotal and LimaCharlie,"AdGuard, LimaCharlie, VirusTotal",15,Conor Dunne
+MISP,Analyze SMS phishing with the AI action,"MISP, Slack, URLScan.io, VirusTotal",33,Michael Fischler
+MISP,Search and view Indicators of Compromise from MISP events,MISP,12,Conor Dunne
+MISP,Search for IOCs in MISP default feeds,MISP,8,Sif Baksh
+MISP,Search for IoCs in a network when a MISP attribute is created,"CrowdStrike, DataDog, MISP",15,Conor Dunne
+MISP,Initiate MISP investigation from a Tines case,MISP,20,Conor Dunne
+Salesforce,Send Bulk Updates To Salesforce,Salesforce,12,null
+Salesforce,Manage Salesforce lead capture with Tines pages and cases,"Salesforce, Tines",46,Conor Dunne
+Salesforce,Get info from Salesforce,Salesforce,11,null
+Salesforce,Add ID.me contacts to SalesForce,"ID.me, Salesforce",4,null
+Salesforce,Create a Netsuite sales order for a won Salesforce opportunity,"Netsuite, Salesforce",16,Peter Coleman
+Snyk,Track Snyk issues in Jira,"Jira Software, Snyk",16,null
+Snyk,Query Snyk & gather a vulnerability report,"Jira Software, Snyk",13,null
+Snyk,Monitor and delete old CLI projects in Snyk,Snyk,9,Andrew Orr Ewing
+Snyk,Review Snyk organization findings with Jira issues,"Jira Software, Snyk",66,Andrew Orr Ewing
+Snyk,Schedule SBOM and SPDX creation in Snyk and store in Sharepoint,Snyk,32,Andrew Orr Ewing
+Sysdig,Detect and Enrich Sysdig Alerts with Risky User with Greynoise and Deny User from AWS Console Login,"AWS, GreyNoise, Sysdig",11,Manuel Boira
+Sysdig,Receive and correlate alerts from Sysdig,"OpsGenie, PagerDuty, Slack, Sysdig",10,null
+Sysdig,Create issues in Jira for Sysdig vulnerability findings,"Jira Software, Sysdig",13,null
+Sysdig,Handle cloud compliance notifications with Sysdig,"Jira Software, Sysdig",4,null
+Sysdig,"Sysdig Cloud Detection, Document with Jira, and Respond with Tines","AWS, GreyNoise, Jira Software, Kubernetes, Sysdig, Tines",40,Manuel Boira
+TheHive Project,Enrich CrowdStrike incidents with VirusTotal & send to TheHive,"CrowdStrike, TheHive Project, VirusTotal",25,Conor Dunne
+TheHive Project,Notify users of open tickets in TheHive,"Slack, TheHive Project",10,null
+TheHive Project,Search & sort SLA breaches in TheHive,TheHive Project,17,null
+TheHive Project,Check IPs in Shodan for unexpected open ports,"Shodan, TheHive Project",13,null
+TheHive Project,Use Slack to record specific Wiz insights in TheHive,"Slack, TheHive Project, Wiz",26,null
+Thinkst Canary,Isolate Machines in Cybereason from Thinkst Canary Alerts,"Cybereason, Thinkst Canary",24,Shaun Finn
+Thinkst Canary,"Hunt, contain, and escalate threats with Thinkst Canary",Thinkst Canary,31,null
+Thinkst Canary,Check Thinkst Canary alerts in GreyNoise and record in runZero,"GreyNoise, runZero, Thinkst Canary",7,Justin Varner
+Thinkst Canary,Enrich Canarytoken alerts and notify the security team,"AbuseIPDB, Thinkst Canary",12,Dennis Chow
+Thinkst Canary,Deploy Canarytoken using CrowdStrike RTR,"CrowdStrike, Slack, Thinkst Canary",7,Tyron Kemp
+APIVoid,Analyze an IP in many services at once,"AbuseIPDB, APIVoid, GreyNoise, Jira Software, Pulsedive, VirusTotal",13,Michael Tolan
+APIVoid,Get IP address information,"APIVoid, IPQualityScore",9,Michael Tolan
+APIVoid,Monitor website certificates for expiration,"APIVoid, Jira Software, Slack",26,Conor Dunne
+APIVoid,Analyze a domain with APIVoid,APIVoid,23,Michael Tolan
+Censys,Lookup and retrieve subdomain certificate information using Censys,Censys,7,Conor Dunne
+Censys,Query Censys for known Command & Control IPs add as IoCs in CrowdStrike,"Censys, CrowdStrike",16,Michael Tolan
+Censys,Perform free text Censys searches via a Slack channel,"Censys, Slack",11,Conor Dunne
+Censys,Search free Cobalt Strike IoC feeds for a value,Censys,10,Sif Baksh
+Confluence,Triage alerts with agents using SOPs in Confluence,"AbuseIPDB, Confluence, CrowdStrike, EmailRep, Okta, Slack, Tavily, Tines, URLScan.io, VirusTotal",8,Pete Wrenn
+Confluence,Document Tines stories in Atlassian Confluence,"Confluence, Slack",72,Tyler Talaga
+Confluence,Create shift handover notes in Confluence and send reminders in Slack,"Confluence, Jira Software, Slack",13,Michael Tolan
+Confluence,Export Confluence pages using Tines pages,Confluence,16,Dermot Bruce-Agbeko
+Discord,Manage RSS and YouTube subscriptions via Tines and notify on new releases,"Discord, Slack",42,Tyler Wong
+Discord,Register and handle Discord interactions,Discord,11,Yannick Gloster
+Discord,Monitor Discord servers for leaked secrets and send alerts,Discord,20,Liam Malone
+Discord,Manage a Hetzner Minecraft Server via Discord,Discord,35,Yannick Gloster
+Gmail,Remove employee access from multiple services using the AI Agent Action,"Gmail, Okta, Slack",4,Conor Dunne
+Gmail,Offboard user from Okta and Google using Pages and Records,"Gmail, Google, Okta",72,Lucas Cantor
+Gmail,Create email filters for a user in Gmail,"Gmail, Google",8,Conor Dunne
+Gmail,Create custom Gmail filters from Sublime Security findings,"Gmail, Google, Sublime Security",14,Conor Dunne
+Google Calendar,Send daily Google Calendar reminders in Slack with notes integration,"Google Calendar, Slack",19,Michael Tolan
+Google Calendar,Add video conferencing and meeting notes to new Google Calendar events,"Google, Google Calendar, Zoom",22,null
+Google Calendar,Send a customised daily briefing in Slack,"Google Calendar, Jira Software, Slack",26,Michael Tolan
+Google Calendar,Create and sync Google Calendar events from Notion,"Google Calendar, Notion",23,Yanni Hajioannou
+HashiCorp Terraform,Create Terraform Infrastructure as Code,"GitHub, HashiCorp, HashiCorp Terraform, ServiceNow, Slack",16,null
+HashiCorp Terraform,Initiate Terraform request to create Infrastructure as Code,"HashiCorp, HashiCorp Terraform",5,null
+HashiCorp Terraform,Respond to & configure Terraform Cloud run task,"HashiCorp, HashiCorp Terraform, Jira Software, Slack",16,null
+HashiCorp Terraform,Create and manage malware labs using Terraform Cloud,"AWS, HashiCorp Terraform",47,Conor Dunne
+Intercom,Communicate across chats in Intercom and Slack,"Intercom, Slack",30,Conor Dunne
+Intercom,Monitor Intercom for sensitive content with Nightfall and record in Tines,"Intercom, Nightfall AI, Tines",7,Conor Dunne
+Intercom,Sync Intercom conversations with Tines cases,"Intercom, Tines",26,null
+Intercom,Track Intercom conversations in Quickbase,"Intercom, Quickbase",7,null
+Kandji,Restricting User Access and Patching Vulnerable Devices with Kandji,"Kandji, Okta, Slack, Tines",33,Megan Elsayed
+Kandji,Add devices in Kandji to Google Sheets,"Google, Kandji",7,Michael Tolan
+Kandji,Sync assets between Kandji and runZero while updating ownership,"Kandji, runZero",18,null
+Kandji,Monitor and remediate inactive Kandji devices with Tines Cases,"Kandji, Tines",23,Michael Tolan
+Kubernetes,Manage Elasticsearch and GKE clusters via Slack bot,"Argo Workflows, Google, Kubernetes",41,Christopher Cutajar
+Kubernetes,"Sysdig Cloud Detection, Document with Jira, and Respond with Tines","AWS, GreyNoise, Jira Software, Kubernetes, Sysdig, Tines",40,Manuel Boira
+Kubernetes,Send Slack notifications for Kubernetes pod status changes,"Kubernetes, Slack",13,Conor Dunne
+Kubernetes,Transfer Kubernetes manifest ownership via Slack,"Kubernetes, Slack",22,Conor Dunne
+Lacework,Investigate & remediate Lacework alerts,"AWS, Jira Software, Lacework",25,null
+Lacework,Normalize alerts from multiple sources using ChatGPT,"CrowdStrike, Elastic, Lacework, OpenAI",16,null
+Lacework,Add host vulnerabilities in Lacework to Drata controls,"Drata, Lacework",8,null
+Lacework,Remediate compliance violations with Lacework,"AWS, Lacework, Slack",12,null
+Microsoft Outlook,Cleanup Microsoft Outlook inbox with Tines AI,"Microsoft, Microsoft Outlook",47,Michael Lynn
+Microsoft Outlook,Tag Outlook Emails in a Folder Based on VirusTotal Scan Results,"Microsoft Outlook, VirusTotal",8,Sabrina de Silva
+Microsoft Outlook,Sync recent Outlook Calendar events to a Notion database,"Microsoft Outlook, Notion",3,Michael Tolan
+Microsoft Outlook,Add Notion database entries as Outlook calendar events,"Microsoft, Microsoft Outlook, Notion",4,Michael Tolan
+MITRE,Tag Tines cases using MITRE ATT&CK techniques and tactics,MITRE,13,Conor Dunne
+MITRE,Generate MITRE ATT&CK Navigator layout from Tines cases,MITRE,9,Conor Dunne
+MITRE,Discover new objects in collections provided by the MITRE TAXII server,"MITRE, Slack",10,Conor Dunne
+MITRE,Build and search MITRE ATT&CK semantic index in Elastic,"Elastic, MITRE",18,Michael Tolan
+Netskope,Monitor large downloads by employees in Netskope and create Jira issues,"Jira Software, Netskope",11,Michael Tolan
+Netskope,Update URL lists used by Remote Browser Isolation in Netskope,Netskope,7,null
+Netskope,Remove 3rd Party Apps marked for removal in Netskope SSPM,"Microsoft Azure, Netskope, Slack",6,Netskope
+Netskope,Alert when Netskope SSPM Posture Score breaches threshold,Netskope,4,Netskope
+NextDNS,Analyze and triage suspicious emails with various tools,"CrowdStrike, EmailRep, Jira Software, NextDNS, URLScan.io, VirusTotal",59,Michael Tolan
+NextDNS,Fetch & block high-risk domains with DomainTools and NextDNS,"DomainTools, NextDNS",25,DomainTools
+NextDNS,"Investigate a URL with URLScan, create a ticket in Jira and take action","AbuseIPDB, CrowdStrike, Jira Software, NextDNS, Phish Report, URLScan.io",41,null
+NextDNS,"Analyze, document and triage suspicious emails with Tines cases and records","AlienVault OTX, Anomali ThreatStream, CrowdStrike, Hybrid Analysis, NextDNS, PassiveTotal, VirusTotal",113,Rosie Halpin
+Panther,Check IP addresses in Panther & send results via Slack,"AbuseIPDB, Panther, Slack",20,Eoin Magner
+Panther,Implement data loss prevention policies,"Google, Panther, Slack",35,null
+Panther,Monitor Panther alerts & remediate SSH brute force attacks,Panther,19,Eoin Magner
+Panther,Perform SQL searches in Panther,Panther,15,null
+Snowflake,Run a query in Snowflake,"Slack, Snowflake, VirusTotal, Zendesk",5,null
+Snowflake,Query Snowflake via Slack and return results as CSV,"Slack, Snowflake",12,Michael Tolan
+Snowflake,Update Google Sheets With Snowflake Data,"Google Sheets, Snowflake",5,Colm O'Grada
+Snowflake,Ingest Tines audit logs into Snowflake,"Snowflake, Tines",13,Michael Tolan
+Spotify,"Activate holiday cheer with Shelly, Spotify, and Tines",Spotify,32,Colleen Gallagher
+Spotify,Turn on Christmas lights with VeSync and celebrate with Spotify,"Spotify, VeSync",11,null
+Spotify,Celebrate new Tines Stories with Spotify,Spotify,10,Michael Tolan
+Spotify,Notify Slack channel of recently added tracks in Spotify playlists,"Slack, Spotify",15,Michael Tolan
+Sumo Logic,Make a query in Sumo Logic,Sumo Logic,9,null
+Sumo Logic,Create GitHub issues from Sumo Logic alerts,"GitHub, Sumo Logic",10,null
+Sumo Logic,Ingest Tines audit logs into Sumo Logic,"Sumo Logic, Tines",7,Aron Day
+Sumo Logic,Distributed Alerting Slackbot with 2FA,"Jira Software, Slack, Sumo Logic",99,Jamison Bigham
+Zoom,Update Slack Status based on Zoom Meetings,"Slack, Zoom",7,Sabrina de Silva
+Zoom,Onboard employees & grant specialized access to specific tools,"GitHub, Google, Zoom",21,null
+Zoom,Onboard employees with flexible forms,"GitHub, Google, Zoom",14,null
+Zoom,Add video conferencing and meeting notes to new Google Calendar events,"Google, Google Calendar, Zoom",22,null
+Any.Run,Analyze suspicious files with Any.run,Any.Run,15,null
+Any.Run,Analyze suspicious URLs with Any.run,Any.Run,15,null
+Any.Run,Scan a file on Any.run,Any.Run,20,null
+Apex Central,Connect with Trend Micro using Java Web Tokens,Apex Central,9,null
+Apex Central,Retrieve a list of suspicious objects from Trend Micro Apex Central,Apex Central,3,null
+Apex Central,Retrieve a list of Trend Micro Apex Central's managed servers,Apex Central,3,null
+Cribl,Conduct IP address search using Cribl,Cribl,14,Igor Gifrin
+Cribl,Update a lookup file in Cribl,Cribl,12,null
+Cribl,Replay Data with Cribl into Elastic Security and Isolate Hosts Using Elastic Agent,"Cribl, Elastic",20,null
+Cybereason,Isolate Machines in Cybereason from Thinkst Canary Alerts,"Cybereason, Thinkst Canary",24,Shaun Finn
+Cybereason,Retrieve & enrich IOCs across multiple platforms,"Cybereason, Jira Software, PassiveTotal, Recorded Future, Slack",14,null
+Cybereason,Isolate machines based on malicious Cybereason Malops and track in JIRA,"AbuseIPDB, Cybereason, Jira Software",21,null
+Cybersixgill,Submit and analyze IOC with Cybersixgill via Tines Pages,Cybersixgill,12,null
+Cybersixgill,Monitor CVE trends via Cybersixgill and alert on impacted assets in Tenable.io,"Cybersixgill, Slack, Tenable Vulnerability Management",6,null
+Cybersixgill,Create issues in Jira from alerts in Cybersixgill and notify with Slack and email,"Cybersixgill, Jira Software, Slack",4,null
+DataDog,Ingest Tines audit logs into Datadog,"DataDog, Tines",7,Aron Day
+DataDog,Search for IOCs and create incidents in DataDog,"Abuse.ch, DataDog",16,Conor Dunne
+DataDog,Search for IoCs in a network when a MISP attribute is created,"CrowdStrike, DataDog, MISP",15,Conor Dunne
+Devo,Create high severity alerts in Devo SIEM for analysis,Devo,4,null
+Devo,Get host log alerts from Devo SIEM,"Devo, Jira Software, Slack",10,null
+Devo,Send data to Devo SIEM,Devo,2,null
+Google Cloud Storage,Backup Tines stories to Google Cloud Storage,"Google, Google Cloud Storage",24,Michael Tolan
+Google Cloud Storage,Export CrowdStrike detections to Google Cloud Storage as CSV,"CrowdStrike, Google Cloud Storage",6,Michael Tolan
+Google Cloud Storage,Upload a file to Google Cloud Storage,"Google, Google Cloud Storage",7,Michael Tolan
+Harmonic Security,Notify and assign training based on Harmonic Security alerts,"Harmonic Security, Knowbe4, Notion, Slack, Tines",17,Harmonic Security
+Harmonic Security,Coach users to use AI safely with Harmonic Security and Teams,"Harmonic Security, Microsoft Teams",8,null
+Harmonic Security,Coach users to use AI safely with Harmonic Security and Slack,"Harmonic Security, Slack",9,null
+Hunters SOC Platform,Filter Hunters alerts by risk level and create cases via Slack,"Hunters SOC Platform, Jira Software, Slack",8,null
+Hunters SOC Platform,Sync Tines case comments with Hunters leads,"Hunters SOC Platform, Tines",7,null
+Hunters SOC Platform,Disable AWS User from Hunters Alert with Jira prompt,"AWS, Hunters SOC Platform, Jira Software",13,null
+Hybrid Analysis,Lookup IOCs in different tools via Slackbot,"Abuse.ch, AbuseIPDB, Anomali ThreatStream, CrowdStrike, Hunter.io, Hybrid Analysis, MetaDefender, Pulsedive, Slack, URLScan.io, VirusTotal",66,Emily Nguyen
+Hybrid Analysis,Analyze a file in Hybrid Analysis,Hybrid Analysis,32,Martin Moroney
+Hybrid Analysis,"Analyze, document and triage suspicious emails with Tines cases and records","AlienVault OTX, Anomali ThreatStream, CrowdStrike, Hybrid Analysis, NextDNS, PassiveTotal, VirusTotal",113,Rosie Halpin
+Jira Service Management,Manage Qualys vulnerabilities using Jira Service Management and Slack,"Jamf Pro, Jira Service Management, Qualys, Slack, Tines",81,Caleb Williams
+Jira Service Management,"Synchronize MFA group memberships in Okta, Duo & Jira","Duo Security, Jira Service Management, Okta",62,Caleb Williams
+Jira Service Management,Send assets to Asset Register in Jira Service Management,Jira Service Management,47,Sid Pillarisetty
+Linear,Create Linear issues from Slack message reactions,"Linear, Slack",13,Tines
+Linear,Create a task in Linear,Linear,5,Michael Tolan
+Linear,Get teams in Linear,Linear,9,Michael Tolan
+LogScale,Enrich FalconLogScale (Humio) events with ChatGPT,"CrowdStrike, LogScale, OpenAI",3,@ionstorm
+LogScale,Query Falcon Logscale from Slack,"LogScale, Slack",12,Michael Tolan
+LogScale,Send Google Workspace security logs to LogScale,"Google, LogScale",6,null
+OctoPerf,Onboard users to OctoPerf via Slack or Jira,"Jira Software, OctoPerf, Slack",29,null
+OctoPerf,Utilize scenarios in Octoperf and retrieve analysis reports,OctoPerf,44,null
+OctoPerf,Offboarding users to OctoPerf via Pages and Jira,"Jira Software, OctoPerf",27,null
+Opal,Assign New Okta Administrator Role to Okta from BambooHR through Opal,"BambooHR, Jira Software, Okta, Opal",16,null
+Opal,Create custom connectors for Opal using Tines,Opal,43,null
+Opal,Track Opal access requests and create cases in Tines,Opal,34,Conor Dunne
+PassiveTotal,Retrieve & enrich IOCs across multiple platforms,"Cybereason, Jira Software, PassiveTotal, Recorded Future, Slack",14,null
+PassiveTotal,Retrieve domain information with RiskIQ PassiveTotal,PassiveTotal,20,null
+PassiveTotal,"Analyze, document and triage suspicious emails with Tines cases and records","AlienVault OTX, Anomali ThreatStream, CrowdStrike, Hybrid Analysis, NextDNS, PassiveTotal, VirusTotal",113,Rosie Halpin
+Proofpoint,Investigate Phishing emails with Proofpoint CLEAR and Tines,"Proofpoint, URLScan.io, VirusTotal",86,John Vasanth
+Proofpoint,Retrieve Proofpoint events and log issues in Jira,"EmailRep, Jira Software, Proofpoint, URLScan.io, VirusTotal",11,Michael Tolan
+Proofpoint,Enrich clicked URLs from Proofpoint and block with Zscaler,"AbuseIPDB, Jira Software, Proofpoint, URLScan.io, Zscaler",13,Michael Tolan
+QuickChart,Create a survey with charts using Pages,QuickChart,8,null
+QuickChart,Display data using Quickchart,QuickChart,3,Michael Tolan
+QuickChart,Get reservation information and statistics for a local gym,"Airtable, QuickChart, Telegram",13,Marti B
+runZero,Sync assets between Kandji and runZero while updating ownership,"Kandji, runZero",18,null
+runZero,Check Thinkst Canary alerts in GreyNoise and record in runZero,"GreyNoise, runZero, Thinkst Canary",7,Justin Varner
+runZero,Build a software report in runZero enriched with software end of life dates,"Google, runZero",11,Conor Dunne
+Traceable.ai,API Inventory Dashboard with Traceable,Traceable.ai,27,Nandita Joshi
+Traceable.ai,Real-Time API Threat Detection and Mitigation with Traceable.ai and AWS WAF,"AWS, Tines, Traceable.ai",14,null
+Traceable.ai,Add open spec files from Traceable to a GitHub repository,"GitHub, Traceable.ai",15,null
+Twilio,Send a text with Twilio,Twilio,5,null
+Twilio,Send SMS with Twilio if assigned to a Case in Tines,"Microsoft, Tines, Twilio",15,Michael Tolan
+Twilio,Escalate cases to emergency resources with Twilio,"Tines, Twilio",29,Michael Tolan
+VulnCheck,Check updated CVEs for exploitation using VulnCheck and GreyNoise,"GreyNoise, VulnCheck",11,null
+VulnCheck,Search Axonius for devices and enrich with VulnCheck,"Axonius, VulnCheck",48,Michael Tolan
+VulnCheck,Monitor VulnCheck KEV and alert on impacted assets in Tenable.io,"Slack, Tenable Vulnerability Management, VulnCheck",6,null
+X,Analyze queried tweets based on keywords,X,29,null
+X,Format and post long messages as a single thread on X,X,12,Michael Tolan
+X,Get service status updates and post to X,X,5,Michael Tolan
+AlienVault OTX,Analyze file in AlienVault OTX,AlienVault OTX,30,Troy Wegner
+AlienVault OTX,"Analyze, document and triage suspicious emails with Tines cases and records","AlienVault OTX, Anomali ThreatStream, CrowdStrike, Hybrid Analysis, NextDNS, PassiveTotal, VirusTotal",113,Rosie Halpin
+Amazon GuardDuty,Check if new AWS GuardDuty findings are malicious,"Amazon GuardDuty, AWS, Jira Software, URLScan.io",27,null
+Amazon GuardDuty,Track AWS GuardDuty alerts in Jira and remediate,"Amazon GuardDuty, AWS, Jira Software",18,null
+Analyst1,Use Analyst1 threat intelligence in Sublime Security,"Analyst1, Sublime Security",39,null
+Analyst1,"Gather & enrich evidence between Analyst1, Sublime Security, and Drata","Analyst1, Drata, Sublime Security",48,null
+Anecdotes.ai,Find & remediate public AWS S3 bucket access with Anecdotes,"Anecdotes.ai, AWS",16,null
+Anecdotes.ai,Receive alerts from Anecdotes.ai and create a ticket,"Anecdotes.ai, OpenAI",11,null
+Browserless,Interact with a site with Browserless,Browserless,23,Michael Tolan
+Browserless,Scrape CVE information using Browserless and send an email to users,Browserless,9,Michael Tolan
+ConductorOne,Review tasks in ConductorOne for inactive approvers and alert in Microsoft Teams,"ConductorOne, Microsoft Teams",10,Michael Tolan
+ConductorOne,Review tasks in ConductorOne for inactive approvers and alert in Slack,"ConductorOne, Slack",9,Michael Tolan
+CyberArk,Manage CyberArk access requests using Slack,"CyberArk, Jira Software, Slack",23,Conor Dunne
+CyberArk,Get Cyberark Safes and Members,CyberArk,12,Nick Page
+Cyera,Detect and Block Bucket Public Access Policy with Cyera.io and AWS,"AWS, Cyera, Jira Software",11,null
+Cyera,Retrieve and remediate Cyera issues,"Cyera, Microsoft, Microsoft Azure, Microsoft OneDrive",45,Monolithic Power Systems
+DelivrTo,Create campaigns on new delivr.to payloads and report results,DelivrTo,20,null
+DelivrTo,"Receive, distribute, and report delivr.to payload notifications",DelivrTo,20,null
+Have I Been Pwned,Bulk search Have I Been Pwned,Have I Been Pwned,16,Michael Tolan
+Have I Been Pwned,Analyze an email address in multiple services,"EmailRep, Have I Been Pwned",4,Michael Tolan
+HiBob,Offboard employees using HiBob,"Google, HiBob, Okta, Slack",18,null
+HiBob,Update employee probation status with HiBob & Slack,"HiBob, Slack",11,null
+ID.me,Add ID.me contacts to SalesForce,"ID.me, Salesforce",4,null
+ID.me,Track ID.me responses with Google Sheets,"Google Sheets, ID.me",3,null
+Infoblox,Reserve IPs for new hosts in Infoblox NIOS,Infoblox,13,Sif Baksh
+Infoblox,Add external IOCs to custom list in Infoblox ThreatDefense,Infoblox,21,Sif Baksh
+Intezer Analyze,Analyze malware with Intezer using pages,Intezer Analyze,10,Conor Dunne
+Intezer Analyze,Process CrowdStrike detections with Intezer,"CrowdStrike, Intezer Analyze, Jira Software, Slack",22,Aaron Sandow
+IOC Parser,Submit and analyze PDF for IOCs with Tines,"IOC Parser, Tines",14,Michael Tolan
+IOC Parser,Extract IOC's from a PDF with PDF.co and IOCParser,"IOC Parser, PDFCo",19,Michael Tolan
+IPQualityScore,Investigate and remediate multiple denied MFA push requests in Okta,"IPQualityScore, Microsoft Teams, Okta, Tines, VirusTotal",31,Claudia Kinsella
+IPQualityScore,Get IP address information,"APIVoid, IPQualityScore",9,Michael Tolan
+Jumpcloud,Check Workday for unauthorized travel and alert in Slack,"Elastic, Jumpcloud, OpsGenie, Slack, Workday",34,Muhammet Tekbicak
+Jumpcloud,Lock a device in JumpCloud,"Jumpcloud, Slack",35,Nicolas Oropel
+Logz.io,Manage Logz.io SIEM Alerts,"Jira Software, Logz.io",5,null
+Logz.io,Retrieve & enrich Okta alerts from Logz.io,"Logz.io, Okta, Slack",27,null
+Lumos,Review apps in Lumos for inactive approvers and notify Slack,"Lumos, Slack",12,Michael Tolan
+Lumos,Search for AppStore apps with no approvers in Lumos and alert in Microsoft Teams,"Lumos, Microsoft Teams",6,Michael Tolan
+Malware Traffic Analysis,Pull IOCs from Malware Traffic Analysis,Malware Traffic Analysis,14,null
+Malware Traffic Analysis,Pull & add IOCs from Malware Traffic Analysis to Drata controls,"Drata, Malware Traffic Analysis",13,null
+Manage Engine,Correlate Rapid7 vulnerability data across various tools and report in Jira,"Jira Software, Manage Engine, Orca Security, Rapid7",125,Emily Nguyen
+Manage Engine,Update vulnerable hosts using ManageEngine Endpoint Central and Fleet,"Fleet, Manage Engine",14,Conor Dunne
+Meta,Send automated responses in Messenger,"Facebook Messenger, Meta",8,Michael Tolan
+Meta,Create posts in Workplace from Meta,"Jira Software, Meta, Workplace",3,Michael Tolan
+Mimecast,Query various Mimecast endpoints,Mimecast,16,null
+Mimecast,Manage held queue messages in Mimecast,"Mimecast, Slack",19,null
+OCRSpace,Analyze SMS messages for scams using OCR and AI,OCRSpace,12,null
+OCRSpace,Analyze potential SMS phishing attacks and raise incidents in Jira,"OCRSpace, OpenAI, PagerDuty",22,Rajesh Kumar
+Palo Alto Networks,Monitor security advisories,"Cisco, Palo Alto Networks",15,null
+Palo Alto Networks,Generate sample security alerts with Tines or Cortex XDR,"CrowdStrike, Palo Alto Networks",10,Conor Dunne
+Phish Report,"Investigate a URL with URLScan, create a ticket in Jira and take action","AbuseIPDB, CrowdStrike, Jira Software, NextDNS, Phish Report, URLScan.io",41,null
+Phish Report,Create a takedown case in Phish Report,Phish Report,8,Michael Tolan
+Power BI,"Extract CSV attachment from email, update OneDrive and refresh Power BI","Microsoft OneDrive, Power BI",6,Michael Tolan
+Power BI,Backup Power BI reports to GitHub,"GitHub, Power BI",24,Michael Tolan
+Rapid7,Correlate Rapid7 vulnerability data across various tools and report in Jira,"Jira Software, Manage Engine, Orca Security, Rapid7",125,Emily Nguyen
+Rapid7,Search for vulnerable or malicious dependencies across services,"Artifactory, GitLab, Microsoft Azure, Orca Security, Rapid7, Sonatype",113,Emily Nguyen
+Reco,Respond to publicly exposed files in Google Drive with Reco,"Google, Reco",30,null
+Reco,Respond to Google Drive public exposure alerts in Reco and secure files,"Google, Google Drive, Reco, Slack",46,null
+Reversing Labs,Query Spectra Intelligence for existing classification of inputted Hash,Reversing Labs,9,null
+Reversing Labs,Query Spectra Intelligence for URL reputation,Reversing Labs,16,null
+Security Scorecard,Generate SecurityScorecard issue report and create Jira tickets for new issues,"Jira Software, Security Scorecard",9,Conor Dunne
+Security Scorecard,Fetch vulnerabilities in SecurityScorecard and add to Drata,"Drata, Security Scorecard",23,null
+SonarCloud,Retrieve vulnerabilities from SonarCloud and suggest code fixes in GitHub,"GitHub, OpenAI, SonarCloud",13,Conor Dunne
+SonarCloud,Onboard GitHub projects to SonarCloud and Airtable,"Airtable, GitHub, SonarCloud",36,Tyler Talaga
+Tailscale,Receive a Request for Device Approval into Tailscale and Check Axonius,"Axonius, Slack, Tailscale",17,null
+Tailscale,Monitor and manage Tailscale device enrollments via Slack,"Slack, Tailscale",6,Conor Dunne
+Veza,Find & remediate public AWS S3 buckets with Veza and add evidence to Drata controls,"AWS, Drata, Jira Software, Veza",20,null
+Veza,Search for & remediate public AWS S3 buckets with Veza,"AWS, Jira Software, Veza",13,null
+1Password,Create credentials that reference 1Password vaults,1Password,24,null
+AdGuard,Retrieve blocked DNS queries from AdGuard and enrich with VirusTotal and LimaCharlie,"AdGuard, LimaCharlie, VirusTotal",15,Conor Dunne
+Aikido,Manage Aikido vulnerabilities with Tines cases and records,Aikido,38,Troy Wegner
+Akamai,Authenticate and execute various actions in Akamai,Akamai,14,null
+alphaMountain,Search alphaMountain for URL threat intelligence via Slack,"alphaMountain, Slack",11,Michael Tolan
+Aqua Security,Investigate & remediate critical container vulnerabilities in Aqua Security Cloud Workload Protection Platform,"Aqua Security, Jira Software",24,null
+Argo Workflows,Manage Elasticsearch and GKE clusters via Slack bot,"Argo Workflows, Google, Kubernetes",41,Christopher Cutajar
+Armis,Add alert evidence from Armis to Drata controls,"Armis, Drata",8,null
+Artifactory,Search for vulnerable or malicious dependencies across services,"Artifactory, GitLab, Microsoft Azure, Orca Security, Rapid7, Sonatype",113,Emily Nguyen
+Astrix,Analyze Astrix alerts with AI and post to Notion,"Astrix, Notion",6,Alon Berger
+Automox,Fetch and record CrowdStrike Spotlight vulnerabilities with Jira,"Automox, CrowdStrike, Jira Software",26,null
+BMC Helix IT Service Management,Log Axonius users without an Okta connection with BMC Remedy,"Axonius, BMC Helix IT Service Management, Okta",5,null
+Bolster AI,Check URL in CheckPhish,"Bolster AI, CheckPhish.ai",7,null
+Bowtie,Sync on-call engineers from PagerDuty to Bowtie access groups,"Bowtie, PagerDuty",16,Michael Tolan
+BuildKite,Delete Buildkite job logs,"BuildKite, Elastic",19,Christopher Cutajar
+CheckPhish.ai,Check URL in CheckPhish,"Bolster AI, CheckPhish.ai",7,null
+Claroty xDome,Process OT detection alerts in Claroty and document in Jira,"Claroty xDome, Jira Software",11,null
+Cloudflare,Develop and test Cloudflare WAF rules with immediate analysis,Cloudflare,16,Conor Dunne
+Coda,Search for docs in Coda using Slack,"Coda, Slack",9,Conor Dunne
+Cylance,Process & enrich Cylance detections,"Cylance, Slack, VirusTotal, Zendesk",29,null
+Docebo,Register for live classes in Docebo,Docebo,14,null
+DocSpring,Complete PDF forms in DocSpring using Tines pages,DocSpring,23,Conor Dunne
+DocuSign,Provide compliance information after signing an MNDA in Docusign eSignature,"DocuSign, Slack",14,null
+Dremio,Run a SQL Query in Dremio,Dremio,7,null
+Endace,Download PCAP from Endace Probe triggered by intrusion detection,"Elastic, Endace",26,Roberto Cordeiro
+Entro Security,Manage Entro exposure notifications via Slack and Jira,"Entro Security, Jira Software, Slack",13,Yehonatan Tsirolnik
+Expel,Expel Alert to Jira Ticket Automation,"Expel, Jira Software",23,Shasheen Bandodkar
+ExtensionTotal,Analyze VSCode extensions seen by Fleet with ExtensionTotal,"ExtensionTotal, Fleet",7,null
+Extrahop,"Ingest, enrich, and remediate ExtraHop alerts and block suspicious URLs with Zscaler","AbuseIPDB, Extrahop, Microsoft Teams, URLScan.io, VirusTotal, Zscaler",15,null
+Facebook Messenger,Send automated responses in Messenger,"Facebook Messenger, Meta",8,Michael Tolan
+FireBase,Record IoCs in Google FireBase,"FireBase, Google",13,Conor Dunne
+Grafana,Ingest Tines audit logs into Grafana Loki,"Grafana, Tines",8,Aron Day
+Grip Security,Trigger offboarding in Grip Security,Grip Security,8,null
+HCL AppScan,Retrieve IBM HCL Appscan results and document in Tines Case Management,HCL AppScan,9,null
+Hunter.io,Lookup IOCs in different tools via Slackbot,"Abuse.ch, AbuseIPDB, Anomali ThreatStream, CrowdStrike, Hunter.io, Hybrid Analysis, MetaDefender, Pulsedive, Slack, URLScan.io, VirusTotal",66,Emily Nguyen
+Invary,Monitor Invary appraisals and isolate threats with Elastic Fleet,"Elastic, Invary",11,null
+IRIS,"Process CrowdStrike detections, check hashes in VirusTotal, and create tickets in IRIS","CrowdStrike, IRIS, VirusTotal",16,Michael Tolan
+IriusRisk,Sync IriusRisk projects with GitHub Terraform repositories,"GitHub, IriusRisk, Slack",21,Conor Dunne
+Island,Manage access to web pages with Island browser,"Island, VirusTotal",21,Conor Dunne
+Kolide,Handle Kolide exemption requests via Slack,"Kolide, Slack",22,Scott Bean
+Lansweeper,Lookup devices in Lansweeper using a Slack command,"Lansweeper, Slack",10,Conor Dunne
+LinkedIn,Fetch recent cybersecurity news and post to LinkedIn,"LinkedIn, OpenAI",6,null
+Malwarebytes,Add Malwarebytes policy evidence to Drata controls,"Drata, Malwarebytes",6,null
+Mattermost,Respond to Okta alerts with Mattermost & Jira,"Jira Software, Mattermost, Okta",20,null
+MetaDefender,Lookup IOCs in different tools via Slackbot,"Abuse.ch, AbuseIPDB, Anomali ThreatStream, CrowdStrike, Hunter.io, Hybrid Analysis, MetaDefender, Pulsedive, Slack, URLScan.io, VirusTotal",66,Emily Nguyen
+MongoDB Atlas,Record CVE findings from Wiz in MongoDB,"MongoDB Atlas, Wiz",10,null
+NetBox,Search NetBox for device info using Slack,"NetBox, Slack",26,Michael Tolan
+Netsuite,Create a Netsuite sales order for a won Salesforce opportunity,"Netsuite, Salesforce",16,Peter Coleman
+New Relic,"Receive New Relic alerts, create Tines cases, and restart AWS instances","AWS, New Relic",12,null
+Nightfall AI,Monitor Intercom for sensitive content with Nightfall and record in Tines,"Intercom, Nightfall AI, Tines",7,Conor Dunne
+NPM,Get NPM package files from GitHub and check for vulnerabilities,"GitHub, NPM, Shortcut",42,Conor Dunne
+NVIDIA,Create VirusTotal domain reputation summaries using NVIDIA AI,"NVIDIA, Slack, VirusTotal",18,Conor Dunne
+OneLogin,Crowdsource suspicious logins and suspend accounts,"GreyNoise, Jira Software, OneLogin, PagerDuty, Slack",16,null
+Opencage,Create a Panic Button for users,"Opencage, Slack",8,Francesco Pergola
+OpenCTI,Enrich OpenCTI malware analysis with VirusTotal observables,"OpenCTI, VirusTotal",21,Conor Dunne
+Openrouter,Compare prompts across LLMs in Openrouter using Tines Pages,Openrouter,16,Michael Tolan
+PDFCo,Extract IOC's from a PDF with PDF.co and IOCParser,"IOC Parser, PDFCo",19,Michael Tolan
+Pinecone,Process and search documents in Pinecone with Tines,Pinecone,31,Michael Tolan
+Pushover,Monitor web services for availability via Pushover,Pushover,6,null
+Quickbase,Track Intercom conversations in Quickbase,"Intercom, Quickbase",7,null
+RAWG,Game Picker - a mini web app for choosing a game to play,RAWG,153,Jarrin Sacayanan
+RegScale,RegScale evidence collection for external evidence managers,RegScale,11,Chris Knoblauch
+Semgrep,Create issues in GitHub and Jira from findings in Semgrep,"GitHub, Jira Software, Semgrep",20,Conor Dunne
+SerpApi,Track Google search trends using SerpApi and save to OneDrive,"Google, Microsoft, Microsoft OneDrive, SerpApi",10,Michael Tolan
+Shortcut,Get NPM package files from GitHub and check for vulnerabilities,"GitHub, NPM, Shortcut",42,Conor Dunne
+Silent Push,Monitor and analyze domain's digital footprint with Silent Push,Silent Push,10,Jonathan Peyster
+Smartsheet,Record and update affected Windows CrowdStrike host status using Smartsheet,"CrowdStrike, Smartsheet",18,Taylor Rainwater
+Sonatype,Search for vulnerable or malicious dependencies across services,"Artifactory, GitLab, Microsoft Azure, Orca Security, Rapid7, Sonatype",113,Emily Nguyen
+Sophos,Reduce manually blocked items from Sophos Central in favor of auto-blocking,"Jira Software, Sophos",38,Nate Adams
+Spur,Scan Okta logins with Spur for proxies and VPNs and raise a case in Tines,"Okta, Spur, Tines",20,Michael Tolan
+SSLMate,Monitor TLS certificates for a domain with SSLMate,"Slack, SSLMate",25,Conor Dunne
+Stability AI,Generate images from text using Stability AI,Stability AI,4,null
+Stairwell,Enrich SentinelOne alerts with Stairwell Inception,"SentinelOne, Stairwell",19,null
+Statuspage,Raise incidents in Atlassian Statuspage,"Slack, Statuspage",16,null
+Supabase,Capture Tines events in Supabase,Supabase,17,Conor Dunne
+Tanium,Monitor and patch Tanium machines via Tines,"Tanium, Tines",31,null
+Telegram,Get reservation information and statistics for a local gym,"Airtable, QuickChart, Telegram",13,Marti B
+TurboDocx,Convert a Tines case to a Microsoft Word document with TurboDocX,"Microsoft, TurboDocx",13,Aaron Sandow
+Velociraptor,Manage Velociraptor artifact collection via Slack,"LimaCharlie, Slack, Velociraptor",9,Conor Dunne
+VeSync,Turn on Christmas lights with VeSync and celebrate with Spotify,"Spotify, VeSync",11,null
+VMRay,Analyze files with VMRay,"Microsoft, Microsoft Teams, Slack, VMRay",31,null
+Vorlon,Manage alerts from Vorlon with Tines cases and records,"VirusTotal, Vorlon",38,Anil
+Wazuh,Retrieve logs from the Wazuh Indexer,"Elastic, Wazuh",8,Conor Dunne
+Webex,"Extract, analyze, & enrich IPs from a WebEx chatbot","Cisco, Webex",7,null
+Webhood,Scan suspicious links in emails with Webhood,Webhood,10,Markus Lehtonen
+Workday,Check Workday for unauthorized travel and alert in Slack,"Elastic, Jumpcloud, OpsGenie, Slack, Workday",34,Muhammet Tekbicak
+Workplace,Create posts in Workplace from Meta,"Jira Software, Meta, Workplace",3,Michael Tolan
+Yubico,Validate a one-time Yubikey password,Yubico,19,Nate Adams
